@@ -1,4 +1,4 @@
 "Key"	"English"	"Japanese"	"French"	"Spanish"	"German"	"Italian"
 "catch_a_pokemon_short_title"	"Catch a Pokémon"	"ポケモンをゲットせよ"	"Attraper un Pokémon"	"¡Captura un Pokémon!"	"Fange ein Pokémon!"	"Catturare un Pokémon"
-"visit_a_pokestop_short_title"	"Check out a PokéStop"	"ポケストップをめざせ"	"Visiter un PokéStop"	"¡Visita una Poképarada!"	"Besuche einen PokéStop!"	"Visitare un Pokéstop"
+"visit_a_pokestop_short_title"	"Check out a PokéStop"	"ポケストップをめざせ"	"Visiter un PokéStop"	"¡Visita una Poképarada!"	"Besuche einen PokéStop!"	"Visita un Pokéstop"
 "Have a nice weekend!"	"Test_2"	"Test_3"	"Test_2"	"Test_2"	"Test_2"	"Test_2"	""	""
