@@ -1,3 +1,3 @@
-Key	English	Notes	Japanese	French	Spanish	German	Italian	TPCi
-catch_a_pokemon_short_title	Catch a Pokémon	task assigned to the user after the 'first_time_encounter' conversation	ポケモンをゲットせよ	Attraper un Pokémon	¡Captura un Pokémon!	Fange ein Pokémon!	Catturare un Pokémon	
-visit_a_pokestop_short_title	Check out a PokéStop	task assigned to the user after the 'visit_pokestop' conversation	ポケストップをめざせ	Visiter un PokéStop	¡Visita una Poképarada!	Besuche einen PokéStop!	Visitare un Pokéstop	
+"Key"	"English"	"Japanese"	"French"	"Spanish"	"German"	"Italian"
+"catch_a_pokemon_short_title"	"Catch a Pokémon"	"ポケモンをゲットせよ"	"Attraper un Pokémon"	"¡Captura un Pokémon!"	"Fange ein Pokémon!"	"Catturare un Pokémon"
+"visit_a_pokestop_short_title"	"Check out a PokéStop"	"ポケストップをめざせ"	"Visiter un PokéStop"	"¡Visita una Poképarada!"	"Besuche einen PokéStop!"	"Visitare un Pokéstop"
