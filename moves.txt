@@ -1,341 +1,359 @@
-Key	English	Japanese	Comment
-move_desc_0001	A jolt of electricity crashes down on the target to inflict damage.	電気の刺激を相手に浴びせて攻撃する。まひ状態にすることがある。	
-move_desc_0002	The user lunges at the target at a speed that makes it almost invisible.	目にも留まらぬものすごい速さで相手につっこむ。必ず先制攻撃できる。	
-move_desc_0003	Hard, pointed, sharp claws rake the target to inflict damage.	硬くとがった鋭いツメで相手をひっかいて攻撃する。	
-move_desc_0004	The target is attacked with small flames.	小さな炎を相手に発射して攻撃する。やけど状態にすることがある。	
-move_desc_0005	The target is struck with slender, whiplike vines to inflict damage.	ムチのようにしなる細長いつるで相手をたたきつけて攻撃する。	
-move_desc_0006	A physical attack in which the user charges and slams into the target with its whole body.	相手にむかって全身でぶつかっていき攻撃する。	
-move_desc_0007	Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.	はっぱをとばして相手を切りつけて攻撃する。急所に当たりやすい。	
-move_desc_0008	A reckless, full-body charge attack for slamming into the target.	すごい勢いで相手にぶつかって攻撃する。自分も少しダメージを受ける。	
-move_desc_0009	The target is blasted with a forceful shot of water.	水を勢いよく相手に発射して攻撃する。	
-move_desc_0010	The target is bitten with viciously sharp fangs.	鋭くとがった歯でかみついて攻撃する。相手をひるませることがある。	
-move_desc_0011	The target is physically pounded with a long tail, a foreleg, or the like.	長いしっぽや手などを使って相手をはたいて攻撃する。	
-move_desc_0012	The target is slapped repeatedly, back and forth.	おうふくビンタで相手をたたいて攻撃する。２ー５回のあいだ連続でだす。	
-move_desc_0013	A long body or vines are used to wrap and squeeze the target	長い体やつるなどをつかって４ー５ターンのあいだ相手にまきついて攻撃する。	
-move_desc_0014	The target is attacked with a powerful beam.	強い光線を相手に発射して攻撃する。次のターンは動けなくなる。	
-move_desc_0015	The target is licked with a long tongue, causing damage.	長い舌で相手をなめまわして攻撃する。まひ状態にすることがある。	
-move_desc_0016	The user releases a horrible aura imbued with dark thoughts.	体から悪意にみちた恐ろしいオーラを発する。相手をひるませることがある。	
-move_desc_0017	The target is attacked with a discharge of filthy gases	汚れたガスを相手に吹きつけて攻撃する。毒状態にすることがある。	
-move_desc_0018	Unsanitary sludge is hurled at the target.	汚いヘドロを相手に投げつけて攻撃する。毒状態にすることがある。	
-move_desc_0019	The target is raked with steel claws.	鋼鉄のツメで相手を切り裂いて攻撃する。自分の攻撃があがることがある。	
-move_desc_0020	The target is gripped and squeezed from both sides to inflict damage.	相手を両側からはさんでダメージをあたえる。	
-move_desc_0021	The user cloaks itself in fire and charges at the target.	炎をまとい相手に突進して攻撃する。やけど状態にすることがある。	
-move_desc_0022	Using its tough and impressive horn, the user rams into the target with no letup.	硬くてりっぱなつのでおもいっきり相手を突き刺して攻撃する。	
-move_desc_0023	The target is struck with large, imposing wings spread wide to inflict damage.	大きくひろげたりっぱな翼を相手にぶつけて攻撃する。	
-move_desc_0024	The target is scorched with an intense blast of fire.	激しい炎を相手に発射して攻撃する。やけど状態にすることがある。	
-move_desc_0025	This move enables the user to attack quickly.	相手より先に攻撃できる。相手がだす技が攻撃技でないと失敗する。	
-move_desc_0026	The user burrows, then attacks.	１ターン目に潜り２ターン目で相手を攻撃する。洞窟からの脱出もできる。	
-move_desc_0027	A powerful low kick that makes the target fall over.	足を強くけり相手を転ばせて攻撃する。相手が重いほど威力があがる。	
-move_desc_0028	The user delivers a double chop with its forearms crossed. Critical hits land more easily.	両手チョップを相手にたたきつけて攻撃する。急所に当たりやすい。	
-move_desc_0029	The user tears at the target with blades formed by psychic power. Critical hits land more easily.	実体化させた心の刃で相手を切り裂く。急所に当たりやすい。	
-move_desc_0030	The target is attacked with a peculiar ray.	不思議な光線を相手に発射して攻撃する。混乱させることがある。	
-move_desc_0031	The user sets off an earthquake that strikes every Pokémon around it.	地震の衝撃で自分の周りにいるものを攻撃する。	
-move_desc_0032	The user stabs the target with sharpened stones from below. Critical hits land more easily.	とがった岩を相手に突き刺して攻撃する。急所に当たりやすい。	
-move_desc_0033	The target is punched with an icy fist.	冷気をこめたパンチで相手を攻撃する。こおり状態にすることがある。	
-move_desc_0034	The user unleashes a vicious blow after its cute act makes the target less wary.	かわいいしぐさで油断させて強烈な一撃を浴びせる。相手をひるませることがある。	
-move_desc_0035	The user strikes everything around it by letting loose a flare of electricity.	まばゆい電撃で自分の周りにいるものを攻撃する。まひ状態にすることがある。	
-move_desc_0036	The user gathers all its light energy and releases it at once.	体の光を一点に集めて力を放つ。相手の特防をさげることがある。	
-move_desc_0037	The target is jabbed with a sharply pointed beak or horn.	鋭くとがったくちばしやつので相手を突いて攻撃する。	
-move_desc_0038	A corkscrewing attack with a sharp beak acting as a drill.	回転しながらとがったくちばしを相手に突き刺して攻撃する。	
-move_desc_0039	The target is struck with an icy-cold beam of energy.	凍えるビームを相手に発射して攻撃する。こおり状態にすることがある。	
-move_desc_0040	A howling blizzard is summoned to strike opposing Pokémon.	激しい吹雪を相手に吹きつけて攻撃する。こおり状態にすることがある。	
-move_desc_0041	The user attacks with a blade of air that slices even the sky.	空をも切り裂く空気の刃で攻撃する。相手をひるませることがある。	
-move_desc_0042	The user attacks by exhaling hot breath on the opposing Pokémon	熱い息を相手に吹きつけて攻撃する。やけど状態にすることがある。	
-move_desc_0043	The user damages the target twice in succession by jabbing it with two spikes.	２本のハリを相手に突き刺し２回連続でダメージ。毒状態にすることがある。	
-move_desc_0044	The target is stabbed with a tentacle or arm steeped in poison.	毒にそまった触手や腕で相手を突き刺す。毒状態にすることがある。	
-move_desc_0045	The user confounds the target with speed, then slashes.	素早い動きで相手をほんろうして切りつける。攻撃は必ず命中する。	
-move_desc_0046	The user crashes into its target while rotating its body like a drill. Critical hits land more easily.	ドリルのように体を回転しながら相手に体当たりする。急所に当たりやすい。	
-move_desc_0047	The user stirs up a violent petal blizzard and attacks everything around it.	激しい花吹雪を起こし周りにいるものに攻撃してダメージを与える。	
-move_desc_0048	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.	養分を吸い取り攻撃する。相手に与えたダメージの半分のＨＰを回復できる。	
-move_desc_0049	The user vibrates its wings to generate a damaging sound wave.	はねの振動で音波をおこして攻撃する。相手の特防をさげることがある。	
-move_desc_0050	The user bites the target with toxic fangs.	毒のあるキバで相手にかみついて攻撃する。猛毒をおわせることがある。	
-move_desc_0051	The user slashes the target the instant an opportunity arises. Critical hits land more easily.	一瞬のすきをついて相手を切りはらう。急所に当たりやすい。	
-move_desc_0052	The target is attacked with a slash of claws or blades. Critical hits land more easily.	ツメやカマなどで相手を切り裂いて攻撃する。急所に当たりやすい。	
-move_desc_0053	A spray of bubbles is forcefully ejected at the target.	泡を勢いよく相手に発射して攻撃する。素早さをさげることがある。	
-move_desc_0054	The user grabs the target and recklessly dives for the ground.	地面に自分ごと相手を投げつけて攻撃する。自分も少しダメージを受ける。	
-move_desc_0055	The target is attacked with a sharp chop. Critical hits land more easily.	鋭いチョップで相手をたたいて攻撃する。急所に当たりやすい。	
-move_desc_0056	The user makes a swift attack on the target's legs.	素早い動きで相手の足をねらって攻撃する。相手の素早さをさげる。	
-move_desc_0057	The user lunges at the target at a speed that makes it almost invisible.	目にも留まらぬものすごい速さで相手につっこむ。必ず先制攻撃できる。	
-move_desc_0058	The user attacks by swinging its tail as if it were a vicious wave in a raging storm.	激しくあれくるう荒波のように大きなしっぽをふって相手を攻撃する。	
-move_desc_0059	The user slams a barrage of hard-shelled seeds on the target from above.	硬い殻をもつ大きなタネを上からたたきつけて相手を攻撃する。	
-move_desc_0060	The user materializes an odd psychic wave to attack the target.	不思議な念波を実体化して相手を攻撃する。物理的なダメージを与える。	
-move_desc_0061	The user picks up and throws a small rock at the target to attack.	小さな岩を持ちあげて相手に投げつけて攻撃する。	
-move_desc_0062	The user attacks with a prehistoric power.	原始の力で攻撃する。自分のすべての能力があがることがある。	
-move_desc_0063	Boulders are hurled at the target.  Critical hits land more easily.	岩石を投げつけて攻撃する。相手の動きを封じることで素早さをさげる。	
-move_desc_0064	Large boulders are hurled at the opposing Pokémon to inflict damage.	大きな岩を激しくぶつけて攻撃する。相手をひるませることがある。	
-move_desc_0065	The user attacks with a ray of light that sparkles as if it were made of gemstones.	宝石のようにきらめく光を発射して相手を攻撃する。	
-move_desc_0066	The user extends its shadow and attacks the target from behind.	影をのばして相手の背後から攻撃する。必ず先制攻撃できる。	
-move_desc_0067	The user throws a punch from the shadows.	影にまぎれてパンチをくりだす。攻撃は必ず命中する。	
-move_desc_0068	The user slashes with a sharp claw made from shadows. Critical hits land more easily.	影からつくった鋭いツメで相手を切り裂く。急所に当たりやすい。	
-move_desc_0069	The user blasts the target with a gust of repulsive wind.	みのけもよだつ突風で相手を攻撃する。自分のすべての能力があがることがある。	
-move_desc_0070	The user hurls a shadowy blob at the target.	黒い影の塊を投げつけて攻撃する。相手の特防をさげることがある。	
-move_desc_0071	The user strikes the target with tough punches as fast as bullets.	弾丸のような速くて硬いパンチを相手にくりだす。必ず先制攻撃できる。	
-move_desc_0072	The user launches steel bombs that stick to the target.	相手に吸いつく鋼の爆弾を発射する。攻撃は必ず命中する。	
-move_desc_0073	The target is hit with wings of steel.	硬い翼を相手にたたきつけて攻撃する。自分の防御があがることがある。	
-move_desc_0074	The user slams the target with its steel-hard head	鋼のような硬い頭で攻撃する。相手をひるませることがある。	
-move_desc_0075	The user attacks everything around it.	周りにいるポケモン全員にダメージ。与えたダメージの半分を自分が回復する。	
-move_desc_0076	The user throws an electrically charged tackle at the target.	電気をまとい相手に突進して攻撃する。まひ状態にすることがある。	
-move_desc_0077	The target is punched with an electrified fist.	電撃をこめたパンチで相手を攻撃する。まひ状態にすることがある。	
-move_desc_0078	A wicked thunderbolt is dropped on the target to inflict damage.	激しい雷を相手に落として攻撃する。まひ状態にすることがある。	
-move_desc_0079	A strong electric blast crashes down on the target.	強い電撃を相手に浴びせて攻撃する。まひ状態にすることがある。	
-move_desc_0080	The user whips up a vicious tornado to tear at the opposing Pokémon.	竜巻をおこして相手をまきこみ攻撃する。相手をひるませることがある。	
-move_desc_0081	The user exhales a mighty gust that inflicts damage.	ものすごい息を相手に吹きつけて攻撃する。まひ状態にすることがある。	
-move_desc_0082	The target is attacked with a shock wave generated by the user's gaping mouth.	大きな口から衝撃波をまきおこして相手を攻撃する。	
-move_desc_0083	The user slashes the target with huge, sharp claws.  Critical hits land more easily.	鋭くとがった巨大なツメで相手を切り裂いて攻撃する。	
-move_desc_0084	Letting out a charming cry, the user does emotional damage to opposing Pokémon	魅惑の鳴き声をだして相手に精神的なダメージを与える。攻撃は必ず命中する。	
-move_desc_0085	The user steals the target's energy with a kiss.	キッスによって相手からＨＰを吸い取る。与えたダメージの半分以上ＨＰを回復する。	
-move_desc_0086	The user damages opposing Pokémon by emitting a powerful flash.	強力な光を放ち相手にダメージを与える。	
-move_desc_0087	Borrowing the power of the moon, the user attacks the target.	月のパワーをかりて相手を攻撃する。相手の特攻をさげることがある。	
-move_desc_0088	The user plays rough with the target and attacks it.	相手にじゃれついて攻撃する。相手の攻撃をさげることがある。	
-move_desc_0089	A slashing attack with a poisonous blade. Critical hits land more easily.	毒の刃で相手を切り裂く。毒状態にすることがあり急所にも当たりやすい。	
-move_desc_0090	Unsanitary sludge is hurled at the target.	汚いヘドロを相手に投げつけて攻撃する。毒状態にすることがある。	
-move_desc_0091	The user strikes everything around it by swamping the area with a giant sludge wave.	ヘドロの波で自分の周りにいるものを攻撃する。毒状態にすることがある。	
-move_desc_0092	The user shoots filthy garbage at the target to attack.	汚いゴミを相手にぶつけて攻撃する。毒状態にすることがある。	
-move_desc_0093	The user attacks by hurling a blob of mud at the target.	泥の塊を相手に投げつけて攻撃する。同時に相手の素早さをさげる。	
-move_desc_0094	The user clubs the target with a bone.	手に持ったホネで相手をなぐりつけて攻撃する。相手をひるませることがある。	
-move_desc_0095	The user strikes everything around it by stomping down on the ground.	地面を踏みならして自分の周りにいるものを攻撃する。相手の素早さをさげる。	
-move_desc_0096	The user launches a hard-packed mud ball to attack.	硬い泥の弾を相手に発射して攻撃する。命中率をさげることがある。	
-move_desc_0097	The target is slashed with scythes or claws.	カマやツメなどで相手を切りつけて攻撃する。連続で当てると威力があがる。	
-move_desc_0098	The user bites the target.	かみついて攻撃する。相手がきのみを持っているとき食べてきのみの効果を受けられる。	
-move_desc_0099	The user attacks with a sinister beam of light.	不思議な光を発射して攻撃する。相手を混乱させることがある。	
-move_desc_0100	The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.	カマやツメをハサミのように交差させながら相手を切り裂く。	
-move_desc_0101	Cloaking itself in flame, the user attacks.	炎をまとい相手を攻撃する。力をためて自分の素早さをあげる。	
-move_desc_0102	The user attacks the target with abursting flame. The bursting flame damages Pokémon next to the target as well.	当たるとはじける炎で相手を攻撃する。はじけた炎は隣の相手にもふりかかる。	
-move_desc_0103	The target is attacked with an intense blast of all-consuming fire.	大の字の炎で相手を焼きつくす。やけど状態にすることがある。	
-move_desc_0104	If the target's HP is half or less,this attack will hit with double the power.	相手がＨＰの半分くらいきずをおっていると技の威力が２倍になる。	
-move_desc_0105	The user attacks the target with a pulsing blast of water.	水の振動を相手に与えて攻撃する。相手を混乱させることがある。	
-move_desc_0106	The user shoots boiling hot water at its target.	熱く煮えたぎる水を相手に発射して攻撃する。やけど状態にすることがある。	
-move_desc_0107	The target is blasted by a huge volume of water launched under great pressure.	大量の水を激しい勢いで相手に発射して攻撃する。	
-move_desc_0108	The target is hit by a strong telekinetic force. 	強い念力を相手に送って攻撃する。相手の特防をさげることがある。	
-move_desc_0109	The user materializes an odd psychic wave to attack the target.	不思議な念波を実体化して相手を攻撃する。物理的なダメージを与える。	
-move_desc_0110	The user flash-freezes chunks of ice and hurls them at the target.	氷の塊を一瞬でつくり相手に素早く放つ。必ず先制攻撃できる。	
-move_desc_0111	The user attacks with a gust of chilled air.	凍てつく冷気を相手に吹きつけて攻撃する。相手の素早さをさげる。	
-move_desc_0112	The user blows its cold breath on the target.  Critical hits land more easily.	冷たい息を相手に吹きつけて攻撃する。必ず急所に当たる。	
-move_desc_0113	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.	養分を吸い取り攻撃する。相手に与えたダメージの半分のＨＰを回復できる。	
-move_desc_0114	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.	養分を吸い取り攻撃する。与えたダメージの半分のＨＰを回復できる。	
-move_desc_0115	The target is punched with a fiery fist.	炎をこめたパンチで相手を攻撃する。やけど状態にすることがある。	
-move_desc_0116	The user gathers light, then blasts a bundled beam at the target.	１ターン目に光をいっぱいに集め２ターン目に光の束を発射して攻撃する。	
-move_desc_0117	The user handles a sharp leaf like as word and attacks by cutting its target. Critical hits land more easily.	はっぱを剣のようにあやつり相手を切りつけて攻撃する。急所に当たりやすい。	
-move_desc_0118	The user violently whirls its vines or tentacles to harshly lash the target.	ツタや触手を激しくふるって相手をたたきつけ攻撃する。	
-move_desc_0119	The user just flops and splashes around to no effect at all...	攻撃もせずにピョンピョンと跳ねるだけでなにもおこらない……。	
-move_desc_0120	The opposing Pokémon are attackedwith a spray of harsh acid.	強い酸を相手にかけて攻撃する。相手の特防をさげることがある。	
-move_desc_0121	The user launches razor-like wind to slash the opposing Pokémon. Critical hits land more easily.	鋭い風で相手を切りつけて攻撃する。急所に当たりやすい。	
-move_desc_0122	The user attacks by wrapping its opponent in a fierce wind that flies up into the sky.	強烈な風で相手を包みこんで攻撃する。相手を混乱させることがある。	
-move_desc_0123	The user attacks with a swift chop.	手刀を勢いよく振りおろして相手を攻撃する。ひかりのかべやリフレクターも破壊できる。	
-move_desc_0124	The target is cut with a scythe or claw.	カマやツメなどで相手を切りつけて攻撃する。細い木も切ることができる。	
-move_desc_0125	Star-shaped rays are shot at the opposing Pokémon. This attack never misses.	星型の光を発射して相手を攻撃する。攻撃は必ず命中する。	
-move_desc_0126	The target is jabbed with a sharply pointed horn to inflict damage.	鋭くとがったつので相手を攻撃する。	
-move_desc_0127	The target is stomped with a big foot.	大きな足で相手を踏みつけて攻撃する。相手をひるませることがある。	
-move_desc_0128	The user sticks out its head and attacks by charging straight into the target.	頭を突きだしてまっすぐつっこんで攻撃する。相手をひるませることがある。	
-move_desc_0129	The user bites hard on the target with its sharp front fangs.	鋭い前歯で強くかみついて攻撃する。相手をひるませることがある。	
-move_desc_0130	The target is slammed with a long tail, vines, or the like to inflict damage.	長いしっぽやつるなどを使い相手をたたきつけて攻撃する。	
-move_desc_0131	The user drops onto the target with its full body weight.	全身で相手にのしかかり攻撃する。まひ状態にすることがある。	
-move_desc_0132	The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions.	２ターンのあいだ眠り続ける。自分のＨＰと状態異常をすべて回復する。	
-move_desc_0133	An attack made out of desperation.	自分のＰＰがなくなるとあがいて相手を攻撃する。自分も少しダメージを受ける。	
-move_desc_0134	The user shoots boiling hot water at its target.	熱く煮えたぎる水を相手に発射して攻撃する。やけど状態にすることがある。	
-move_desc_0135	The target is blasted by a huge volume of water launched under great pressure.	大量の水を激しい勢いで相手に発射して攻撃する。	
-move_desc_0136	A long body or vines are used to wrap and squeeze the target.	長い体やつるなどをつかって４ー５ターンのあいだ相手にまきついて攻撃する。	
-move_desc_0137	A long body or vines are used to wrap and squeeze the target.	長い体やつるなどをつかって４ー５ターンのあいだ相手にまきついて攻撃する。	
-move_desc_0200	The target is slashed with scythes or claws.	カマやツメなどで相手を切りつけて攻撃する。連続で当てると威力があがる。	
-move_desc_0201	The user bites the target.	かみついて攻撃する。相手がきのみを持っているとき食べてきのみの効果を受けられる。	
-move_desc_0202	The target is bitten with viciously sharp fangs.	鋭くとがった歯でかみついて攻撃する。相手をひるませることがある。	
-move_desc_0203	This move enables the user to attack quickly.	相手より先に攻撃できる。相手がだす技が攻撃技でないと失敗する。	
-move_desc_0204	The user exhales a mighty gust that inflicts damage.	ものすごい息を相手に吹きつけて攻撃する。まひ状態にすることがある。	
-move_desc_0205	A jolt of electricity crashes down on the target to inflict damage.	電気の刺激を相手に浴びせて攻撃する。まひ状態にすることがある。	
-move_desc_0206	The user throws an electrically charged tackle at the target.	電気をまとい相手に突進して攻撃する。まひ状態にすることがある。	
-move_desc_0207	A powerful low kick that makes the target fall over.	足を強くけり相手を転ばせて攻撃する。相手が重いほど威力があがる。	
-move_desc_0208	The target is attacked with a sharp chop. Critical hits land more easily.	鋭いチョップで相手をたたいて攻撃する。急所に当たりやすい。	
-move_desc_0209	The target is attacked with small flames.	小さな炎を相手に発射して攻撃する。やけど状態にすることがある。	
-move_desc_0210	The target is struck with large, imposing wings spread wide to inflict damage.	大きくひろげたりっぱな翼を相手にぶつけて攻撃する。	
-move_desc_0211	The target is jabbed with a sharply pointed beak or horn.	鋭くとがったくちばしやつので相手を突いて攻撃する。	
-move_desc_0212	The target is licked with a long tongue, causing damage.	長い舌で相手をなめまわして攻撃する。まひ状態にすることがある。	
-move_desc_0213	The user slashes with a sharp claw made from shadows. Critical hits land more easily.	影からつくった鋭いツメで相手を切り裂く。急所に当たりやすい。	
-move_desc_0214	The target is struck with slender, whiplike vines to inflict damage.	ムチのようにしなる細長いつるで相手をたたきつけて攻撃する。	
-move_desc_0215	Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.	はっぱをとばして相手を切りつけて攻撃する。急所に当たりやすい。	
-move_desc_0216	The user attacks by hurling a blob of mud at the target.	泥の塊を相手に投げつけて攻撃する。同時に相手の素早さをさげる。	
-move_desc_0217	The user flash-freezes chunks of ice and hurls them at the target.	氷の塊を一瞬でつくり相手に素早く放つ。必ず先制攻撃できる。	
-move_desc_0218	The user blows its cold breath on the target.  Critical hits land more easily.	冷たい息を相手に吹きつけて攻撃する。必ず急所に当たる。	
-move_desc_0219	The user lunges at the target at a speed that makes it almost invisible.	目にも留まらぬものすごい速さで相手につっこむ。必ず先制攻撃できる。	
-move_desc_0220	Hard, pointed, sharp claws rake the target to inflict damage.	硬くとがった鋭いツメで相手をひっかいて攻撃する。	
-move_desc_0221	A physical attack in which the user charges and slams into the target with its whole body.	相手にむかって全身でぶつかっていき攻撃する。	
-move_desc_0222	The target is physically pounded with a long tail, a foreleg, or the like.	長いしっぽや手などを使って相手をはたいて攻撃する。	
-move_desc_0223	The target is cut with a scythe or claw.	カマやツメなどで相手を切りつけて攻撃する。細い木も切ることができる。	
-move_desc_0224	The target is stabbed with a tentacle or arm steeped in poison.	毒にそまった触手や腕で相手を突き刺す。毒状態にすることがある。	
-move_desc_0225	The opposing Pokémon are attackedwith a spray of harsh acid.	強い酸を相手にかけて攻撃する。相手の特防をさげることがある。	
-move_desc_0226	The user tears at the target with blades formed by psychic power. Critical hits land more easily.	実体化させた心の刃で相手を切り裂く。急所に当たりやすい。	
-move_desc_0227	The user picks up and throws a small rock at the target to attack.	小さな岩を持ちあげて相手に投げつけて攻撃する。	
-move_desc_0228	The target is raked with steel claws.	鋼鉄のツメで相手を切り裂いて攻撃する。自分の攻撃があがることがある。	
-move_desc_0229	The user strikes the target with tough punches as fast as bullets.	弾丸のような速くて硬いパンチを相手にくりだす。必ず先制攻撃できる。	
-move_desc_0230	The target is blasted with a forceful shot of water.	水を勢いよく相手に発射して攻撃する。	
-move_desc_0231	The user just flops and splashes around to no effect at all...	攻撃もせずにピョンピョンと跳ねるだけでなにもおこらない……。	
-move_desc_0232	The target is blasted with a forceful shot of water.	水を勢いよく相手に発射して攻撃する。	
-move_name_0001	Thunder Shock	でんきショック	
-move_name_0002	Quick Attack	でんこうせっか	
-move_name_0003	Scratch	ひっかく	
-move_name_0004	Ember	ひのこ	
-move_name_0005	Vine Whip	つるのムチ	
-move_name_0006	Tackle	たいあたり	
-move_name_0007	Razor Leaf	はっぱカッター	
-move_name_0008	Take Down	とっしん	
-move_name_0009	Water Gun	みずでっぽう	
-move_name_0010	Bite	かみつく	
-move_name_0011	Pound	はたく	
-move_name_0012	Double Slap	おうふくビンタ	
-move_name_0013	Wrap	まきつく	
-move_name_0014	Hyper Beam	はかいこうせん	
-move_name_0015	Lick	したでなめる	
-move_name_0016	Dark Pulse	あくのはどう	
-move_name_0017	Smog	スモッグ	
-move_name_0018	Sludge	ヘドロこうげき	
-move_name_0019	Metal Claw	メタルクロー	
-move_name_0020	Vice Grip	はさむ	
-move_name_0021	Flame Wheel	かえんぐるま	
-move_name_0022	Megahorn	メガホーン	
-move_name_0023	Wing Attack	つばさでうつ	
-move_name_0024	Flamethrower	かえんほうしゃ	
-move_name_0025	Sucker Punch	ふいうち	
-move_name_0026	Dig	あなをほる	
-move_name_0027	Low Kick	けたぐり	
-move_name_0028	Cross Chop	クロスチョップ	
-move_name_0029	Psycho Cut	サイコカッター	
-move_name_0030	Psybeam	サイケこうせん	
-move_name_0031	Earthquake	じしん	
-move_name_0032	Stone Edge	ストーンエッジ	
-move_name_0033	Ice Punch	れいとうパンチ	
-move_name_0034	Heart Stamp	ハートスタンプ	
-move_name_0035	Discharge	ほうでん	
-move_name_0036	Flash Cannon	ラスターカノン	
-move_name_0037	Peck	つつく	
-move_name_0038	Drill Peck	ドリルくちばし	
-move_name_0039	Ice Beam	れいとうビーム	
-move_name_0040	Blizzard	ふぶき	
-move_name_0041	Air Slash	エアスラッシュ	
-move_name_0042	Heat Wave	ねっぷう	
-move_name_0043	Twineedle	ダブルニードル	
-move_name_0044	Poison Jab	どくづき	
-move_name_0045	Aerial Ace	つばめがえし	
-move_name_0046	Drill Run	ドリルライナー	
-move_name_0047	Petal Blizzard	はなふぶき	
-move_name_0048	Mega Drain	メガドレイン	
-move_name_0049	Bug Buzz	むしのさざめき	
-move_name_0050	Poison Fang	どくどくのキバ	
-move_name_0051	Night Slash	つじぎり	
-move_name_0052	Slash	きりさく	
-move_name_0053	Bubble Beam	バブルこうせん	
-move_name_0054	Submission	じごくぐるま	
-move_name_0055	Karate Chop	からてチョップ	
-move_name_0056	Low Sweep	ローキック	
-move_name_0057	Aqua Jet	アクアジェット	
-move_name_0058	Aqua Tail	アクアテール	
-move_name_0059	Seed Bomb	タネばくだん	
-move_name_0060	Psyshock	サイコショック	
-move_name_0061	Rock Throw	いわおとし	
-move_name_0062	Ancient Power	げんしのちから	
-move_name_0063	Rock Tomb	がんせきふうじ	
-move_name_0064	Rock Slide	いわなだれ	
-move_name_0065	Power Gem	パワージェム	
-move_name_0066	Shadow Sneak	かげうち	
-move_name_0067	Shadow Punch	シャドーパンチ	
-move_name_0068	Shadow Claw	シャドークロー	
-move_name_0069	Ominous Wind	あやしいかぜ	
-move_name_0070	Shadow Ball	シャドーボール	
-move_name_0071	Bullet Punch	バレットパンチ	
-move_name_0072	Magnet Bomb	マグネットボム	
-move_name_0073	Steel Wing	はがねのつばさ	
-move_name_0074	Iron Head	アイアンヘッド	
-move_name_0075	Parabolic Charge	パラボラチャージ	
-move_name_0076	Spark	スパーク	
-move_name_0077	Thunder Punch	かみなりパンチ	
-move_name_0078	Thunder	かみなり	
-move_name_0079	Thunderbolt	１０まんボルト	
-move_name_0080	Twister	たつまき	
-move_name_0081	Dragon Breath	りゅうのいぶき	
-move_name_0082	Dragon Pulse	りゅうのはどう	
-move_name_0083	Dragon Claw	ドラゴンクロー	
-move_name_0084	Disarming Voice	チャームボイス	
-move_name_0085	Draining Kiss	ドレインキッス	
-move_name_0086	Dazzling Gleam	マジカルシャイン	
-move_name_0087	Moonblast	ムーンフォース	
-move_name_0088	Play Rough	じゃれつく	
-move_name_0089	Cross Poison	クロスポイズン	
-move_name_0090	Sludge Bomb	ヘドロばくだん	
-move_name_0091	Sludge Wave	ヘドロウェーブ	
-move_name_0092	Gunk Shot	ダストシュート	
-move_name_0093	Mud Shot	マッドショット	
-move_name_0094	Bone Club	ホネこんぼう	
-move_name_0095	Bulldoze	じならし	
-move_name_0096	Mud Bomb	どろばくだん	
-move_name_0097	Fury Cutter	れんぞくぎり	
-move_name_0098	Bug Bite	むしくい	
-move_name_0099	Signal Beam	シグナルビーム	
-move_name_0100	X-Scissor	シザークロス	
-move_name_0101	Flame Charge	ニトロチャージ	
-move_name_0102	Flame Burst	はじけるほのお	
-move_name_0103	Fire Blast	だいもんじ	
-move_name_0104	Brine	しおみず	
-move_name_0105	Water Pulse	みずのはどう	
-move_name_0106	Scald	ねっとう	
-move_name_0107	Hydro Pump	ハイドロポンプ	
-move_name_0108	Psychic	サイコキネシス	
-move_name_0109	Psystrike	サイコブレイク	
-move_name_0110	Ice Shard	こおりのつぶて	
-move_name_0111	Icy Wind	こごえるかぜ	
-move_name_0112	Frost Breath	こおりのいぶき	
-move_name_0113	Absorb	すいとる	
-move_name_0114	Giga Drain	ギガドレイン	
-move_name_0115	Fire Punch	ほのおのパンチ	
-move_name_0116	Solar Beam	ソーラービーム	
-move_name_0117	Leaf Blade	リーフブレード	
-move_name_0118	Power Whip	パワーウィップ	
-move_name_0119	Splash	はねる	
-move_name_0120	Acid	ようかいえき	
-move_name_0121	Air Cutter	エアカッター	
-move_name_0122	Hurricane	ぼうふう	
-move_name_0123	Brick Break	かわらわり	
-move_name_0124	Cut	いあいぎり	
-move_name_0125	Swift	スピードスター	
-move_name_0126	Horn Attack	つのでつく	
-move_name_0127	Stomp	ふみつけ	
-move_name_0128	Headbutt	ずつき	
-move_name_0129	Hyper Fang	ひっさつまえば	
-move_name_0130	Slam	たたきつける	
-move_name_0131	Body Slam	のしかかり	
-move_name_0132	Rest	ねむる	
-move_name_0133	Struggle	わるあがき	
-move_name_0134	Scald	ねっとう	Kamex/Blastoise version of Scald.
-move_name_0135	Hydro Pump	ハイドロポンプ	Kamex/Blastoise version of Hydro Pump.
-move_name_0136	Wrap	まきつく	Plant version of Wrap.
-move_name_0137	Wrap	まきつく	Pink version of Wrap.
-move_name_0200	Fury Cutter	れんぞくぎり	
-move_name_0201	Bug Bite	むしくい	
-move_name_0202	Bite	かみつく	
-move_name_0203	Sucker Punch	ふいうち	
-move_name_0204	Dragon Breath	りゅうのいぶき	
-move_name_0205	Thunder Shock	でんきショック	
-move_name_0206	Spark	スパーク	
-move_name_0207	Low Kick	けたぐり	
-move_name_0208	Karate Chop	からてチョップ	
-move_name_0209	Ember	ひのこ	
-move_name_0210	Wing Attack	つばさでうつ	
-move_name_0211	Peck	つつく	
-move_name_0212	Lick	したでなめる	
-move_name_0213	Shadow Claw	シャドークロー	
-move_name_0214	Vine Whip	つるのムチ	
-move_name_0215	Razor Leaf	はっぱカッター	
-move_name_0216	Mud Shot	マッドショット	
-move_name_0217	Ice Shard	こおりのつぶて	
-move_name_0218	Frost Breath	こおりのいぶき	
-move_name_0219	Quick Attack	でんこうせっか	
-move_name_0220	Scratch	ひっかく	
-move_name_0221	Tackle	たいあたり	
-move_name_0222	Pound	はたく	
-move_name_0223	Cut	いあいぎり	
-move_name_0224	Poison Jab	どくづき	
-move_name_0225	Acid	ようかいえき	
-move_name_0226	Psycho Cut	サイコカッター	
-move_name_0227	Rock Throw	いわおとし	
-move_name_0228	Metal Claw	メタルクロー	
-move_name_0229	Bullet Punch	バレットパンチ	
-move_name_0230	Water Gun	みずでっぽう	
-move_name_0231	Splash	はねる	
-move_name_0232	Water Gun	みずでっぽう	Kamex/Blastoise version of Water Gun.
+Key	English	Japanese	French	Spanish	German	Italian	Comment
+move_desc_0001	A jolt of electricity crashes down on the target to inflict damage.	電気の刺激を相手に浴びせて攻撃する。	Une décharge électrique tombe sur l'ennemi. Peut aussi le paralyser.	Ataque eléctrico que puede paralizar al objetivo.	Eine Elektro-Attacke, die das Ziel eventuell paralysiert.	Danneggia il bersaglio con una scarica elettrica che può anche paralizzarlo.	
+move_desc_0002	The user lunges at the target at a speed that makes it almost invisible.	目にも留まらぬものすごい速さで相手につっこむ。	Le lanceur fonce sur l'ennemi si rapidement qu'on parvient à peine à le discerner. Frappe toujours en premier.	Ataque rápido que permite golpear en primer lugar.	Sehr schneller Angriff mit Erstschlaggarantie.	Chi la usa colpisce sempre per primo e a una tale velocità da rendersi quasi invisibile.	
+move_desc_0003	Hard, pointed, sharp claws rake the target to inflict damage.	硬くとがった鋭いツメで相手をひっかいて攻撃する。	Lacère l'ennemi avec des griffes acérées pour lui infliger des dégâts.	Araña con afiladas garras.	Das Ziel wird mit scharfen Klauen zerkratzt.	Infligge danni al bersaglio con artigli acuminati, duri e affilati.	
+move_desc_0004	The target is attacked with small flames.	小さな炎を相手に発射して攻撃する。	L'ennemi est attaqué par une faible flamme. Peut aussi le brûler.	Ataca con llamas pequeñas que pueden causar  quemaduras.	Schwache Feuer-Attacke, durch die das Ziel eventuell Verbrennungen erleidet.	Il bersaglio viene colpito da fiammelle che possono anche scottarlo.	
+move_desc_0005	The target is struck with slender, whiplike vines to inflict damage.	ムチのようにしなる細長いつるで相手をたたきつけて攻撃する。	Fouette l'ennemi avec de fines lianes pour infliger des dégâts.	Azota al objetivo con ramas finas.	Peitschenähnlicher Schlag mit Ranken.	Infligge danni al bersaglio con liane sottili simili a fruste.	
+move_desc_0006	A physical attack in which the user charges and slams into the target with its whole body.	相手にむかって全身でぶつかっていき攻撃する。	Le lanceur charge l'ennemi et le percute de tout son corps.	Embiste con todo el cuerpo.	Trifft das Ziel mit vollem Körpereinsatz.	Attacco fisico che colpisce il bersaglio investendolo con tutto il corpo.	
+move_desc_0007	Sharp-edged leaves are launched to slash at the opposing Pokémon.	はっぱをとばして相手を切りつけて攻撃する。	Des feuilles aiguisées comme des rasoirs entaillent l'ennemi. Taux de critiques élevé.	Corta con hojas afiladas. Suele ser crítico.	Trifft das Ziel mit Blättern. Hohe Volltrefferquote.	Foglie taglienti sferzano i nemici intorno. Probabile brutto colpo.	
+move_desc_0008	A reckless, full-body charge attack for slamming into the target.	すごい勢いで相手にぶつかって攻撃する。	Une charge violente qui blesse aussi légèrement le lanceur.	Carga desmedida que también hiere al agresor.	Rücksichtslose Attacke, bei der sich der Angreifer selbst leicht verletzt.	Carica spericolata con tutto il corpo contro il bersaglio. Danneggia un po' anche chi la usa.	
+move_desc_0009	The target is blasted with a forceful shot of water.	水を勢いよく相手に発射して攻撃する。	De l'eau est projetée avec force sur l'ennemi.	Ataca disparando agua con gran potencia.	Das Ziel wird mit Wasser bespritzt.	Il bersaglio è colpito da un potente getto d'acqua.	
+move_desc_0010	The target is bitten with viciously sharp fangs.	鋭くとがった歯でかみついて攻撃する。	L'ennemi est mordu par de tranchantes canines. Peut l'apeurer.	Un voraz bocado que puede hacer retroceder al  objetivo.	Beißt zu und lässt das Ziel eventuell zurückschrecken.	Il bersaglio viene morso da denti affilatissimi che possono farlo tentennare.	
+move_desc_0011	The target is physically pounded with a long tail, a foreleg, or the like.	長いしっぽや手などを使って相手をはたいて攻撃する。	Écrase l'ennemi avec les pattes avant ou la queue, par exemple.	Golpea con las patas o la cola.	Ein Hieb mit den Vorderbeinen oder dem Schweif.	Colpisce il bersaglio con la coda o le zampe anteriori.	
+move_desc_0012	The target is slapped repeatedly, back and forth.	おうふくビンタで相手をたたいて攻撃する。	Gifle rapidement l'ennemi de deux à cinq fois d'affilée.	Abofetea de dos a cinco veces seguidas.	Trifft das Ziel zwei- bis fünfmal hintereinander mit einem Duplexhieb.	Schiaffeggia il bersaglio da due a cinque volte di fila.	
+move_desc_0013	A long body or vines are used to wrap and squeeze the target.	長い体やつるなどをつかって相手にまきついて攻撃する。	Le lanceur ligote l'ennemi avec des lianes ou son corps pour l'écraser durant quatre à cinq tours.	Oprime al objetivo de cuatro a cinco turnos con ramas  o con su cuerpo.	Umwickelt das Ziel über vier bis fünf Runden mit Ranken oder Ähnlichem und fügt ihm Schaden zu.	Il lungo corpo o le liane di chi la usa avvolgono e stritolano il bersaglio per quattro o cinque turni.	
+move_desc_0014	The target is attacked with a powerful beam.	強い光線を相手に発射して攻撃する。	Projette un puissant rayon sur l'ennemi. Le lanceur doit se reposer au tour suivant.	Es eficaz, pero el atacante deberá descansar en el  siguiente turno.	Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen.	Colpisce il bersaglio con un potente raggio. Chi la usa salta il turno successivo per recuperare energia.	
+move_desc_0015	The target is licked with a long tongue, causing damage.	長い舌で相手をなめまわして攻撃する。	Un grand coup de langue qui inflige des dégâts à l'ennemi. Peut aussi le paralyser.	Una lengua ataca al objetivo. Puede causar parálisis.	Leck-Attacke mit langer Zunge. Das Ziel wird eventuell paralysiert.	Una lingua lunga infligge danni al bersaglio e può anche paralizzarlo.	
+move_desc_0016	The user releases a horrible aura imbued with dark thoughts.	体から悪意にみちた恐ろしいオーラを発する。	Le lanceur dégage une horrible aura chargée d'idées noires. Peut aussi apeurer l'ennemi.	Libera una horrible aura llena de malos pensamientos  y puede hacer retroceder al objetivo.	Anwender greift mit fürchterlicher Aura schlechter Gedanken an. Ziel schreckt eventuell zurück.	Chi la usa emana un'aura impregnata di oscuri pensieri. Può anche far tentennare il Pokémon colpito.	
+move_desc_0017	The target is attacked with a discharge of filthy gases	汚れたガスを相手に吹きつけて攻撃する。	Le lanceur attaque à l'aide d'une éruption de gaz répugnants. Peut aussi empoisonner l'ennemi.	El objetivo es atacado con gases tóxicos que pueden  llegar a envenenar.	Angriff mit Gas. Das Ziel kann eventuell vergiftet werden.	Colpisce il bersaglio con una scarica di gas maleodoranti. Può anche avvelenarlo.	
+move_desc_0018	Unsanitary sludge is hurled at the target.	汚いヘドロを相手に投げつけて攻撃する。	Des détritus toxiques sont projetés sur l'ennemi. Peut aussi l'empoisonner.	Arroja residuos al objetivo. Puede llegar a envenenar.	Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.	Lancio di fango malsano che arreca danno al bersaglio. Può anche avvelenarlo.	
+move_desc_0019	The target is raked with steel claws.	鋼鉄のツメで相手を切り裂いて攻撃する。	Attaque avec des griffes d'acier. Peut aussi augmenter l'Attaque du lanceur.	Ataque con garras de acero que puede aumentar el  Ataque del usuario.	Klauen-Attacke, die eventuell den Angriffs-Wert des Anwenders erhöht.	Colpisce il bersaglio con artigli d'acciaio. Può anche aumentare l'Attacco di chi la usa.	
+move_desc_0020	The target is gripped and squeezed from both sides to inflict damage.	相手を両側からはさんでダメージをあたえる。	L'ennemi est attrapé et compressé par les côtés.	Atrapa y atenaza al objetivo.	Das Ziel wird umklammert und zusammengequetscht.	Stringe il bersaglio in una morsa usando enormi e possenti tenaglie.	
+move_desc_0021	The user cloaks itself in fire and charges at the target.	炎をまとい相手に突進して攻撃する。	Le lanceur s'entoure de feu et charge l'ennemi. Peut aussi le brûler.	Ataca envuelto en fuego. Puede causar quemaduras.	Feuer-Attacke, die das Ziel eventuell verbrennt.	Chi la usa si copre di fuoco e carica il bersaglio. Può anche scottarlo.	
+move_desc_0022	Using its tough and impressive horn, the user rams into the target with no letup.	硬くてりっぱなつのでおもいっきり相手を突き刺して攻撃する。	Le lanceur utilise ses gigantesques cornes pour charger l'ennemi.	Violenta embestida con cuernos imponentes.	Brutaler Ramm-Angriff mit spitzem, beeindruckendem Horn.	Chi la usa utilizza il suo robusto e imponente corno per colpire il bersaglio con tutto se stesso.	
+move_desc_0023	The target is struck with large, imposing wings spread wide to inflict damage.	大きくひろげたりっぱな翼を相手にぶつけて攻撃する。	L'ennemi est frappé par de larges ailes déployées pour infliger des dégâts.	Golpea al objetivo con unas grandes alas.	Trifft das Ziel mit ausgebreiteten Flügeln.	Infligge danni al bersaglio spiegando delle grandi ali possenti.	
+move_desc_0024	The target is scorched with an intense blast of fire.	激しい炎を相手に発射して攻撃する。	L'ennemi reçoit un torrent de flammes. Peut aussi le brûler.	Ataca con una gran ráfaga de fuego que puede causar  quemaduras.	Starke Feuer-Attacke, durch die das Ziel eventuell Verbrennungen erleidet.	Il bersaglio viene colpito da intense fiammate che possono anche scottarlo.	
+move_desc_0025	The user attacks quickly.	相手より先に攻撃できる。	Permet au lanceur de frapper en premier. Échoue si l'ennemi ne prépare pas une attaque.	Permite atacar primero. Falla si el objetivo no está  preparando ningún ataque.	Ermöglicht den Erstschlag. Gelingt aber nur, wenn das Ziel gerade eine Attacke vorbereitet, die KP-Schaden zufügen würde.	Chi la usa può attaccare per primo. Fallisce se il bersaglio non sta preparando un attacco.	
+move_desc_0026	The user burrows, then attacks.	地面に潜り相手を攻撃する。	Le lanceur creuse au premier tour et frappe au second. Permet aussi de sortir des grottes.	Primer turno: cava. Segundo turno: ataca. También  sirve para salir de ciertas zonas.	In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an. Macht Flucht aus Höhlen möglich.	Chi la usa scava al primo turno e attacca al successivo. Fuori dalla lotta fa uscire da alcuni luoghi.	
+move_desc_0027	A powerful low kick that makes the target fall over.	足を強くけり相手を転ばせて攻撃する。	Un puissant coup de pied bas qui fauche l'ennemi. Il est plus efficace contre les ennemis lourds.	Patada baja. Cuanto más pesa el objetivo, más daño  causa.	Ein Tritt, der das Ziel umwirft. Je schwerer das Ziel ist, desto mehr Schaden fügt ihm die Attacke zu.	Un calcio basso e potente che fa cadere il bersaglio. Danneggia maggiormente i Pokémon più pesanti.	
+move_desc_0028	The user delivers a double chop with its forearms crossed.	両手チョップを相手にたたきつけて攻撃する。	Le lanceur délivre un coup double en croisant les avant-bras. Taux de critiques élevé.	Corte doble que suele propinar un golpe crítico.	Doppelter Hieb mit den Unterarmen. Hohe Volltrefferquote.	Investe il bersaglio con un colpo sferrato con entrambe le braccia incrociate. Probabile brutto colpo.	
+move_desc_0029	The user tears at the target with blades formed by psychic power.	実体化させた心の刃で相手を切り裂く。	Le lanceur entaille l'ennemi grâce à des lames faites de pouvoir psychique. Taux de critiques élevé.	Ataca al objetivo con cuchillas formadas por energía  psíquica. Suele ser crítico.	Das Ziel wird mit Klingen attackiert, die aus Psycho-Energie bestehen. Hohe Volltrefferquote.	Chi la usa colpisce il bersaglio con lame fatte di forza psichica. Probabile brutto colpo.	
+move_desc_0030	The target is attacked with a peculiar ray.	不思議な光線を相手に発射して攻撃する。	Un étrange rayon frappe l'ennemi. Peut aussi le rendre confus.	Extraño rayo que puede causar confusión.	Feuert einen Strahl ab, der das Ziel verwirren kann.	Colpisce il bersaglio con un raggio speciale. Può anche confonderlo.	
+move_desc_0031	The user sets off an earthquake that strikes the target.	地震の衝撃で自分の周りにいるものを攻撃する。	Le lanceur provoque un tremblement de terre touchant tous les Pokémon autour de lui.	Un terremoto que afecta a los Pokémon de alrededor  en combate.	Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft.	Chi la usa provoca un potente sisma che colpisce i Pokémon che ha intorno.	
+move_desc_0032	The user stabs the target with sharpened stones from below.	とがった岩を相手に突き刺して攻撃する。	Fait surgir des pierres aiguisées sous l'ennemi. Taux de critiques élevé.	Clava piedras muy afiladas al objetivo. Suele ser  crítico.	Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.	Chi la usa colpisce il bersaglio dal basso con pietre affilate. Probabile brutto colpo.	
+move_desc_0033	The target is punched with an icy fist.	冷気をこめたパンチで相手を攻撃する。	Un coup de poing glacé vient frapper l'ennemi. Peut le geler.	Puñetazo helado. Puede congelar.	Ein eisiger Schlag, der das Ziel eventuell einfriert.	Colpisce il bersaglio con un pugno di ghiaccio che può congelarlo.	
+move_desc_0034	The user unleashes a suprisingly vicious blow.	かわいいしぐさで油断させて強烈な一撃を浴びせる。	Déconcentre l'ennemi avec des mouvements mignons avant de le frapper violemment. Peut aussi l'apeurer.	Grácil gesto que asesta un golpe tremendo al objetivo  y puede hacerlo retroceder.	Verleitet Ziel durch Kokettieren zu Unachtsamkeit und verpasst ihm dann einen harten Schlag. Ziel schreckt eventuell zurück.	Chi la usa distrae il bersaglio con un faccino innocente per poi sferrargli un colpo devastante che può farlo tentennare.	
+move_desc_0035	The user strikes everything around it by letting loose a flare of electricity.	まばゆい電撃で自分の周りにいるものを攻撃する。	Un flamboiement d'électricité frappe tous les Pokémon autour du lanceur. Peut aussi les paralyser.	Una deslumbradora onda eléctrica afecta a los Pokémon que hay combatiendo alrededor. Puede  paralizar.	Anwender greift die Pokémon in seiner Umgebung mit Elektrizität an. Paralysiert eventuell.	Chi la usa colpisce i Pokémon che ha intorno con un bagliore elettrico. Può anche paralizzarli.	
+move_desc_0036	The user gathers all its light energy and releases it at once.	体の光を一点に集めて力を放つ。	Le lanceur concentre son énergie lumineuse et la fait exploser. Peut aussi baisser la Défense Spéciale de l'ennemi.	El usuario concentra toda la luz del cuerpo y la libera.  Puede bajar la Defensa Especial del objetivo.	Anwender sammelt Lichtenergie und feuert sie auf einmal ab. Senkt eventuell Spezial-Verteidigung des Zieles.	Chi la usa attacca raccogliendo e rilasciando energia luminosa. Può ridurre la Difesa Speciale del nemico.	
+move_desc_0037	The target is jabbed with a sharply pointed beak or horn.	鋭くとがったくちばしやつので相手を突いて攻撃する。	Frappe l'ennemi d'un bec pointu ou d'une corne pour infliger des dégâts.	Ensarta al objetivo con un cuerno o pico punzante.	Greift das Ziel mit dem Schnabel oder Horn an.	Colpisce il bersaglio con il becco appuntito o con un corno.	
+move_desc_0038	A corkscrewing attack with a sharp beak acting as a drill.	回転しながらとがったくちばしを相手に突き刺して攻撃する。	Une attaque utilisant le bec comme une perceuse.	Picotazo giratorio y perforador muy potente.	Korkenzieherangriff, bei dem der Schnabel als Bohrer dient.	Attacco a spirale con un becco aguzzo che fa da trapano.	
+move_desc_0039	The target is struck with an icy-cold beam of energy.	凍えるビームを相手に発射して攻撃する。	Un rayon de glace frappe l'ennemi. Peut aussi le geler.	Rayo de hielo que puede llegar a congelar.	Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.	Il bersaglio è colpito da un raggio di energia gelida  che può anche congelarlo.	
+move_desc_0040	A howling blizzard is summoned to strike opposing Pokémon.	激しい吹雪を相手に吹きつけて攻撃する。	Une violente tempête de neige est déclenchée sur l'ennemi. Peut aussi le geler.	Tormenta de hielo que puede llegar a congelar.	Ein Schneesturm wütet, der das Ziel einfrieren kann.	Colpisce i nemici intorno con una tremenda tempesta di ghiaccio che può anche congelarli.	
+move_desc_0041	The user attacks with a blade of air that slices even the sky.	空をも切り裂く空気の刃で攻撃する。	Le lanceur attaque avec une lame d'air qui fend tout. Peut aussi apeurer l'ennemi.	Ataca con una hoja de aire que incluso corta el cielo.  También puede hacer retroceder al objetivo.	Das Ziel wird mit einer Luftklinge angegriffen. Ziel schreckt eventuell zurück.	Chi la usa attacca con un vento tagliente che squarcia il cielo. Può anche far tentennare il Pokémon colpito.	
+move_desc_0042	The user attacks by exhaling hot breath on the opposing Pokémon.	熱い息を相手に吹きつけて攻撃する。	Le lanceur provoque une vague de chaleur. Peut aussi brûler l'ennemi.	Provoca un viento abrasador que puede quemar al  objetivo.	Ziele werden von Sturm aus heißer Luft getroffen und verbrennen sich eventuell.	Chi la usa investe i nemici che ha intorno con una folata di vento caldo. Può anche scottarli.	
+move_desc_0043	The user damages the target twice in succession by jabbing it with two spikes.	２本のハリを相手に突き刺して攻撃する。	Un double coup de dard qui transperce l'ennemi deux fois d'affilée. Peut aussi l'empoisonner.	Pincha dos veces con dos espinas. Puede envenenar.	Stacheln treffen das Ziel zweimal. Das Ziel wird eventuell vergiftet.	Colpisce il bersaglio due volte di seguito con un paio di aghi. Può anche avvelenarlo.	
+move_desc_0044	The target is stabbed with a poisonous tentacle or arm.	毒にそまった触手や腕で相手を突き刺す。	Attaque l'ennemi avec un tentacule ou un bras plein de poison. Peut aussi l'empoisonner.	Pincha al objetivo con un tentáculo o brazo envenenado. Puede llegar a envenenar al objetivo.	Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.	Il bersaglio è colpito da un tentacolo o da un arto intriso di una sostanza tossica che può anche avvelenarlo.	
+move_desc_0045	The user confounds the target with speed, then slashes.	素早い動きで相手をほんろうして切りつける。	Le lanceur prend l'ennemi de vitesse et le lacère. N'échoue jamais.	El usuario lanza un ataque muy rápido e ineludible.	Eine extrem schnelle Attacke, der das Ziel nicht ausweichen kann.	Chi la usa attacca il bersaglio a grande velocità. Questa mossa è infallibile.	
+move_desc_0046	The user crashes into its target while rotating its body like a drill.	ドリルのように体を回転しながら相手に体当たりする。	Le lanceur tourne sur lui-même comme une perceuse et se jette sur l'ennemi. Taux de critiques élevé.	El usuario golpea usando su cuerpo como un taladro.  Suele ser crítico.	Anwender rammt das Ziel, während er seinen Körper wie einen Bohrer dreht. Hohe Volltrefferquote.	Chi la usa si scaglia sul bersaglio ruotando su se stesso come un trapano perforante. Probabile brutto colpo.	
+move_desc_0047	The user stirs up a violent petal blizzard and attacks everything around it.	激しい花吹雪を起こし周りにいるものに攻撃してダメージを与える。	Déclenche une violente tempête de fleurs qui inflige des dégâts à tous les Pokémon alentour.	El usuario desata un intenso vendaval de pétalos  que daña a los Pokémon a su alrededor.	Der Anwender erzeugt einen turbulenten Blütenwirbel, der alle Pokémon in der Nähe erfasst und ihnen Schaden zufügt.	Infligge danni ai Pokémon che ha intorno attaccandoli con una tempesta di fiori.	
+move_desc_0048	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.	養分を吸い取り攻撃する。	Une attaque qui convertit la moitié des dégâts infligés en PV pour le lanceur.	Absorbe la mitad del daño producido en el objetivo  para restaurar los PS del usuario.	Attacke, die die Hälfte des Schadens absorbiert.	Mossa che assorbe PS. Chi la usa recupera una quantità di PS pari alla metà del danno inferto.	
+move_desc_0049	Unknown	はねの振動で音波をおこして攻撃する。	Le lanceur fait vibrer son corps pour lancer une vague sonique. Peut aussi baisser la Défense Spéciale de l'ennemi.	El usuario crea una onda sónica dañina moviendo su cuerpo que también puede disminuir la Defensa Especial del objetivo.	Anwender schlägt mit den Flügeln und erzeugt eine Schockwelle. Senkt eventuell Spezial-Verteidigung des Zieles.	Chi la usa fa vibrare le ali creando un'onda sonora pericolosa. Può anche ridurre la Difesa Speciale del bersaglio.	
+move_desc_0050	The user bites the target with toxic fangs.	毒のあるキバで相手にかみついて攻撃する。	Le lanceur mord l'ennemi de ses crocs toxiques. Peut aussi l'empoisonner gravement.	Colmillos tóxicos que pueden envenenar gravemente al objetivo.	Angriff mit giftigen Reißzähnen. Das Ziel wird eventuell schwer vergiftet.	Chi la usa morde il bersaglio con denti avvelenati che possono anche iperavvelenarlo.	
+move_desc_0051	The user slashes the target the instant an opportunity arises.	一瞬のすきをついて相手を切りはらう。	Le lanceur lacère l'ennemi à la première occasion. Taux de critiques élevé.	Ataca al objetivo a la primera oportunidad. Suele  ser crítico.	Anwender greift bei der ersten Gelegenheit mit scharfen Klauen an. Hohe Volltrefferquote.	Chi la usa colpisce il bersaglio appena si presenta l'occasione. Probabile brutto colpo.	
+move_desc_0052	The target is attacked with a slash of claws or blades.	ツメやカマなどで相手を切り裂いて攻撃する。	Un coup de griffe ou autre tranche l'ennemi. Taux de critiques élevé.	Ataca con cuchillas o con pinzas. Suele dar un golpe  crítico.	Hieb mit Klauen oder Ähnlichem. Hohe Volltrefferquote.	Attacca il bersaglio con artigli, falci o altro. Probabile brutto colpo.	
+move_desc_0053	A spray of bubbles is forcefully ejected at the target.	泡を勢いよく相手に発射して攻撃する。	Des bulles sont envoyées avec puissance sur l'ennemi. Peut aussi baisser sa Vitesse.	Diluvio de burbujas que puede bajar la Velocidad.	Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken.	Colpisce il bersaglio con una forte scarica di bolle. Può anche ridurne la Velocità.	
+move_desc_0054	The user grabs the target and recklessly dives for the ground.	地面に自分ごと相手を投げつけて攻撃する。	Le lanceur agrippe l'ennemi et l'écrase au sol. Blesse aussi légèrement le lanceur.	Tira al objetivo al suelo. También hiere al agresor.	Harte Körperattacke, bei der sich der Angreifer selbst leicht verletzt.	Chi la usa carica il bersaglio in modo spericolato, ma danneggia anche se stesso.	
+move_desc_0055	The target is attacked with a sharp chop.	鋭いチョップで相手をたたいて攻撃する。	L'ennemi est tranché violemment. Taux de critiques élevé.	Da un golpe cortante. Suele ser crítico.	Gute Möglichkeit, einen Volltreffer zu landen.	Colpisce il bersaglio con un colpo netto. Probabile brutto colpo.	
+move_desc_0056	The user makes a swift attack on the target's legs.	素早い動きで相手の足をねらって攻撃する。	Un coup rapide qui vise les pieds de l'ennemi et diminue sa Vitesse.	Ataque rápido dirigido a los pies del objetivo que  le hace perder Velocidad.	Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative.	Chi la usa colpisce con un attacco fulmineo la parte inferiore del corpo del bersaglio, riducendone la Velocità.	
+move_desc_0057	The user lunges at the target at a speed that makes it almost invisible.	目にも留まらぬものすごい速さで相手につっこむ。	Le lanceur fonce sur l'ennemi si rapidement qu'on parvient à peine à le discerner. Frappe toujours en premier.	Ataque rápido que permite golpear en primer lugar.	Sehr schneller Angriff mit Erstschlaggarantie.	Chi la usa colpisce sempre per primo e a una tale velocità da rendersi quasi invisibile.	
+move_desc_0058	The user attacks by swinging its tail as if it were a vicious wave in a raging storm.	激しくあれくるう荒波のように大きなしっぽをふって相手を攻撃する。	Le lanceur attaque en balançant sa queue comme une lame de fond en pleine tempête.	Ataca agitando la cola como si fuera una ola rabiosa  en una tormenta devastadora.	Anwender attackiert mit dem Schweif, als ob dieser eine brutale Welle in einem tosenden Sturm sei.	Chi la usa attacca agitando la coda come se fosse una violenta ondata in una tempesta furiosa.	
+move_desc_0059	The user slams a barrage of hard-shelled seeds on the target from above.	硬い殻をもつ大きなタネを上からたたきつけて相手を攻撃する。	Le lanceur fait pleuvoir un déluge de graines explosives sur l'ennemi.	Lanza al objetivo una descarga de semillas explosivas  desde arriba.	Anwender lässt eine Menge Samen mit harter Schale von oben auf das Ziel fallen.	Chi la usa emette una raffica di semi dal guscio duro che colpiscono il bersaglio dall'alto.	
+move_desc_0060	The user materializes an odd psychic wave to attack the target.	不思議な念波を実体化して相手を攻撃する。	Le lanceur matérialise des ondes mystérieuses qu'il projette sur l'ennemi. Inflige des dégâts physiques.	Crea una onda psíquica que causa daño físico al  objetivo.	Anwender erzeugt eine seltsame Energiewelle, die dem Ziel physischen Schaden zufügt.	Chi la usa attacca il bersaglio facendo materializzare un misterioso raggio psichico che provoca danni fisici.	
+move_desc_0061	The user picks up and throws a small rock at the target to attack.	小さな岩を持ちあげて相手に投げつけて攻撃する。	Le lanceur lâche une pierre sur l'ennemi.	Tira una pequeña roca al objetivo.	Das Ziel wird mit einem kleinen Stein beworfen.	Chi la usa solleva una roccia e la lancia contro il bersaglio.	
+move_desc_0062	The user attacks with a prehistoric power.	原始の力で攻撃する。	Une attaque préhistorique qui peut augmenter toutes les stats du lanceur d'un seul coup.	Ataque prehistórico que puede subir todas las  características.	Angriff mit antiker Kraft, der alle Statuswerte erhöhen kann.	Colpisce il bersaglio con una forza primordiale. Può aumentare tutte le statistiche.	
+move_desc_0063	Boulders are hurled at the target.	岩石を投げつけて攻撃する。	Des rochers frappent l'ennemi. Réduit aussi sa Vitesse.	Tira rocas que detienen al objetivo y bajan su  Velocidad.	Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.	Colpisce il bersaglio con rocce. Inoltre, lo rallenta riducendone la Velocità.	
+move_desc_0064	Large boulders are hurled at the opposing Pokémon to inflict damage.	大きな岩を激しくぶつけて攻撃する。	Envoie de gros rochers sur l'ennemi pour infliger des dégâts. Peut aussi l'apeurer.	Lanza grandes pedruscos. Puede hacer retroceder a  los rivales.	Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken.	I nemici intorno a chi la usa vengono colpiti da grandi massi che possono anche farli tentennare.	
+move_desc_0065	The user attacks with a ray of light that sparkles as if it were made of gemstones.	宝石のようにきらめく光を発射して相手を攻撃する。	Le lanceur attaque avec un rayon de lumière qui scintille comme s'il était composé de gemmes.	Ataca con un rayo de luz que centellea como si lo  formaran miles de joyas.	Anwender attackiert mit einem Lichtstrahl, der funkelt, als sei er aus Juwelen.	Chi la usa attacca con un raggio di luce che brilla come se fosse fatto di pietre preziose.	
+move_desc_0066	The user extends its shadow and attacks the target from behind.	影をのばして相手の背後から攻撃する。	Le lanceur étend son ombre pour frapper par-derrière. Frappe toujours en premier.	Extiende su sombra y ataca al objetivo por la espalda. Este movimiento siempre va primero.	Anwender erweitert Schatten und greift das Ziel von hinten an. Erstschlaggarantie.	Chi la usa estende la sua ombra e attacca il nemico alle spalle. Con questa mossa si colpisce per primi.	
+move_desc_0067	The user throws a punch from the shadows.	影にまぎれてパンチをくりだす。	Le lanceur surgit des ombres et donne un coup de poing. N'échoue jamais.	Puñetazo ineludible procedente de las sombras.	Angriff mit der Faust aus dem Schattenreich. Ausweichen unmöglich.	Il bersaglio riceve un pugno proveniente dalle tenebre. Questa mossa è infallibile.	
+move_desc_0068	The user slashes with a sharp claw made from shadows.	影からつくった鋭いツメで相手を切り裂く。	Attaque avec une griffe puissante faite d'ombres. Taux de critiques élevé.	Ataca con una garra afilada hecha de sombras. Suele ser crítico.	Das Ziel wird mit scharfen Klauen aus der Schattenwelt attackiert. Hohe Volltrefferquote.	Chi la usa attacca con artigli d'ombra che colpiscono con gran forza. Probabile brutto colpo.	
+move_desc_0069	The user blasts the target with a gust of repulsive wind.	みのけもよだつ突風で相手を攻撃する。	Le lanceur crée une violente bourrasque. Peut aussi augmenter toutes ses stats.	Produce un viento horripilante. Puede subir de golpe  todas las características del usuario.	Das Ziel treffen abscheuliche Winde. Steigert eventuell alle Statuswerte des Anwenders.	Chi la usa attacca con una forte raffica di vento che può aumentare tutte le sue statistiche.	
+move_desc_0070	The user hurls a shadowy blob at the target.	黒い影の塊を投げつけて攻撃する。	Projette une grande ombre sur l'ennemi. Peut aussi faire baisser sa Défense Spéciale.	Lanza una bola oscura que puede bajar la Defensa  Especial del objetivo.	Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.	Lancia sul bersaglio una sfera nera. Può anche ridurne la Difesa Speciale.	
+move_desc_0071	The user strikes the target with tough punches as fast as bullets.	弾丸のような速くて硬いパンチを相手にくりだす。	Le lanceur envoie des coups de poing aussi rapides que des balles de revolver. Frappe toujours en premier.	Ataca con fuertes puñetazos tan rápidos como proyectiles. Este movimiento siempre va primero.	Das Ziel wird von ultraschnellen Hieben getroffen. Erstschlaggarantie.	Chi la usa attacca con una scarica di pugni veloci come proiettili. Con questa mossa si colpisce per primi.	
+move_desc_0072	The user launches steel bombs that stick to the target.	相手に吸いつく鋼の爆弾を発射する。	Le lanceur projette des bombes d'acier qui collent à l'ennemi. N'échoue jamais.	Lanza unas bombas de hierro que se pegan al  adversario. No se puede esquivar.	Ziel wird durch Haftbomben getroffen. Diese Attacke trifft immer.	Chi la usa lancia bombe d'acciaio che si attaccano al bersaglio. Una mossa infallibile.	
+move_desc_0073	The target is hit with wings of steel.	硬い翼を相手にたたきつけて攻撃する。	Le lanceur frappe l'ennemi avec des ailes d'acier. Peut aussi augmenter la Défense du lanceur.	Alas macizas que golpean al objetivo y pueden subir  la Defensa del usuario.	Trifft das Ziel mit Stahlflügeln. Verteidigungs-Wert des Anwenders steigt eventuell.	Colpisce il bersaglio con ali d'acciaio. Può anche aumentare la Difesa di chi la usa.	
+move_desc_0074	The user slams the target with its steel-hard head.	鋼のような硬い頭で攻撃する。	Le lanceur heurte l'ennemi avec sa tête dure comme de l'acier. Peut aussi l'apeurer.	Ataca con su dura cabeza de hierro. Puede hacer  que el objetivo retroceda.	Ziel wird durch stahlharten Kopf des Anwenders getroffen und schreckt eventuell zurück.	Chi la usa colpisce il bersaglio con la sua testa dura come l'acciaio. Può anche farlo tentennare.	
+move_desc_0075	Unknown	不明	Inflige des dégâts à tous les Pokémon autour du lanceur. Il récupère en PV la moitié des dégâts infligés.	Inflige daño a todos los Pokémon a su alrededor.  El usuario absorbe la mitad del daño producido para restaurar sus propios PS.	Fügt allen Pokémon in der Umgebung Schaden zu. Der Anwender wird um die Hälfte des insgesamt angerichteten Schadens geheilt.	Infligge danni a tutti i Pokémon vicini. Chi la usa recupera una quantità di PS pari alla metà del danno inferto.	
+move_desc_0076	The user throws an electrically charged tackle at the target.	電気をまとい相手に突進して攻撃する。	Lance une charge électrique sur l'ennemi. Peut aussi le paralyser.	Ataque eléctrico que puede llegar a paralizar.	Elektro-Hieb, der das Ziel paralysieren kann.	Colpisce il bersaglio con una scarica elettrica e può anche paralizzarlo.	
+move_desc_0077	The target is punched with an electrified fist.	電撃をこめたパンチで相手を攻撃する。	Un coup de poing électrique vient frapper l'ennemi. Peut le paralyser.	Puñetazo eléctrico. Puede paralizar.	Ein elektrischer Schlag, der das Ziel eventuell paralysiert.	Colpisce il bersaglio con un pugno elettrico che può paralizzarlo.	
+move_desc_0078	A wicked thunderbolt is dropped on the target to inflict damage.	激しい雷を相手に落として攻撃する。	La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser.	Un poderoso rayo que daña al objetivo y puede  paralizarlo.	Eine verheerende Elektro-Attacke, die das Ziel eventuell paralysiert.	Il bersaglio è colpito da un lampo molto violento che può anche paralizzarlo.	
+move_desc_0079	A strong electric blast crashes down on the target.	強い電撃を相手に浴びせて攻撃する。	Une grosse décharge électrique tombe sur l'ennemi. Peut aussi le paralyser.	Potente ataque eléctrico que puede paralizar al  objetivo.	Eine starke Elektro-Attacke, die das Ziel eventuell paralysiert.	Il bersaglio viene colpito da una potente scarica elettrica che può anche paralizzarlo.	
+move_desc_0080	The user whips up a vicious tornado to tear at the opposing Pokémon.	竜巻をおこして相手をまきこみ攻撃する。	Déclenche un terrible ouragan sur l'ennemi. Peut aussi l'apeurer.	Crea un violento tornado para hacer trizas al enemigo.  Puede hacerlo retroceder.	Trifft Ziele in der Umgebung mit einem heftigen Wirbelsturm, was diese eventuell zurückschrecken lässt.	Un potente tornado si abbatte sui nemici nei paraggi. Può anche farli tentennare.	
+move_desc_0081	The user exhales a mighty gust that inflicts damage.	ものすごい息を相手に吹きつけて攻撃する。	Le lanceur souffle fort sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser.	Poderosa ráfaga de aliento que golpea al objetivo y  puede paralizarlo.	Fegt das Ziel mit zerstörerisch heißem Atem weg. Paralysiert das Ziel eventuell.	Investe il bersaglio con una raffica potentissima che arreca danni. Può anche paralizzarlo.	
+move_desc_0082	The target is attacked with a shock wave generated by the user's gaping mouth.	大きな口から衝撃波をまきおこして相手を攻撃する。	Le lanceur ouvre la bouche pour envoyer une onde de choc qui frappe l'ennemi.	Abre mucho la boca y libera una onda de choque  que ataca al objetivo.	Das Ziel wird mit einer Schockwelle angegriffen, die aus dem offenen Maul des Anwenders kommt.	Chi la usa spalanca la bocca e genera un'onda d'urto che colpisce il bersaglio.	
+move_desc_0083	The user slashes the target with huge, sharp claws.	鋭くとがった巨大なツメで相手を切り裂いて攻撃する。	Le lanceur lacère l'ennemi de ses grandes griffes aiguisées.	Araña al objetivo con garras afiladas.	Das Ziel wird mit riesigen, scharfen Klauen stark verletzt.	Chi la usa attacca con artigli affilati che graffiano il bersaglio rapidamente e con grande forza.	
+move_desc_0084	Letting out a charming cry, the user does emotional damage to opposing Pokémon.	魅惑の鳴き声をだして相手に精神的なダメージを与える。	Laisse s'échapper une voix enchanteresse qui inflige des dégâts psychiques à l'ennemi. Touche à coup sûr.	Obnubila a los oponentes con su fascinante voz y  les provoca daños emocionales. Siempre acierta al objetivo.	Der Anwender stößt einen bezirzenden Ruf aus, mit dem er das Ziel in seinen Bann schlägt und ihm immer mentalen Schaden zufügt.	Chi la usa infligge un danno spirituale ai nemici nei paraggi con una voce suadente. L'attacco andrà immancabilmente a segno.	
+move_desc_0085	The user emotionally damages a target with a kiss.	キッスによって相手に精神的なダメージを与える。	Aspire la force vitale de l'ennemi par un baiser. Rend au lanceur un nombre de PV supérieur ou égal à la moitié des dégâts infligés.	Absorbe PS del objetivo con un beso y restaura su propia energía en una cantidad igual o superior a  la mitad del daño infligido.	Der Anwender stiehlt dem Ziel mit einem Kuss KP. Die Höhe der Heilung beträgt mehr als die Hälfte des beim Ziel angerichteten Schadens.	Chi la usa assorbe energia dal bersaglio con un bacio, recuperando così PS in quantità pari a più della metà del danno inferto.	
+move_desc_0086	The user damages opposing Pokémon by emitting a powerful flash.	強力な光を放ち相手にダメージを与える。	Libère une puissante décharge lumineuse qui inflige des dégâts à l'ennemi.	Inflige daño a los oponentes con una potente luz.	Der Anwender feuert einen mächtigen Lichtblitz ab, der dem Ziel Schaden zufügt.	Emette una luce potentissima che infligge danni ai nemici che sono vicini a chi la usa.	
+move_desc_0087	Borrowing the power of the moon, the user attacks the target.	月のパワーをかりて相手を攻撃する。	Attaque l'ennemi grâce au pouvoir de la lune. Peut diminuer son Attaque Spéciale.	Invoca el poder de la luna para atacar al objetivo.  Puede disminuir el Ataque Especial del objetivo.	Der Anwender macht sich die Kraft des Mondes zunutze, um anzugreifen. Gelegentlich wird dabei der Spezial-Angriff des Zieles gesenkt.	Chi la usa sfrutta il potere della luna per attaccare il bersaglio. Può anche ridurne l'Attacco Speciale.	
+move_desc_0088	The user plays rough with the target and attacks it.	相手にじゃれついて攻撃する。	Attaque l'ennemi avec un câlin. Peut diminuer son Attaque.	El Pokémon que lo usa le hace cucamonas al  objetivo y lo ataca. Puede disminuir el Ataque del objetivo.	Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert.	Chi la usa attacca il bersaglio con delle carinerie. Può anche ridurne l'Attacco.	
+move_desc_0089	A slashing attack with a poisonous blade.	毒の刃で相手を切り裂く。	Un coup tranchant qui peut empoisonner l'ennemi. Taux de critiques élevé.	Tajo que puede envenenar al objetivo. Suele ser  crítico.	Ein schneidender Hieb, der das Ziel eventuell vergiftet. Hat eine hohe Volltrefferquote.	Attacco con zanne avvelenate che può anche avvelenare il Pokémon colpito. Probabile brutto colpo.	
+move_desc_0090	Unsanitary sludge is hurled at the target.	汚いヘドロを相手に投げつけて攻撃する。	Des détritus toxiques sont projetés sur l'ennemi. Peut aussi l'empoisonner.	Arroja residuos al objetivo. Puede llegar a envenenar.	Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.	Lancio di fango malsano che arreca danno al bersaglio. Può anche avvelenarlo.	
+move_desc_0091	The user strikes the target by swamping the area with a giant sludge wave.	ヘドロの波で相手を攻撃する。	Une vague de détritus attaque tous les Pokémon autour du lanceur. Peut aussi empoisonner.	Una onda tóxica que daña a los Pokémon de alrededor. Puede envenenar.	Greift Pokémon in der Nähe des Anwenders mit einer Schlammwelle an. Diese werden eventuell vergiftet.	Lancia un'onda di fango che attacca tutti i Pokémon nelle vicinanze. Può anche avvelenarli.	
+move_desc_0092	The user shoots filthy garbage at the target to attack.	汚いゴミを相手にぶつけて攻撃する。	Le lanceur envoie des détritus sur l'ennemi. Peut aussi l'empoisonner.	Lanza contra el objetivo basura asquerosa. Puede  envenenar al objetivo.	Anwender schießt mit Müll auf das Ziel. Vergiftet dieses eventuell.	Chi la usa attacca il bersaglio con rifiuti sudici che possono anche avvelenarlo.	
+move_desc_0093	The user attacks by hurling a blob of mud at the target.	泥の塊を相手に投げつけて攻撃する。	Le lanceur attaque en projetant de la boue sur l'ennemi. Réduit aussi la Vitesse de la cible.	El usuario lanza lodo al objetivo y reduce su  Velocidad.	Angriff mit Lehm, der den Initiative-Wert des Zieles senkt.	Chi la usa attacca lanciando fango sul bersaglio, riducendone anche la Velocità.	
+move_desc_0094	The user clubs the target with a bone.	手に持ったホネで相手をなぐりつけて攻撃する。	Le lanceur frappe l'ennemi à grands coups d'os. Peut aussi l'apeurer.	Aporrea con un hueso. Puede hacer retroceder al  objetivo.	Schlägt das Ziel mit einer Keule und lässt es eventuell zurückschrecken.	Chi la usa colpisce il bersaglio con un osso e può farlo anche tentennare.	
+move_desc_0095	The user strikes everything around it by stomping down on the ground.	地面を踏みならして相手を攻撃する。	Le lanceur piétine le sol et inflige des dégâts à tous les Pokémon autour de lui. Baisse aussi leur Vitesse.	Sacudida sísmica que afecta a los demás Pokémon  adyacentes y también reduce su Velocidad.	Anwender greift an, indem er den Boden um sich herum plattwalzt. Die Initiative aller betroffenen Pokémon sinkt.	Chi la usa calpesta il terreno e scatena un terremoto che danneggia i Pokémon nei paraggi, riducendone la Velocità.	
+move_desc_0096	The user launches a hard-packed mud ball to attack.	硬い泥の弾を相手に発射して攻撃する。	Le lanceur attaque à l'aide d'une boule de boue solidifiée. Peut aussi baisser la Précision de l'ennemi.	Ataca lanzando una compacta bola de fango. Puede bajar la Precisión del objetivo.	Anwender greift mit einem festen Schlammklumpen an. Senkt eventuell Genauigkeit des Zieles.	Chi la usa lancia una compatta palla di fango. Può anche ridurre la precisione del Pokémon colpito.	
+move_desc_0097	The target is slashed with scythes or claws.	カマやツメなどで相手を切りつけて攻撃する。	Un coup de faux ou de griffe dont la force augmente quand il touche plusieurs fois d'affilée.	Ataque con garras o guadaña que crece en intensidad  si se usa repetidas veces.	Eine Attacke mit Scheren oder Klauen, deren Härte bei aufeinanderfolgenden Treffern zunimmt.	Colpisce il bersaglio con falci o artigli. Se usata in successione aumenta di potenza ogni volta che va a segno.	
+move_desc_0098	The user bites the target.	かみついて攻撃する。	Le lanceur pique l'ennemi. Si ce dernier tient une Baie, le lanceur la dévore et obtient son effet.	Pica al objetivo. Si el objetivo lleva una baya, el  usuario se la come y se beneficia de su efecto.	Anwender beißt das Ziel. Trägt dieses eine Beere, isst der Anwender sie und erhält ihren Effekt.	Chi la usa morde il bersaglio. Inoltre, se questi ha una bacca, gliela ruba e ne sfrutta gli effetti.	
+move_desc_0099	The user attacks with a sinister beam of light.	不思議な光を発射して攻撃する。	Le lanceur projette un rayon de lumière sinistre. Peut aussi rendre l'ennemi confus.	Ataca con un rayo de luz siniestro. Puede confundir al objetivo.	Strahlenattacke, die das Ziel eventuell verwirrt.	Chi la usa attacca con uno strano raggio di luce che può anche confondere il Pokémon colpito.	
+move_desc_0100	The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.	カマやツメをハサミのように交差させながら相手を切り裂く。	Le lanceur taillade l'ennemi en utilisant ses faux ou ses griffes comme une paire de ciseaux.	Cruza las guadañas o las garras para atacar al objetivo como si fueran unas tijeras.	Der Anwender führt eine Attacke aus, die einer Scherenbewegung ähnelt.	Chi la usa colpisce il bersaglio usando le sue falci o i suoi artigli come se fossero delle forbici.	
+move_desc_0101	Cloaking itself in flame, the user attacks.	炎をまとい相手を攻撃する。	Le lanceur s'entoure de flammes pour attaquer l'ennemi. Il se concentre et sa Vitesse augmente.	Llamas que golpean al objetivo y aumentan la  Velocidad del atacante.	Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.	Chi la usa si copre di fuoco e attacca il bersaglio. Concentrandosi aumenta, inoltre, la propria Velocità.	
+move_desc_0102	The user attacks the target with abursting flame.	当たるとはじける炎で相手を攻撃する。	Quand l'attaque atteint sa cible, elle projette des flammes qui touchent tout ennemi situé à côté.	Golpea al objetivo con una llamarada que afecta  también a los Pokémon adyacentes.	Bei Erfolg greift der Anwender mit berstenden Feuerblasen an. Die Funken der geplatzten Blasen treffen auch benachbarte Ziele.	Chi la usa emana una fiammata che colpisce il bersaglio e si propaga fino a raggiungere i Pokémon vicini.	
+move_desc_0103	The target is attacked with an intense blast of all-consuming fire.	大の字の炎で相手を焼きつくす。	Un déluge de flammes ardentes submerge l'ennemi. Peut aussi le brûler.	Llama intensa que chamusca y puede causar  quemaduras.	Feuersbrunst, die das Ziel versengt und ihm eventuell eine Verbrennung zufügt.	Investe il bersaglio con un'intensa fiammata che fa terra bruciata. Può anche scottarlo.	
+move_desc_0104	Unknown	不明	Cette attaque est deux fois plus puissante lorsque l'ennemi a moins de la moitié de ses PV.	Si al objetivo le queda la mitad o menos de sus PS,  el ataque será el doble de fuerte.	Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft.	Se i PS del bersaglio sono scesi a metà o meno, questa mossa colpirà con il doppio della potenza.	
+move_desc_0105	The user attacks the target with a pulsing blast of water.	水の振動を相手に与えて攻撃する。	Le lanceur envoie un puissant jet d'eau sur l'ennemi. Peut le rendre confus.	Ataca con un potente chorro de agua. Puede  confundir al objetivo.	Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann.	Il bersaglio viene colpito da un getto d'acqua potentissimo che può anche confonderlo.	
+move_desc_0106	The user shoots boiling hot water at its target.	熱く煮えたぎる水を相手に発射して攻撃する。	L'ennemi est attaqué par un jet d'eau bouillante. Peut aussi le brûler.	Ataca arrojando agua hirviendo al objetivo. Puede causar quemaduras.	Heizt dem Ziel mit einem Schwall siedend heißen Kochwassers ein. Das Ziel erleidet dabei eventuell Verbrennungen.	Chi la usa attacca il bersaglio con un getto d'acqua bollente che può anche scottarlo.	
+move_desc_0107	The target is blasted by a huge volume of water launched under great pressure.	大量の水を激しい勢いで相手に発射して攻撃する。	Un puissant jet d'eau est dirigé sur l'ennemi.	Lanza una gran masa de agua a presión para atacar.	Spritzt eine Menge Wasser mit Hochdruck auf das Ziel.	Il bersaglio è travolto da un potente getto d'acqua spruzzato ad altissima pressione.	
+move_desc_0108	The target is hit by a strong telekinetic force. 	強い念力を相手に送って攻撃する。	Une puissante force télékinétique frappe l'ennemi. Peut aussi faire baisser sa Défense Spéciale.	Fuerte ataque telequinético que puede bajar la  Defensa Especial del objetivo.	Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.	Il bersaglio viene colpito da una potente forza telecinetica che può anche ridurne la Difesa Speciale.	
+move_desc_0109	The user materializes an odd psychic wave to attack the target.	不思議な念波を実体化して相手を攻撃する。	Le lanceur matérialise des ondes mystérieuses qu'il projette sur l'ennemi. Inflige des dégâts physiques.	Crea una onda psíquica que causa daño físico al  objetivo.	Anwender erzeugt seltsame Energiewellen, die dem Ziel physischen Schaden zufügen.	Chi la usa attacca il bersaglio facendo materializzare un misterioso raggio psichico che provoca danni fisici.	
+move_desc_0110	The user flash-freezes chunks of ice and hurls them at the target.	氷の塊を一瞬でつくり相手に素早く放つ。	Le lanceur crée des éclats de glace qu'il envoie sur l'ennemi. Frappe toujours en premier.	Crea bolas de hielo y las lanza a gran velocidad.  Este movimiento siempre va primero.	Das Ziel wird mit Eisklumpen beworfen. Diese Attacke hat Erstschlaggarantie.	Chi la usa crea dei pezzi di ghiaccio e li lancia. Con questa mossa si colpisce per primi.	
+move_desc_0111	The user attacks with a gust of chilled air.	凍てつく冷気を相手に吹きつけて攻撃する。	Une bourrasque de vent froid blesse l'ennemi. Réduit aussi sa Vitesse.	Ataque con aire helado que baja la Velocidad de los  rivales.	Eis-Attacke, die dem Ziel Schaden zufügt und seinen Initiative-Wert senkt.	Chi la usa attacca i nemici intorno con una folata di aria gelida e ne riduce anche la Velocità.	
+move_desc_0112	The user blows its cold breath on the target.	冷たい息を相手に吹きつけて攻撃する。	Un souffle froid blesse l'ennemi. L'effet est toujours critique.	Quien lo usa ataca lanzando un aliento gélido.  Siempre resulta en un golpe crítico.	Anwender greift an, indem er dem Ziel eisigen Atem entgegenhaucht. Volltreffergarantie.	Chi la usa attacca il bersaglio con un soffio d'aria gelida. Brutto colpo assicurato.	
+move_desc_0113	Unknown	不明	Une attaque qui convertit la moitié des dégâts infligés en PV pour le lanceur.	Absorbe la mitad del daño producido en el objetivo  para restaurar los PS del usuario.	Attacke, die die Hälfte des Schadens absorbiert.	Mossa che assorbe PS. Chi la usa recupera una quantità di PS pari alla metà del danno inferto.	
+move_desc_0114	Unknown	不明	Une attaque qui convertit la moitié des dégâts infligés en PV pour le lanceur.	Un ataque que absorbe nutrientes. Quien lo usa  recupera la mitad de los PS del daño que produce.	Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben.	Mossa che assorbe PS. Chi la usa recupera una quantità di PS pari alla metà del danno inferto.	
+move_desc_0115	The target is punched with a fiery fist.	炎をこめたパンチで相手を攻撃する。	Un coup de poing enflammé vient frapper l'ennemi. Peut le brûler.	Puñetazo ardiente. Puede quemar.	Feuriger Schlag, der dem Ziel eventuell Verbrennungen zufügt.	Colpisce il bersaglio con un pugno ardente che può scottarlo.	
+move_desc_0116	The user gathers light, then blasts a bundled beam at the target.	光をいっぱいに集め、光の束を発射して攻撃する。	Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant.	Primer turno: absorbe luz. Segundo turno: lanza un potente rayo de energía.	Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.	Chi la usa assorbe luce al primo turno per proiettare un raggio intenso al turno successivo.	
+move_desc_0117	The user handles a sharp leaf like as word and attacks by cutting its target.	はっぱを剣のようにあやつり相手を切りつけて攻撃する。	Une feuille coupante comme une lame entaille l'ennemi. Taux de critiques élevé.	Acuchilla con una hoja fina. Suele dar un golpe  crítico.	Hieb mit scharfkantigem Blatt. Hohe Volltrefferquote.	Colpisce il bersaglio usando una foglia affilata come una spada. Probabile brutto colpo.	
+move_desc_0118	The user violently whirls its vines or tentacles to harshly lash the target.	ツタや触手を激しくふるって相手をたたきつけ攻撃する。	Le lanceur fait virevolter violemment ses lianes ou ses tentacules pour fouetter l'ennemi.	El usuario agita violentamente sus lianas o tentáculos  para golpear al objetivo.	Anwender wirbelt seine Ranken oder Tentakel peitschenartig gegen das Ziel.	Chi la usa agita violentemente liane o tentacoli per sferzare il bersaglio.	
+move_desc_0119	The user flops around, doing damage to the target.	ピョンピョンと跳ねて攻撃する。	Le lanceur barbote et éclabousse les environs. Cette capacité n'a aucun effet.	No tiene ningún efecto. Solo salpica.	Nur ein Platscher, der überhaupt nichts bewirkt.	Chi la usa sguazza nell'acqua, senza ottenere alcun effetto.	
+move_desc_0120	The opposing Pokémon are attacked with a spray of harsh acid.	強い酸を相手にかけて攻撃する。	Le lanceur attaque l'ennemi avec un jet d'acide corrosif. Peut aussi baisser sa Défense Spéciale.	Rocía a los enemigos con un ácido corrosivo.  Puede bajar la Defensa Especial.	Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt.	Colpisce i nemici intorno spruzzando un acido corrosivo. Può anche ridurne la Difesa Speciale.	
+move_desc_0121	The user launches razor-like wind to slash the opposing Pokémon.	鋭い風で相手を切りつけて攻撃する。	Le lanceur appelle des vents tranchants qui lacèrent l'ennemi. Taux de critiques élevé.	Viento cortante que azota. Suele ser un golpe  crítico.	Greift mit rasierklingenartigem Wind an. Hohe Volltrefferquote.	Chi la usa provoca un vento tagliente che sferza i nemici intorno. Probabile brutto colpo.	
+move_desc_0122	The user attacks by wrapping its opponent in a fierce wind that flies up into the sky.	強烈な風で相手を包みこんで攻撃する。	Le lanceur déclenche une tempête de vents violents qui s'abat sur l'ennemi. Peut aussi le rendre confus.	Golpea al objetivo con un fuerte torbellino que envuelve al rival y puede confundirlo.	Anwender greift das Ziel an, indem er es mit heftigen Windböen umgibt. Ziel wird eventuell verwirrt.	Chi la usa attacca il bersaglio avvolgendolo con un vento fortissimo. Può anche confonderlo.	
+move_desc_0123	The user attacks with a swift chop.	手刀を勢いよく振りおろして相手を攻撃する。	Une attaque avec le tranchant de la main. Permet aussi de briser les barrières comme Mur Lumière et Protection.	Potente ataque que también es capaz de destruir  barreras como Pantalla de Luz y Reflejo.	Ein beherzter Handkantenschlag. Durchbricht Barrieren wie Lichtschild und Reflektor.	Colpisce il bersaglio con una mano e rompe barriere come Riflesso e Schermoluce.	
+move_desc_0124	The target is cut with a scythe or claw.	カマやツメなどで相手を切りつけて攻撃する。	Coupe l'ennemi avec des lames ou des griffes. Hors combat, permet de couper des arbres fins.	Corta con garras, guadañas, etc. También sirve para  cortar árboles finos.	Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.	Attacca il bersaglio con artigli o falci affilate. Fuori dalla lotta si usa per tagliare piccoli alberi.	
+move_desc_0125	Star-shaped rays are shot at the opposing Pokémon.	星型の光を発射して相手を攻撃する。	Le lanceur envoie des rayons d'étoiles. Touche toujours l'ennemi.	Lanza rayos en forma de estrella que no fallan nunca.	Verschießt sternförmige Strahlen, die stets treffen, auf Gegner in der Umgebung.	Chi la usa colpisce i nemici intorno con raggi a forma di stella. Questo attacco è infallibile.	
+move_desc_0126	The target is jabbed with a sharply pointed horn to inflict damage.	鋭くとがったつので相手を攻撃する。	Frappe l'ennemi d'un coup de corne pointue pour infliger des dégâts.	Ataca al objetivo con una cornada.	Spießt das Ziel mit einem spitzen Horn auf.	Danneggia il bersaglio infilzandolo con un corno affilato.	
+move_desc_0127	The target is stomped with a big foot.	大きな足で相手を踏みつけて攻撃する。	Écrase l'ennemi avec un énorme pied. Peut aussi l'apeurer.	Tremendo pisotón que puede hacer retroceder al  objetivo.	Stampfen mit dem Fuß. Das Ziel schreckt eventuell zurück.	Colpisce il bersaglio con un grosso piede e può anche farlo tentennare.	
+move_desc_0128	The user sticks out its head and attacks by charging straight into the target.	頭を突きだしてまっすぐつっこんで攻撃する。	Le lanceur donne un coup de tête. Peut apeurer l'ennemi.	Lanza un potente cabezazo que puede hacer  retroceder al objetivo.	Rammt das Ziel mit einer Kopfnuss. Ziel schreckt eventuell zurück.	Chi la usa si lancia diritto di testa contro il bersaglio. Può anche farlo tentennare.	
+move_desc_0129	The user bites hard on the target with its sharp front fangs.	鋭い前歯で強くかみついて攻撃する。	Le lanceur mord l'ennemi à l'aide de ses incisives aiguisées. Peut aussi l'apeurer.	Ataque con finos colmillos. Puede hacer retroceder al  objetivo.	Angriff mit scharfen Reißzähnen. Ziel schreckt eventuell zurück.	Chi la usa morde il bersaglio con i suoi incisivi affilati. Può anche farlo tentennare.	
+move_desc_0130	The target is slammed with a long tail, vines, or the like to inflict damage.	長いしっぽやつるなどを使い相手をたたきつけて攻撃する。	Fouette l'ennemi avec la queue ou une liane, par exemple, pour infliger des dégâts.	Golpea con las extremidades.	Schlag mit einem langen Schweif, einer Ranke oder Ähnlichem.	Infligge danni al bersaglio con la coda, con una liana o simili.	
+move_desc_0131	The user drops onto the target with its full body weight.	全身で相手にのしかかり攻撃する。	Le lanceur se laisse tomber sur l'ennemi de tout son poids. Peut aussi le paralyser.	Salta sobre el objetivo con todo su peso. Puede paralizar.	Trifft das Ziel mit vollem Körpereinsatz. Bewirkt eventuell Paralyse.	Chi la usa carica il bersaglio con tutto il corpo. Può causarne anche la paralisi.	
+move_desc_0132	Unknown	不明	Le lanceur regagne tous ses PV et soigne ses problèmes de statut, puis il dort pendant deux tours.	Restaura todos los PS y cura todos los problemas de  estado del usuario. Duerme los dos próximos turnos.	Anwender wird vollkommen geheilt und schläft die folgenden zwei Runden.	Chi la usa recupera tutti i PS e guarisce da tutti i suoi problemi di stato, ma dorme per due turni.	
+move_desc_0133	An attack made out of desperation.	あがいて相手を攻撃する。	Une attaque désespérée, utilisée quand le lanceur n'a plus de PP. Le blesse aussi légèrement.	Solo se usa como último recurso al acabarse los PP.  Hiere un poco al agresor.	Angriff nur bei verbrauchten AP. Anwender verletzt sich selbst leicht.	Mossa da usare solo in caso estremo, quando non si hanno più PP. Danneggia anche chi la usa.	
+move_desc_0134	The user shoots boiling hot water at its target.	熱く煮えたぎる水を相手に発射して攻撃する。	L'ennemi est attaqué par un jet d'eau bouillante. Peut aussi le brûler.	Ataca arrojando agua hirviendo al objetivo. Puede causar quemaduras.	Heizt dem Ziel mit einem Schwall siedend heißen Kochwassers ein. Das Ziel erleidet dabei eventuell Verbrennungen.	Chi la usa attacca il bersaglio con un getto d'acqua bollente che può anche scottarlo.	
+move_desc_0135	The target is blasted by a huge volume of water launched under great pressure.	大量の水を激しい勢いで相手に発射して攻撃する。	Un puissant jet d'eau est dirigé sur l'ennemi.	Lanza una gran masa de agua a presión para atacar.	Spritzt eine Menge Wasser mit Hochdruck auf das Ziel.	Il bersaglio è travolto da un potente getto d'acqua spruzzato ad altissima pressione.	
+move_desc_0136	A long body or vines are used to wrap and squeeze the target.	長い体やつるなどをつかって相手にまきついて攻撃する。	Le lanceur ligote l'ennemi avec des lianes ou son corps pour l'écraser durant quatre à cinq tours.	Oprime al objetivo de cuatro a cinco turnos con ramas  o con su cuerpo.	Umwickelt das Ziel über vier bis fünf Runden mit Ranken oder Ähnlichem und fügt ihm Schaden zu.	Il lungo corpo o le liane di chi la usa avvolgono e stritolano il bersaglio per quattro o cinque turni.	
+move_desc_0137	A long body or vines are used to wrap and squeeze the target.	長い体やつるなどをつかって相手にまきついて攻撃する。	Le lanceur ligote l'ennemi avec des lianes ou son corps pour l'écraser durant quatre à cinq tours.	Oprime al objetivo de cuatro a cinco turnos con ramas  o con su cuerpo.	Umwickelt das Ziel über vier bis fünf Runden mit Ranken oder Ähnlichem und fügt ihm Schaden zu.	Il lungo corpo o le liane di chi la usa avvolgono e stritolano il bersaglio per quattro o cinque turni.	
+move_desc_0200	The target is slashed with scythes or claws.	カマやツメなどで相手を切りつけて攻撃する。	Un coup de faux ou de griffe dont la force augmente quand il touche plusieurs fois d'affilée.	Ataque con garras o guadaña que crece en intensidad  si se usa repetidas veces.	Eine Attacke mit Scheren oder Klauen, deren Härte bei aufeinanderfolgenden Treffern zunimmt.	Colpisce il bersaglio con falci o artigli. Se usata in successione aumenta di potenza ogni volta che va a segno.	
+move_desc_0201	The user bites the target.	かみついて攻撃する。	Le lanceur pique l'ennemi. Si ce dernier tient une Baie, le lanceur la dévore et obtient son effet.	Pica al objetivo. Si el objetivo lleva una baya, el  usuario se la come y se beneficia de su efecto.	Anwender beißt das Ziel. Trägt dieses eine Beere, isst der Anwender sie und erhält ihren Effekt.	Chi la usa morde il bersaglio. Inoltre, se questi ha una bacca, gliela ruba e ne sfrutta gli effetti.	
+move_desc_0202	The target is bitten with viciously sharp fangs.	鋭くとがった歯でかみついて攻撃する。	L'ennemi est mordu par de tranchantes canines. Peut l'apeurer.	Un voraz bocado que puede hacer retroceder al  objetivo.	Beißt zu und lässt das Ziel eventuell zurückschrecken.	Il bersaglio viene morso da denti affilatissimi che possono farlo tentennare.	
+move_desc_0203	This move enables the user to attack quickly.	相手より先に攻撃できる。	Permet au lanceur de frapper en premier. Échoue si l'ennemi ne prépare pas une attaque.	Permite atacar primero. Falla si el objetivo no está  preparando ningún ataque.	Ermöglicht den Erstschlag. Gelingt aber nur, wenn das Ziel gerade eine Attacke vorbereitet, die KP-Schaden zufügen würde.	Chi la usa può attaccare per primo. Fallisce se il bersaglio non sta preparando un attacco.	
+move_desc_0204	The user exhales a mighty gust that inflicts damage.	ものすごい息を相手に吹きつけて攻撃する。	Le lanceur souffle fort sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser.	Poderosa ráfaga de aliento que golpea al objetivo y  puede paralizarlo.	Fegt das Ziel mit zerstörerisch heißem Atem weg. Paralysiert das Ziel eventuell.	Investe il bersaglio con una raffica potentissima che arreca danni. Può anche paralizzarlo.	
+move_desc_0205	A jolt of electricity crashes down on the target to inflict damage.	電気の刺激を相手に浴びせて攻撃する。	Une décharge électrique tombe sur l'ennemi. Peut aussi le paralyser.	Ataque eléctrico que puede paralizar al objetivo.	Eine Elektro-Attacke, die das Ziel eventuell paralysiert.	Danneggia il bersaglio con una scarica elettrica che può anche paralizzarlo.	
+move_desc_0206	The user throws an electrically charged tackle at the target.	電気をまとい相手に突進して攻撃する。	Lance une charge électrique sur l'ennemi. Peut aussi le paralyser.	Ataque eléctrico que puede llegar a paralizar.	Elektro-Hieb, der das Ziel paralysieren kann.	Colpisce il bersaglio con una scarica elettrica e può anche paralizzarlo.	
+move_desc_0207	A powerful low kick that makes the target fall over.	足を強くけり相手を転ばせて攻撃する。	Un puissant coup de pied bas qui fauche l'ennemi. Il est plus efficace contre les ennemis lourds.	Patada baja. Cuanto más pesa el objetivo, más daño  causa.	Ein Tritt, der das Ziel umwirft. Je schwerer das Ziel ist, desto mehr Schaden fügt ihm die Attacke zu.	Un calcio basso e potente che fa cadere il bersaglio. Danneggia maggiormente i Pokémon più pesanti.	
+move_desc_0208	The target is attacked with a sharp chop.	鋭いチョップで相手をたたいて攻撃する。	L'ennemi est tranché violemment. Taux de critiques élevé.	Da un golpe cortante. Suele ser crítico.	Gute Möglichkeit, einen Volltreffer zu landen.	Colpisce il bersaglio con un colpo netto. Probabile brutto colpo.	
+move_desc_0209	The target is attacked with small flames.	小さな炎を相手に発射して攻撃する。	L'ennemi est attaqué par une faible flamme. Peut aussi le brûler.	Ataca con llamas pequeñas que pueden causar  quemaduras.	Schwache Feuer-Attacke, durch die das Ziel eventuell Verbrennungen erleidet.	Il bersaglio viene colpito da fiammelle che possono  anche scottarlo.	
+move_desc_0210	The target is struck with large, imposing wings spread wide to inflict damage.	大きくひろげたりっぱな翼を相手にぶつけて攻撃する。	L'ennemi est frappé par de larges ailes déployées pour infliger des dégâts.	Golpea al objetivo con unas grandes alas.	Trifft das Ziel mit ausgebreiteten Flügeln.	Infligge danni al bersaglio spiegando delle grandi ali possenti.	
+move_desc_0211	The target is jabbed with a sharply pointed beak or horn.	鋭くとがったくちばしやつので相手を突いて攻撃する。	Frappe l'ennemi d'un bec pointu ou d'une corne pour infliger des dégâts.	Ensarta al objetivo con un cuerno o pico punzante.	Greift das Ziel mit dem Schnabel oder Horn an.	Colpisce il bersaglio con il becco appuntito o con un corno.	
+move_desc_0212	The target is licked with a long tongue, causing damage.	長い舌で相手をなめまわして攻撃する。	Un grand coup de langue qui inflige des dégâts à l'ennemi. Peut aussi le paralyser.	Una lengua ataca al objetivo. Puede causar parálisis.	Leck-Attacke mit langer Zunge. Das Ziel wird eventuell paralysiert.	Una lingua lunga infligge danni al bersaglio e può anche paralizzarlo.	
+move_desc_0213	The user slashes with a sharp claw made from shadows.	影からつくった鋭いツメで相手を切り裂く。	Attaque avec une griffe puissante faite d'ombres. Taux de critiques élevé.	Ataca con una garra afilada hecha de sombras. Suele ser crítico.	Das Ziel wird mit scharfen Klauen aus der Schattenwelt attackiert. Hohe Volltrefferquote.	Chi la usa attacca con artigli d'ombra che colpiscono con gran forza. Probabile brutto colpo.	
+move_desc_0214	The target is struck with slender, whiplike vines to inflict damage.	ムチのようにしなる細長いつるで相手をたたきつけて攻撃する。	Fouette l'ennemi avec de fines lianes pour infliger des dégâts.	Azota al objetivo con ramas finas.	Peitschenähnlicher Schlag mit Ranken.	Infligge danni al bersaglio con liane sottili simili a fruste.	
+move_desc_0215	Sharp-edged leaves are launched to slash at the opposing Pokémon.	はっぱをとばして相手を切りつけて攻撃する。	Des feuilles aiguisées comme des rasoirs entaillent l'ennemi. Taux de critiques élevé.	Corta con hojas afiladas. Suele ser crítico.	Trifft das Ziel mit Blättern. Hohe Volltrefferquote.	Foglie taglienti sferzano i nemici intorno. Probabile brutto colpo.	
+move_desc_0216	The user attacks by hurling a blob of mud at the target.	泥の塊を相手に投げつけて攻撃する。	Le lanceur attaque en projetant de la boue sur l'ennemi. Réduit aussi la Vitesse de la cible.	El usuario lanza lodo al objetivo y reduce su  Velocidad.	Angriff mit Lehm, der den Initiative-Wert des Zieles senkt.	Chi la usa attacca lanciando fango sul bersaglio, riducendone anche la Velocità.	
+move_desc_0217	The user flash-freezes chunks of ice and hurls them at the target.	氷の塊を一瞬でつくり相手に素早く放つ。	Le lanceur crée des éclats de glace qu'il envoie sur l'ennemi. Frappe toujours en premier.	Crea bolas de hielo y las lanza a gran velocidad.  Este movimiento siempre va primero.	Das Ziel wird mit Eisklumpen beworfen. Diese Attacke hat Erstschlaggarantie.	Chi la usa crea dei pezzi di ghiaccio e li lancia. Con questa mossa si colpisce per primi.	
+move_desc_0218	The user blows its cold breath on the target.	冷たい息を相手に吹きつけて攻撃する。	Un souffle froid blesse l'ennemi. L'effet est toujours critique.	Quien lo usa ataca lanzando un aliento gélido.  Siempre resulta en un golpe crítico.	Anwender greift an, indem er dem Ziel eisigen Atem entgegenhaucht. Volltreffergarantie.	Chi la usa attacca il bersaglio con un soffio d'aria gelida. Brutto colpo assicurato.	
+move_desc_0219	The user lunges at the target at a speed that makes it almost invisible.	目にも留まらぬものすごい速さで相手につっこむ。	Le lanceur fonce sur l'ennemi si rapidement qu'on parvient à peine à le discerner. Frappe toujours en premier.	Ataque rápido que permite golpear en primer lugar.	Sehr schneller Angriff mit Erstschlaggarantie.	Chi la usa colpisce sempre per primo e a una tale velocità da rendersi quasi invisibile.	
+move_desc_0220	Hard, pointed, sharp claws rake the target to inflict damage.	硬くとがった鋭いツメで相手をひっかいて攻撃する。	Lacère l'ennemi avec des griffes acérées pour lui infliger des dégâts.	Araña con afiladas garras.	Das Ziel wird mit scharfen Klauen zerkratzt.	Infligge danni al bersaglio con artigli acuminati, duri e affilati.	
+move_desc_0221	A physical attack in which the user charges and slams into the target with its whole body.	相手にむかって全身でぶつかっていき攻撃する。	Le lanceur charge l'ennemi et le percute de tout son corps.	Embiste con todo el cuerpo.	Trifft das Ziel mit vollem Körpereinsatz.	Attacco fisico che colpisce il bersaglio investendolo con tutto il corpo.	
+move_desc_0222	The target is physically pounded with a long tail, a foreleg, or the like.	長いしっぽや手などを使って相手をはたいて攻撃する。	Écrase l'ennemi avec les pattes avant ou la queue, par exemple.	Golpea con las patas o la cola.	Ein Hieb mit den Vorderbeinen oder dem Schweif.	Colpisce il bersaglio con la coda o le zampe anteriori.	
+move_desc_0223	The target is cut with a scythe or claw.	カマやツメなどで相手を切りつけて攻撃する。	Coupe l'ennemi avec des lames ou des griffes. Hors combat, permet de couper des arbres fins.	Corta con garras, guadañas, etc. También sirve para  cortar árboles finos.	Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.	Attacca il bersaglio con artigli o falci affilate. Fuori dalla lotta si usa per tagliare piccoli alberi.	
+move_desc_0224	The target is stabbed with a poisonous tentacle or arm steeped.	毒にそまった触手や腕で相手を突き刺す。	Attaque l'ennemi avec un tentacule ou un bras plein de poison. Peut aussi l'empoisonner.	Pincha al objetivo con un tentáculo o brazo envenenado. Puede llegar a envenenar al objetivo.	Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.	Il bersaglio è colpito da un tentacolo o da un arto intriso di una sostanza tossica che può anche avvelenarlo.	
+move_desc_0225	The opposing Pokémon are attacked with a spray of harsh acid.	強い酸を相手にかけて攻撃する。	Le lanceur attaque l'ennemi avec un jet d'acide corrosif. Peut aussi baisser sa Défense Spéciale.	Rocía a los enemigos con un ácido corrosivo.  Puede bajar la Defensa Especial.	Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt.	Colpisce i nemici intorno spruzzando un acido corrosivo. Può anche ridurne la Difesa Speciale.	
+move_desc_0226	The user tears at the target with blades formed by psychic power.	実体化させた心の刃で相手を切り裂く。	Le lanceur entaille l'ennemi grâce à des lames faites de pouvoir psychique. Taux de critiques élevé.	Ataca al objetivo con cuchillas formadas por energía  psíquica. Suele ser crítico.	Das Ziel wird mit Klingen attackiert, die aus Psycho-Energie bestehen. Hohe Volltrefferquote.	Chi la usa colpisce il bersaglio con lame fatte di forza psichica. Probabile brutto colpo.	
+move_desc_0227	The user picks up and throws a small rock at the target to attack.	小さな岩を持ちあげて相手に投げつけて攻撃する。	Le lanceur lâche une pierre sur l'ennemi.	Tira una pequeña roca al objetivo.	Das Ziel wird mit einem kleinen Stein beworfen.	Chi la usa solleva una roccia e la lancia contro il bersaglio.	
+move_desc_0228	The target is raked with steel claws.	鋼鉄のツメで相手を切り裂いて攻撃する。	Attaque avec des griffes d'acier. Peut aussi augmenter l'Attaque du lanceur.	Ataque con garras de acero que puede aumentar el  Ataque del usuario.	Klauen-Attacke, die eventuell den Angriffs-Wert des Anwenders erhöht.	Colpisce il bersaglio con artigli d'acciaio. Può anche aumentare l'Attacco di chi la usa.	
+move_desc_0229	The user strikes the target with tough punches as fast as bullets.	弾丸のような速くて硬いパンチを相手にくりだす。	Le lanceur envoie des coups de poing aussi rapides que des balles de revolver. Frappe toujours en premier.	Ataca con fuertes puñetazos tan rápidos como proyectiles. Este movimiento siempre va primero.	Das Ziel wird von ultraschnellen Hieben getroffen. Erstschlaggarantie.	Chi la usa attacca con una scarica di pugni veloci come proiettili. Con questa mossa si colpisce per primi.	
+move_desc_0230	The target is blasted with a forceful shot of water.	水を勢いよく相手に発射して攻撃する。	De l'eau est projetée avec force sur l'ennemi.	Ataca disparando agua con gran potencia.	Das Ziel wird mit Wasser bespritzt.	Il bersaglio è colpito da un potente getto d'acqua.	
+move_desc_0231	The user flops around, doing damage to the target.	ピョンピョンと跳ねて相手を攻撃する。	Le lanceur barbote et éclabousse les environs. Cette capacité n'a aucun effet.	No tiene ningún efecto. Solo salpica.	Nur ein Platscher, der überhaupt nichts bewirkt.	Chi la usa sguazza nell'acqua, senza ottenere alcun effetto.	
+move_desc_0232	The target is blasted with a forceful shot of water.	水を勢いよく相手に発射して攻撃する。	De l'eau est projetée avec force sur l'ennemi.	Ataca disparando agua con gran potencia.	Das Ziel wird mit Wasser bespritzt.	Il bersaglio è colpito da un potente getto d'acqua.	
+move_desc_0233	The user hurls mud in the target's face to inflict damage.	相手の顔などに泥を投げつけて攻撃する。	Le lanceur envoie de la boue au visage de l'ennemi pour infliger des dégâts et baisser sa Précision.	Echa lodo en la cara para bajar la Precisión.	Schadet dem Ziel durch Matsch. Dessen Genauigkeit sinkt.	Chi la usa butta fango in faccia al bersaglio per arrecargli danni e ridurne la precisione.	
+move_desc_0234	The user focuses its willpower to its head and attacks the target.	思念の力を額に集めて攻撃する。	Le lanceur concentre sa volonté et donne un coup de tête. Peut aussi apeurer l'ennemi.	Concentra su energía psíquica en la cabeza para  golpear. Puede hacer que el objetivo retroceda.	Anwender konzentriert seinen Willen und rammt das Ziel. Dieses schreckt eventuell zurück.	Chi la usa concentra la forza nella testa e si lancia contro il bersaglio. Può anche farlo tentennare.	
+move_desc_0235	The target is hit by a weak telekinetic force.	弱い念力を相手に送って攻撃する。	Une faible vague télékinétique frappe l'ennemi. Peut aussi le plonger dans la confusion.	Débil ataque telequinético que puede causar  confusión.	Das Ziel wird von schwacher telekinetischer Energie getroffen und eventuell verwirrt.	Colpisce il bersaglio con una leggera forza telecinetica e può anche confonderlo.	
+move_desc_0236	The user stabs the target with a poisonous stinger.	毒のあるハリを相手に突き刺して攻撃する。	Un dard toxique qui transperce l'ennemi. Peut aussi l'empoisonner.	Lanza un aguijón tóxico que puede envenenar al  objetivo.	Angriff mit Giftstachel. Das Ziel wird eventuell vergiftet.	Colpisce il bersaglio con un aculeo tossico che può anche avvelenarlo.	
+move_desc_0237	A spray of countless bubbles is jetted at the opposing Pokémon.	無数の泡を相手に吹きかけて攻撃する。	Des bulles frappent l'ennemi. Peut réduire sa Vitesse.	Lanza burbujas a los contrincantes y puede reducir  su Velocidad.	Angriff mit Blasen. Initiative-Wert des Zieles wird eventuell gesenkt.	Una pioggia di bolle investe i nemici intorno e può anche ridurne la Velocità.	
+move_desc_0238	The user approaches the target disarmingly, then throws a sucker punch.	さりげなく相手にちかづき油断したすきをみてなぐりつける。	Le lanceur s'approche l'air de rien avant de frapper par surprise. N'échoue jamais.	Engaña al objetivo para acercarse y dar un puñetazo  que no falla.	Anwender nähert sich mit Unschuldsmiene dem Ziel und schlägt zu, sobald dieses unachtsam wird. Ein Treffer ist gewiss.	Chi la usa si avvicina al bersaglio facendo finta di niente, per poi scagliare un pugno infallibile a tradimento.	
+move_desc_0239	The target is hit with wings of steel.	硬い翼を相手に叩きつけて攻撃する。	Le lanceur frappe l'ennemi avec des ailes d'acier. Peut aussi augmenter la Défense du lanceur.	Alas macizas que golpean al objetivo y pueden subir  la Defensa del usuario.	Trifft das Ziel mit Stahlflügeln. Verteidigungs-Wert des Anwenders steigt eventuell.	Colpisce il bersaglio con ali d'acciaio. Può anche aumentare la Difesa di chi la usa.	
+move_desc_0240	The user bites with flame-cloaked fangs.	炎をまとったキバでかみつく。	Le lanceur utilise une morsure enflammée. Peut aussi brûler ou apeurer l'ennemi.	Usa colmillos en llamas para morder. Puede hacer  que el objetivo retroceda o reciba quemaduras.	Anwender beißt mit flammenden Reißzähnen zu. Ziel schreckt eventuell zurück oder verbrennt sich.	Chi la usa morde con denti infuocati. Può anche scottare o far tentennare il bersaglio.	
+move_desc_0241	The user attacks with a punch.	岩をも砕くようなパンチで攻撃する。	Porte un coup de poing à l'ennemi qui peut baisser sa Défense. Peut aussi briser des rochers fissurés.	Ataque con los puños. Puede bajar la Defensa del  objetivo. Puede romper rocas fuera del combate.	Diese steinbrechende Attacke kann den Verteidigungs-Wert des Zieles senken und außerhalb von Kämpfen rissige Felsen zertrümmern.	Chi la usa colpisce il bersaglio con un pugno in grado di frantumare anche la roccia. Può anche ridurne la Difesa.	
+move_name_0001	Thunder Shock	でんきショック	Éclair	Impactrueno	Donnerschock	Tuonoshock	
+move_name_0002	Quick Attack	でんこうせっか	Vive-Attaque	Ataque Rápido	Ruckzuckhieb	Attacco Rapido	
+move_name_0003	Scratch	ひっかく	Griffe	Arañazo	Kratzer	Graffio	
+move_name_0004	Ember	ひのこ	Flammèche	Ascuas	Glut	Braciere	
+move_name_0005	Vine Whip	つるのムチ	Fouet Lianes	Látigo Cepa	Rankenhieb	Frustata	
+move_name_0006	Tackle	たいあたり	Charge	Placaje	Tackle	Azione	
+move_name_0007	Razor Leaf	はっぱカッター	Tranch'Herbe	Hoja Afilada	Rasierblatt	Foglielama	
+move_name_0008	Take Down	とっしん	Bélier	Derribo	Bodycheck	Riduttore	
+move_name_0009	Water Gun	みずでっぽう	Pistolet à O	Pistola Agua	Aquaknarre	Pistolacqua	
+move_name_0010	Bite	かみつく	Morsure	Mordisco	Biss	Morso	
+move_name_0011	Pound	はたく	Écras'Face	Destructor	Pfund	Botta	
+move_name_0012	Double Slap	おうふくビンタ	Torgnoles	Doble Bofetón	Duplexhieb	Doppiasberla	
+move_name_0013	Wrap	まきつく	Ligotage	Constricción	Wickel	Avvolgibotta	
+move_name_0014	Hyper Beam	はかいこうせん	Ultralaser	Hiperrayo	Hyperstrahl	Iper Raggio	
+move_name_0015	Lick	したでなめる	Léchouille	Lengüetazo	Schlecker	Leccata	
+move_name_0016	Dark Pulse	あくのはどう	Vibrobscur	Pulso Umbrío	Finsteraura	Neropulsar	
+move_name_0017	Smog	スモッグ	Purédpois	Polución	Smog	Smog	
+move_name_0018	Sludge	ヘドロこうげき	Détritus	Residuos	Schlammbad	Fango	
+move_name_0019	Metal Claw	メタルクロー	Griffe Acier	Garra Metal	Metallklaue	Ferrartigli	
+move_name_0020	Vice Grip	はさむ	Force Poigne	Agarre	Klammer	Presa	
+move_name_0021	Flame Wheel	かえんぐるま	Roue de Feu	Rueda Fuego	Flammenrad	Ruotafuoco	
+move_name_0022	Megahorn	メガホーン	Mégacorne	Megacuerno	Vielender	Megacorno	
+move_name_0023	Wing Attack	つばさでうつ	Cru-Aile	Ataque Ala	Flügelschlag	Attacco d'Ala	
+move_name_0024	Flamethrower	かえんほうしゃ	Lance-Flammes	Lanzallamas	Flammenwurf	Lanciafiamme	
+move_name_0025	Sucker Punch	ふいうち	Coup Bas	Golpe Bajo	Tiefschlag	Sbigoattacco	
+move_name_0026	Dig	あなをほる	Tunnel	Excavar	Schaufler	Fossa	
+move_name_0027	Low Kick	けたぐり	Balayage	Patada Baja	Fußkick	Colpo Basso	
+move_name_0028	Cross Chop	クロスチョップ	Coup-Croix	Tajo Cruzado	Kreuzhieb	Incrocolpo	
+move_name_0029	Psycho Cut	サイコカッター	Coupe Psycho	Psicocorte	Psychoklinge	Psicotaglio	
+move_name_0030	Psybeam	サイケこうせん	Rafale Psy	Psicorrayo	Psystrahl	Psicoraggio	
+move_name_0031	Earthquake	じしん	Séisme	Terremoto	Erdbeben	Terremoto	
+move_name_0032	Stone Edge	ストーンエッジ	Lame de Roc	Roca Afilada	Steinkante	Pietrataglio	
+move_name_0033	Ice Punch	れいとうパンチ	Poing-Glace	Puño Hielo	Eishieb	Gelopugno	
+move_name_0034	Heart Stamp	ハートスタンプ	Crève-Cœur	Arrumaco	Herzstempel	Cuorestampo	
+move_name_0035	Discharge	ほうでん	Coup d'Jus	Chispazo	Ladungsstoß	Scarica	
+move_name_0036	Flash Cannon	ラスターカノン	Luminocanon	Foco Resplandor	Lichtkanone	Cannonflash	
+move_name_0037	Peck	つつく	Picpic	Picotazo	Schnabel	Beccata	
+move_name_0038	Drill Peck	ドリルくちばし	Bec Vrille	Pico Taladro	Bohrschnabel	Perforbecco	
+move_name_0039	Ice Beam	れいとうビーム	Laser Glace	Rayo Hielo	Eisstrahl	Geloraggio	
+move_name_0040	Blizzard	ふぶき	Blizzard	Ventisca	Blizzard	Bora	
+move_name_0041	Air Slash	エアスラッシュ	Lame d'Air	Tajo Aéreo	Luftschnitt	Eterelama	
+move_name_0042	Heat Wave	ねっぷう	Canicule	Onda Ígnea	Hitzewelle	Ondacalda	
+move_name_0043	Twineedle	ダブルニードル	Double-Dard	Doble Ataque	Duonadel	Doppio Ago	
+move_name_0044	Poison Jab	どくづき	Direct Toxik	Puya Nociva	Gifthieb	Velenpuntura	
+move_name_0045	Aerial Ace	つばめがえし	Aéropique	Golpe Aéreo	Aero-Ass	Aeroassalto	
+move_name_0046	Drill Run	ドリルライナー	Tunnelier	Taladradora	Schlagbohrer	Giravvita	
+move_name_0047	Petal Blizzard	はなふぶき	Tempête Florale	Tormenta Floral	Blütenwirbel	Fiortempesta	
+move_name_0048	Mega Drain	メガドレイン	Méga-Sangsue	Megaagotar	Megasauger	Megassorbimento	
+move_name_0049	Bug Buzz	むしのさざめき	Bourdon	Zumbido	Käfergebrumm	Ronzio	
+move_name_0050	Poison Fang	どくどくのキバ	Crochet Venin	Colmillo Veneno	Giftzahn	Velenodenti	
+move_name_0051	Night Slash	つじぎり	Tranche-Nuit	Tajo Umbrío	Nachthieb	Nottesferza	
+move_name_0052	Slash	きりさく	Tranche	Cuchillada	Schlitzer	Lacerazione	
+move_name_0053	Bubble Beam	バブルこうせん	Bulles d'O	Rayo Burbuja	Blubbstrahl	Bollaraggio	
+move_name_0054	Submission	じごくぐるま	Sacrifice	Sumisión	Überroller	Sottomissione	
+move_name_0055	Karate Chop	からてチョップ	Poing-Karaté	Golpe Kárate	Karateschlag	Colpokarate	
+move_name_0056	Low Sweep	ローキック	Balayette	Puntapié	Fußtritt	Calciobasso	
+move_name_0057	Aqua Jet	アクアジェット	Aqua-Jet	Acua Jet	Wasserdüse	Acquagetto	
+move_name_0058	Aqua Tail	アクアテール	Hydroqueue	Acua Cola	Nassschweif	Idrondata	
+move_name_0059	Seed Bomb	タネばくだん	Canon Graine	Bomba Germen	Samenbomben	Semebomba	
+move_name_0060	Psyshock	サイコショック	Choc Psy	Psicocarga	Psychoschock	Psicoshock	
+move_name_0061	Rock Throw	いわおとし	Jet-Pierres	Lanzarrocas	Steinwurf	Sassata	
+move_name_0062	Ancient Power	げんしのちから	Pouvoir Antique	Poder Pasado	Antik-Kraft	Forzantica	
+move_name_0063	Rock Tomb	がんせきふうじ	Tomberoche	Tumba Rocas	Felsgrab	Rocciotomba	
+move_name_0064	Rock Slide	いわなだれ	Éboulement	Avalancha	Steinhagel	Frana	
+move_name_0065	Power Gem	パワージェム	Rayon Gemme	Joya de Luz	Juwelenkraft	Gemmoforza	
+move_name_0066	Shadow Sneak	かげうち	Ombre Portée	Sombra Vil	Schattenstoß	Furtivombra	
+move_name_0067	Shadow Punch	シャドーパンチ	Poing Ombre	Puño Sombra	Finsterfaust	Pugnodombra	
+move_name_0068	Shadow Claw	シャドークロー	Griffe Ombre	Garra Umbría	Dunkelklaue	Ombrartigli	
+move_name_0069	Ominous Wind	あやしいかぜ	Vent Mauvais	Viento Aciago	Unheilböen	Funestovento	
+move_name_0070	Shadow Ball	シャドーボール	Ball'Ombre	Bola Sombra	Spukball	Palla Ombra	
+move_name_0071	Bullet Punch	バレットパンチ	Pisto-Poing	Puño Bala	Patronenhieb	Pugnoscarica	
+move_name_0072	Magnet Bomb	マグネットボム	Bombaimant	Bomba Imán	Magnetbombe	Bombagnete	
+move_name_0073	Steel Wing	はがねのつばさ	Aile d'Acier	Ala de Acero	Stahlflügel	Alacciaio	
+move_name_0074	Iron Head	アイアンヘッド	Tête de Fer	Cabeza de Hierro	Eisenschädel	Metaltestata	
+move_name_0075	Parabolic Charge	パラボラチャージ	Parabocharge	Carga Parábola	Parabolladung	Caricaparabola	
+move_name_0076	Spark	スパーク	Étincelle	Chispa	Funkensprung	Scintilla	
+move_name_0077	Thunder Punch	かみなりパンチ	Poing-Éclair	Puño Trueno	Donnerschlag	Tuonopugno	
+move_name_0078	Thunder	かみなり	Fatal-Foudre	Trueno	Donner	Tuono	
+move_name_0079	Thunderbolt	１０まんボルト	Tonnerre	Rayo	Donnerblitz	Fulmine	
+move_name_0080	Twister	たつまき	Ouragan	Ciclón	Windhose	Tornado	
+move_name_0081	Dragon Breath	りゅうのいぶき	Dracosouffle	Dragoaliento	Feuerodem	Dragospiro	
+move_name_0082	Dragon Pulse	りゅうのはどう	Dracochoc	Pulso Dragón	Drachenpuls	Dragopulsar	
+move_name_0083	Dragon Claw	ドラゴンクロー	Dracogriffe	Garra Dragón	Drachenklaue	Dragartigli	
+move_name_0084	Disarming Voice	チャームボイス	Voix Enjôleuse	Voz Cautivadora	Säuselstimme	Incantavoce	
+move_name_0085	Draining Kiss	ドレインキッス	Vampibaiser	Beso Drenaje	Diebeskuss	Assorbibacio	
+move_name_0086	Dazzling Gleam	マジカルシャイン	Éclat Magique	Brillo Mágico	Zauberschein	Magibrillio	
+move_name_0087	Moonblast	ムーンフォース	Pouvoir Lunaire	Fuerza Lunar	Mondgewalt	Forza Lunare	
+move_name_0088	Play Rough	じゃれつく	Câlinerie	Carantoña	Knuddler	Carineria	
+move_name_0089	Cross Poison	クロスポイズン	Poison-Croix	Veneno X	Giftstreich	Velenocroce	
+move_name_0090	Sludge Bomb	ヘドロばくだん	Bomb-Beurk	Bomba Lodo	Matschbombe	Fangobomba	
+move_name_0091	Sludge Wave	ヘドロウェーブ	Cradovague	Onda Tóxica	Schlammwoge	Fangonda	
+move_name_0092	Gunk Shot	ダストシュート	Détricanon	Lanza Mugre	Mülltreffer	Sporcolancio	
+move_name_0093	Mud Shot	マッドショット	Tir de Boue	Disparo Lodo	Lehmschuss	Colpodifango	
+move_name_0094	Bone Club	ホネこんぼう	Massd'Os	Hueso Palo	Knochenkeule	Ossoclava	
+move_name_0095	Bulldoze	じならし	Piétisol	Terratemblor	Dampfwalze	Battiterra	
+move_name_0096	Mud Bomb	どろばくだん	Boue-Bombe	Bomba Fango	Schlammbombe	Pantanobomba	
+move_name_0097	Fury Cutter	れんぞくぎり	Taillade	Corte Furia	Zornklinge	Tagliofuria	
+move_name_0098	Bug Bite	むしくい	Piqûre	Picadura	Käferbiss	Coleomorso	
+move_name_0099	Signal Beam	シグナルビーム	Rayon Signal	Doble Rayo	Ampelleuchte	Segnoraggio	
+move_name_0100	X-Scissor	シザークロス	Plaie-Croix	Tijera X	Kreuzschere	Forbice X	
+move_name_0101	Flame Charge	ニトロチャージ	Nitrocharge	Nitrocarga	Nitroladung	Nitrocarica	
+move_name_0102	Flame Burst	はじけるほのお	Rebondifeu	Pirotecnia	Funkenflug	Pirolancio	
+move_name_0103	Fire Blast	だいもんじ	Déflagration	Llamarada	Feuersturm	Fuocobomba	
+move_name_0104	Brine	しおみず	Saumure	Salmuera	Lake	Acquadisale	
+move_name_0105	Water Pulse	みずのはどう	Vibraqua	Hidropulso	Aquawelle	Idropulsar	
+move_name_0106	Scald	ねっとう	Ébullition	Escaldar	Siedewasser	Idrovampata	
+move_name_0107	Hydro Pump	ハイドロポンプ	Hydrocanon	Hidrobomba	Hydropumpe	Idropompa	
+move_name_0108	Psychic	サイコキネシス	Psyko	Psíquico	Psychokinese	Psichico	
+move_name_0109	Psystrike	サイコブレイク	Frappe Psy	Onda Mental	Psychostoß	Psicobotta	
+move_name_0110	Ice Shard	こおりのつぶて	Éclats Glace	Canto Helado	Eissplitter	Geloscheggia	
+move_name_0111	Icy Wind	こごえるかぜ	Vent Glace	Viento Hielo	Eissturm	Ventogelato	
+move_name_0112	Frost Breath	こおりのいぶき	Souffle Glacé	Vaho Gélido	Eisesodem	Alitogelido	
+move_name_0113	Absorb	すいとる	Vol-Vie	Absorber	Absorber	Assorbimento	
+move_name_0114	Giga Drain	ギガドレイン	Giga-Sangsue	Gigadrenado	Gigasauger	Gigassorbimento	
+move_name_0115	Fire Punch	ほのおのパンチ	Poing de Feu	Puño Fuego	Feuerschlag	Fuocopugno	
+move_name_0116	Solar Beam	ソーラービーム	Lance-Soleil	Rayo Solar	Solarstrahl	Solarraggio	
+move_name_0117	Leaf Blade	リーフブレード	Lame-Feuille	Hoja Aguda	Laubklinge	Fendifoglia	
+move_name_0118	Power Whip	パワーウィップ	Mégafouet	Latigazo	Blattgeißel	Vigorcolpo	
+move_name_0119	Splash	はねる	Trempette	Salpicadura	Platscher	Splash	
+move_name_0120	Acid	ようかいえき	Acide	Ácido	Säure	Acido	
+move_name_0121	Air Cutter	エアカッター	Tranch'Air	Aire Afilado	Windschnitt	Aerasoio	
+move_name_0122	Hurricane	ぼうふう	Vent Violent	Vendaval	Orkan	Tifone	
+move_name_0123	Brick Break	かわらわり	Casse-Brique	Demolición	Durchbruch	Breccia	
+move_name_0124	Cut	いあいぎり	Coupe	Corte	Zerschneider	Taglio	
+move_name_0125	Swift	スピードスター	Météores	Rapidez	Sternschauer	Comete	
+move_name_0126	Horn Attack	つのでつく	Koud'Korne	Cornada	Hornattacke	Incornata	
+move_name_0127	Stomp	ふみつけ	Écrasement	Pisotón	Stampfer	Pestone	
+move_name_0128	Headbutt	ずつき	Coup d'Boule	Golpe Cabeza	Kopfnuss	Bottintesta	
+move_name_0129	Hyper Fang	ひっさつまえば	Croc de Mort	Hipercolmillo	Hyperzahn	Iperzanna	
+move_name_0130	Slam	たたきつける	Souplesse	Atizar	Slam	Schianto	
+move_name_0131	Body Slam	のしかかり	Plaquage	Golpe Cuerpo	Bodyslam	Corposcontro	
+move_name_0132	Rest	ねむる	Repos	Descanso	Erholung	Riposo	
+move_name_0133	Struggle	わるあがき	Lutte	Combate	Verzweifler	Scontro	
+move_name_0134	Scald	ねっとう	Ébullition	Escaldar	Siedewasser	Idrovampata	Kamex/Blastoise version of Scald.
+move_name_0135	Hydro Pump	ハイドロポンプ	Hydrocanon	Hidrobomba	Hydropumpe	Idropompa	Kamex/Blastoise version of Hydro Pump.
+move_name_0136	Wrap	まきつく	Ligotage	Constricción	Wickel	Avvolgibotta	Plant version of Wrap.
+move_name_0137	Wrap	まきつく	Ligotage	Constricción	Wickel	Avvolgibotta	Pink version of Wrap.
+move_name_0200	Fury Cutter	れんぞくぎり	Taillade	Corte Furia	Zornklinge	Tagliofuria	
+move_name_0201	Bug Bite	むしくい	Piqûre	Picadura	Käferbiss	Coleomorso	
+move_name_0202	Bite	かみつく	Morsure	Mordisco	Biss	Morso	
+move_name_0203	Sucker Punch	ふいうち	Coup Bas	Golpe Bajo	Tiefschlag	Sbigoattacco	
+move_name_0204	Dragon Breath	りゅうのいぶき	Dracosouffle	Dragoaliento	Feuerodem	Dragospiro	
+move_name_0205	Thunder Shock	でんきショック	Éclair	Impactrueno	Donnerschock	Tuonoshock	
+move_name_0206	Spark	スパーク	Étincelle	Chispa	Funkensprung	Scintilla	
+move_name_0207	Low Kick	けたぐり	Balayage	Patada Baja	Fußkick	Colpo Basso	
+move_name_0208	Karate Chop	からてチョップ	Poing-Karaté	Golpe Kárate	Karateschlag	Colpokarate	
+move_name_0209	Ember	ひのこ	Flammèche	Ascuas	Glut	Braciere	
+move_name_0210	Wing Attack	つばさでうつ	Cru-Aile	Ataque Ala	Flügelschlag	Attacco d'Ala	
+move_name_0211	Peck	つつく	Picpic	Picotazo	Schnabel	Beccata	
+move_name_0212	Lick	したでなめる	Léchouille	Lengüetazo	Schlecker	Leccata	
+move_name_0213	Shadow Claw	シャドークロー	Griffe Ombre	Garra Umbría	Dunkelklaue	Ombrartigli	
+move_name_0214	Vine Whip	つるのムチ	Fouet Lianes	Látigo Cepa	Rankenhieb	Frustata	
+move_name_0215	Razor Leaf	はっぱカッター	Tranch'Herbe	Hoja Afilada	Rasierblatt	Foglielama	
+move_name_0216	Mud Shot	マッドショット	Tir de Boue	Disparo Lodo	Lehmschuss	Colpodifango	
+move_name_0217	Ice Shard	こおりのつぶて	Éclats Glace	Canto Helado	Eissplitter	Geloscheggia	
+move_name_0218	Frost Breath	こおりのいぶき	Souffle Glacé	Vaho Gélido	Eisesodem	Alitogelido	
+move_name_0219	Quick Attack	でんこうせっか	Vive-Attaque	Ataque Rápido	Ruckzuckhieb	Attacco Rapido	
+move_name_0220	Scratch	ひっかく	Griffe	Arañazo	Kratzer	Graffio	
+move_name_0221	Tackle	たいあたり	Charge	Placaje	Tackle	Azione	
+move_name_0222	Pound	はたく	Écras'Face	Destructor	Pfund	Botta	
+move_name_0223	Cut	いあいぎり	Coupe	Corte	Zerschneider	Taglio	
+move_name_0224	Poison Jab	どくづき	Direct Toxik	Puya Nociva	Gifthieb	Velenpuntura	
+move_name_0225	Acid	ようかいえき	Acide	Ácido	Säure	Acido	
+move_name_0226	Psycho Cut	サイコカッター	Coupe Psycho	Psicocorte	Psychoklinge	Psicotaglio	
+move_name_0227	Rock Throw	いわおとし	Jet-Pierres	Lanzarrocas	Steinwurf	Sassata	
+move_name_0228	Metal Claw	メタルクロー	Griffe Acier	Garra Metal	Metallklaue	Ferrartigli	
+move_name_0229	Bullet Punch	バレットパンチ	Pisto-Poing	Puño Bala	Patronenhieb	Pugnoscarica	
+move_name_0230	Water Gun	みずでっぽう	Pistolet à O	Pistola Agua	Aquaknarre	Pistolacqua	
+move_name_0231	Splash	はねる	Trempette	Salpicadura	Platscher	Splash	
+move_name_0232	Water Gun	みずでっぽう	Pistolet à O	Pistola Agua	Aquaknarre	Pistolacqua	Kamex/Blastoise version of Water Gun.
+move_name_0233	Mud Slap	どろかけ	Coud'Boue	Bofetón Lodo	Lehmschelle	Fangosberla	
+move_name_0234	Zen Headbutt	しねんのずつき	Psykoud'Boul	Cabezazo Zen	Zen-Kopfstoß	Cozzata Zen	
+move_name_0235	Confusion	ねんりき	Choc Mental	Confusión	Konfusion	Confusione	
+move_name_0236	Poison Sting	どくばり	Dard-Venin	Picotazo Veneno	Giftstachel	Velenospina	
+move_name_0237	Bubble	あわ	Écume	Burbuja	Blubber	Bolla	
+move_name_0238	Feint Attack	だましうち	Feinte	Finta	Finte	Finta	
+move_name_0239	Steel Wing	はがねのつばさ	Aile d'Acier	Ala de Acero	Stahlflügel	Alacciaio	
+move_name_0240	Fire Fang	ほのおのキバ	Crocs Feu	Colmillo Ígneo	Feuerzahn	Rogodenti	
+move_name_0241	Rock Smash	いわくだき	Éclate-Roc	Golpe Roca	Zertrümmerer	Spaccaroccia	
