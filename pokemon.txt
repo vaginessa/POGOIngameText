@@ -1,0 +1,457 @@
+Key	English	Japanese	Comment
+pokemon_name_0000	None	None	
+pokemon_name_0001	Bulbasaur	フシギダネ	
+pokemon_name_0002	Ivysaur	フシギソウ	
+pokemon_name_0003	Venusaur	フシギバナ	
+pokemon_name_0004	Charmander	ヒトカゲ	
+pokemon_name_0005	Charmeleon	リザード	
+pokemon_name_0006	Charizard	リザードン	
+pokemon_name_0007	Squirtle	ゼニガメ	
+pokemon_name_0008	Wartortle	カメール	
+pokemon_name_0009	Blastoise	カメックス	
+pokemon_name_0010	Caterpie	キャタピー	
+pokemon_name_0011	Metapod	トランセル	
+pokemon_name_0012	Butterfree	バタフリー	
+pokemon_name_0013	Weedle	ビードル	
+pokemon_name_0014	Kakuna	コクーン	
+pokemon_name_0015	Beedrill	スピアー	
+pokemon_name_0016	Pidgey	ポッポ	
+pokemon_name_0017	Pidgeotto	ピジョン	
+pokemon_name_0018	Pidgeot	ピジョット	
+pokemon_name_0019	Rattata	コラッタ	
+pokemon_name_0020	Raticate	ラッタ	
+pokemon_name_0021	Spearow	オニスズメ	
+pokemon_name_0022	Fearow	オニドリル	
+pokemon_name_0023	Ekans	アーボ	
+pokemon_name_0024	Arbok	アーボック	
+pokemon_name_0025	Pikachu	ピカチュウ	
+pokemon_name_0026	Raichu	ライチュウ	
+pokemon_name_0027	Sandshrew	サンド	
+pokemon_name_0028	Sandslash	サンドパン	
+pokemon_name_0029	Nidoran♀	ニドラン♀	
+pokemon_name_0030	Nidorina	ニドリーナ	
+pokemon_name_0031	Nidoqueen	ニドクイン	
+pokemon_name_0032	Nidoran♂	ニドラン♂	
+pokemon_name_0033	Nidorino	ニドリーノ	
+pokemon_name_0034	Nidoking	ニドキング	
+pokemon_name_0035	Clefairy	ピッピ	
+pokemon_name_0036	Clefable	ピクシー	
+pokemon_name_0037	Vulpix	ロコン	
+pokemon_name_0038	Ninetales	キュウコン	
+pokemon_name_0039	Jigglypuff	プリン	
+pokemon_name_0040	Wigglytuff	プクリン	
+pokemon_name_0041	Zubat	ズバット	
+pokemon_name_0042	Golbat	ゴルバット	
+pokemon_name_0043	Oddish	ナゾノクサ	
+pokemon_name_0044	Gloom	クサイハナ	
+pokemon_name_0045	Vileplume	ラフレシア	
+pokemon_name_0046	Paras	パラス	
+pokemon_name_0047	Parasect	パラセクト	
+pokemon_name_0048	Venonat	コンパン	
+pokemon_name_0049	Venomoth	モルフォン	
+pokemon_name_0050	Diglett	ディグダ	
+pokemon_name_0051	Dugtrio	ダグトリオ	
+pokemon_name_0052	Meowth	ニャース	
+pokemon_name_0053	Persian	ペルシアン	
+pokemon_name_0054	Psyduck	コダック	
+pokemon_name_0055	Golduck	ゴルダック	
+pokemon_name_0056	Mankey	マンキー	
+pokemon_name_0057	Primeape	オコリザル	
+pokemon_name_0058	Growlithe	ガーディ	
+pokemon_name_0059	Arcanine	ウインディ	
+pokemon_name_0060	Poliwag	ニョロモ	
+pokemon_name_0061	Poliwhirl	ニョロゾ	
+pokemon_name_0062	Poliwrath	ニョロボン	
+pokemon_name_0063	Abra	ケーシィ	
+pokemon_name_0064	Kadabra	ユンゲラー	
+pokemon_name_0065	Alakazam	フーディン	
+pokemon_name_0066	Machop	ワンリキー	
+pokemon_name_0067	Machoke	ゴーリキー	
+pokemon_name_0068	Machamp	カイリキー	
+pokemon_name_0069	Bellsprout	マダツボミ	
+pokemon_name_0070	Weepinbell	ウツドン	
+pokemon_name_0071	Victreebel	ウツボット	
+pokemon_name_0072	Tentacool	メノクラゲ	
+pokemon_name_0073	Tentacruel	ドククラゲ	
+pokemon_name_0074	Geodude	イシツブテ	
+pokemon_name_0075	Graveler	ゴローン	
+pokemon_name_0076	Golem	ゴローニャ	
+pokemon_name_0077	Ponyta	ポニータ	
+pokemon_name_0078	Rapidash	ギャロップ	
+pokemon_name_0079	Slowpoke	ヤドン	
+pokemon_name_0080	Slowbro	ヤドラン	
+pokemon_name_0081	Magnemite	コイル	
+pokemon_name_0082	Magneton	レアコイル	
+pokemon_name_0083	Farfetch'd	カモネギ	
+pokemon_name_0084	Doduo	ドードー	
+pokemon_name_0085	Dodrio	ドードリオ	
+pokemon_name_0086	Seel	パウワウ	
+pokemon_name_0087	Dewgong	ジュゴン	
+pokemon_name_0088	Grimer	ベトベター	
+pokemon_name_0089	Muk	ベトベトン	
+pokemon_name_0090	Shellder	シェルダー	
+pokemon_name_0091	Cloyster	パルシェン	
+pokemon_name_0092	Gastly	ゴース	
+pokemon_name_0093	Haunter	ゴースト	
+pokemon_name_0094	Gengar	ゲンガー	
+pokemon_name_0095	Onix	イワーク	
+pokemon_name_0096	Drowzee	スリープ	
+pokemon_name_0097	Hypno	スリーパー	
+pokemon_name_0098	Krabby	クラブ	
+pokemon_name_0099	Kingler	キングラー	
+pokemon_name_0100	Voltorb	ビリリダマ	
+pokemon_name_0101	Electrode	マルマイン	
+pokemon_name_0102	Exeggcute	タマタマ	
+pokemon_name_0103	Exeggutor	ナッシー	
+pokemon_name_0104	Cubone	カラカラ	
+pokemon_name_0105	Marowak	ガラガラ	
+pokemon_name_0106	Hitmonlee	サワムラー	
+pokemon_name_0107	Hitmonchan	エビワラー	
+pokemon_name_0108	Lickitung	ベロリンガ	
+pokemon_name_0109	Koffing	ドガース	
+pokemon_name_0110	Weezing	マタドガス	
+pokemon_name_0111	Rhyhorn	サイホーン	
+pokemon_name_0112	Rhydon	サイドン	
+pokemon_name_0113	Chansey	ラッキー	
+pokemon_name_0114	Tangela	モンジャラ	
+pokemon_name_0115	Kangaskhan	ガルーラ	
+pokemon_name_0116	Horsea	タッツー	
+pokemon_name_0117	Seadra	シードラ	
+pokemon_name_0118	Goldeen	トサキント	
+pokemon_name_0119	Seaking	アズマオウ	
+pokemon_name_0120	Staryu	ヒトデマン	
+pokemon_name_0121	Starmie	スターミー	
+pokemon_name_0122	Mr. Mime	バリヤード	
+pokemon_name_0123	Scyther	ストライク	
+pokemon_name_0124	Jynx	ルージュラ	
+pokemon_name_0125	Electabuzz	エレブー	
+pokemon_name_0126	Magmar	ブーバー	
+pokemon_name_0127	Pinsir	カイロス	
+pokemon_name_0128	Tauros	ケンタロス	
+pokemon_name_0129	Magikarp	コイキング	
+pokemon_name_0130	Gyarados	ギャラドス	
+pokemon_name_0131	Lapras	ラプラス	
+pokemon_name_0132	Ditto	メタモン	
+pokemon_name_0133	Eevee	イーブイ	
+pokemon_name_0134	Vaporeon	シャワーズ	
+pokemon_name_0135	Jolteon	サンダース	
+pokemon_name_0136	Flareon	ブースター	
+pokemon_name_0137	Porygon	ポリゴン	
+pokemon_name_0138	Omanyte	オムナイト	
+pokemon_name_0139	Omastar	オムスター	
+pokemon_name_0140	Kabuto	カブト	
+pokemon_name_0141	Kabutops	カブトプス	
+pokemon_name_0142	Aerodactyl	プテラ	
+pokemon_name_0143	Snorlax	カビゴン	
+pokemon_name_0144	Articuno	フリーザー	
+pokemon_name_0145	Zapdos	サンダー	
+pokemon_name_0146	Moltres	ファイヤー	
+pokemon_name_0147	Dratini	ミニリュウ	
+pokemon_name_0148	Dragonair	ハクリュー	
+pokemon_name_0149	Dragonite	カイリュー	
+pokemon_name_0150	Mewtwo	ミュウツー	
+pokemon_name_0151	Mew	ミュウ	
+pokemon_desc_0000	None	None	
+pokemon_desc_0001	Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger. 	日なたで昼寝をする姿を見かける。太陽の光をいっぱい浴びることで背中のタネが大きく育つのだ。	
+pokemon_desc_0002	There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon. 	つぼみを支えるため足腰が強くなる。日なたでじっとする時間が長くなればいよいよ大輪の花が咲くころだ。	
+pokemon_desc_0003	There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people. 	十分な栄養と太陽の光が花の色を鮮やかにするといわれる。花の香りは人の心を癒す。	
+pokemon_desc_0004	The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely. 	尻尾の炎は気分を表現。楽しいときにはゆらゆら炎がゆれて怒ったときにはめらめら盛んに燃える。	
+pokemon_desc_0005	Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color. 	鋭いツメでようしゃなくたたきのめす。強敵と向かい合うと気分がたかぶり尻尾の炎が青白く燃えあがる。	
+pokemon_desc_0006	Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself. 	強い相手を求めて空を飛び回る。なんでも溶かしてしまう高熱の炎を自分より弱いものに向けることはしない。	
+pokemon_desc_0007	Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds. 	甲羅の役目は身を守るだけではない。丸い形と表面の溝が水の抵抗を減らすので速く泳げるのだ。	
+pokemon_desc_0008	Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler. 	ふさふさの毛で覆われた大きな尻尾は長生きするほど深い色合いに変わる。甲羅のキズは強者の証。	
+pokemon_desc_0009	Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet. 	甲羅の噴射口のねらいは正確。水の弾丸を５０メートル離れた空き缶に命中させることができるぞ。	
+pokemon_desc_0010	Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor. 	体よりも大きな葉っぱをみるみる食べつくしてしまうほどの食欲をもつ。触角から強烈な臭いを出すぞ。	
+pokemon_desc_0011	The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell. 	体のカラは鉄板のように硬い。あまり動かないのはカラの中で柔らかい中身が進化の準備をしているからだ。	
+pokemon_desc_0012	Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest. 	美味しい花のミツを探す能力に優れすみかから１０キロ離れた場所に咲く花からミツを集めて運んでいる。	
+pokemon_desc_0013	Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose). 	とても鋭い嗅覚を持っている。好物の葉っぱか嫌いな葉っぱか大きな赤い鼻で嗅ぎ分ける。	
+pokemon_desc_0014	Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch. 	ほとんど動かず木につかまっているが中では進化の準備で大忙し。その証拠に体が熱くなっているぞ。	
+pokemon_desc_0015	Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm. 	縄張り意識がとても強いのでスピアーのすみかには近づかないほうが身のためだ。怒ると集団で襲ってくるぞ。	
+pokemon_desc_0016	Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings. 	方向感覚にとても優れているのでどんなに離れた場所からでも迷わずに自分の巣まで帰ることができる。	
+pokemon_desc_0017	Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws. 	広い縄張りを飛んで見まわりをする。縄張りを荒らす相手は容赦しない。鋭いツメで徹底的に懲らしめるぞ。	
+pokemon_desc_0018	This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon. 	美しい光沢の羽を持つポケモン。頭の羽の美しさに心奪われピジョットを育てるトレーナーも多い。	
+pokemon_desc_0019	Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere. 	警戒心がとても強く寝ているときも耳を動かし周りの音を聞いている。どこにでもすみつき巣をつくる。	
+pokemon_desc_0020	Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses. 	丈夫なキバはどんどん伸びるので岩や大木をかじって削っている。家のカベをかじられることもあるよ。	
+pokemon_desc_0021	Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger. 	大きな鳴き声は１キロ先まで届く。あちこちでカン高い声が聞こえるときは仲間たちに危険を報せている合図だ。	
+pokemon_desc_0022	Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey. 	長い首とくちばしは土や水の中にいるエサを捕まえるのに便利。細長いくちばしで器用につまむぞ。	
+pokemon_desc_0023	Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head. 	ぐるぐる体を巻いて休んでいるのはどの方向から敵が襲ってきてもとっさに頭を向けて威嚇できるからだ。	
+pokemon_desc_0024	This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crushing embrace is impossible. 	締めつける力はとても強力。ドラム缶もぺしゃんこにしてしまうぞ。巻きつかれたら逃げだすことは不可能だ。	
+pokemon_desc_0025	Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge. 	はじめてみるものには電撃を当てる。黒こげのきのみが落ちていたらそれは電撃の強さを間違えた証拠だよ。	
+pokemon_desc_0026	If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest. 	電気袋に電気がたまり過ぎたときは尻尾を地面につけて放電する。巣の近くには地面に焼け焦げがある。	
+pokemon_desc_0027	Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies. 	水分を無駄なく吸収する体のつくりなので乾燥した砂地でも平気。体を丸めて敵の攻撃を防ぐ。	
+pokemon_desc_0028	Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones. 	体のトゲは皮膚が硬くなったもの。１年に１回古いトゲが抜け落ちて新しいトゲが下から生えてくる。	
+pokemon_desc_0029	Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn. 	小さい体を守るため強力な毒針が発達したと考えられている。怒るとツノの先から猛毒を出す。	
+pokemon_desc_0030	When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others. 	仲間や家族と一緒のときはお互い傷つかないようにトゲが引っ込んでいる。仲間から離れると不安になるらしい。	
+pokemon_desc_0031	Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young. 	硬いウロコで覆われた体をぶつけて相手を弾き飛ばす攻撃が得意だ。子どもを守るときが一番強い。	
+pokemon_desc_0032	Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice. 	耳を動かす筋肉が発達していてどんな向きにも自在に耳を動かせる。かすかな物音も聞き漏らさないポケモン。	
+pokemon_desc_0033	Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might. 	ダイヤモンドよりも硬いツノを持つ。敵の気配を感じると背中のトゲが一斉に逆立ち全力で立ち向かう。	
+pokemon_desc_0034	Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it. 	太い尻尾の一振りは頑丈な鉄塔もへし折るすさまじい破壊力。一度暴れだすと手がつけられない。	
+pokemon_desc_0035	On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other. 	満月の夜は元気いっぱいに遊ぶ。明け方疲れたピッピたちは静かな山奥で仲間たちと寄り添って眠る。	
+pokemon_desc_0036	Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights. 	翼を使って飛ぶようにスキップ。水面を歩くことだってできるのだ。静かな月夜に湖を歩く。	
+pokemon_desc_0037	At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer. The six tails become magnificently curled. 	生まれたときは白い１本の尻尾。愛情をたっぷり受けると尻尾は６本に分かれて見事な巻き毛になる。	
+pokemon_desc_0038	Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for a thousand years. 	真っ赤な瞳は怪しい光を放ち相手の心を自在に操る。１０００年間生きるといわれている。	
+pokemon_desc_0039	Jigglypuff's vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy. 	声の波長を自在に変える声帯を持っているので相手がいちばん眠くなる波長で歌を歌うことができる。	
+pokemon_desc_0040	Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon's eyes, it is quickly washed away. 	大きな丸い瞳の表面には涙の薄い膜がいつも張っている。ほこりがついてもすぐ洗い流される。	
+pokemon_desc_0041	Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned. 	昼間暗闇でじっとしているのは太陽の光を長い時間浴びると全身が軽く火傷してしまうからだ。	
+pokemon_desc_0042	Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood. 	生き物の血液が大好物。特に真夜中活動することが多く生き血を求めて夜空を飛び回る。	
+pokemon_desc_0043	During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become. 	昼間地面の中に体を埋めて土の栄養を全身で吸い上げている。肥えた土ほど葉っぱにツヤが出るという。	
+pokemon_desc_0044	Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma. 	危険を感じるとめしべの放つくさい臭いがさらに強まるが心が穏やかなときはくさい臭いを出さないのだ。	
+pokemon_desc_0045	Vileplume's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be. 	毒花粉は酷いアレルギーを起こす。ジャングルで美しい花をみつけてもうかつに近寄らないほうがいいよ。	
+pokemon_desc_0046	Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life. 	パラスから養分を吸い取って大きくなるキノコは冬虫夏草と呼ばれている。長寿の薬になる貴重なキノコ。	
+pokemon_desc_0047	Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once. 	パラセクトは集団で大木の根元にくっついて栄養を吸い取ってしまう。枯れると一斉に別の木に移動する。	
+pokemon_desc_0048	Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey. 	身を守るために細く硬い体毛が全身を覆うようになったといわれる。小さな獲物を見逃さない目を持つ。	
+pokemon_desc_0049	Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness. 	夜行性で夜に活動を始める。街灯の灯りに誘われ集まった小さな虫を好んで食べる。	
+pokemon_desc_0050	Diglett are raised in most farms. The reason is simple—wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables. 	ほとんどの農家はディグダを育てている。ディグダが穴を掘った土地はほどよく耕され美味しい野菜がつくれるからだ。	
+pokemon_desc_0051	Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly. 	元々一つの体から３つ子になったのでみんな考えることは同じ。力を合わせどこまでも掘り進む。	
+pokemon_desc_0052	Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light. 	鋭いツメを引っ込めて抜き足差し足足音を立てずに歩くことができる。キラキラ光るコインがなぜか大好きだ。	
+pokemon_desc_0053	Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers. 	たくましい６本のヒゲは空気の動きで周りの様子をキャッチする役割。ヒゲをつかまれると大人しくなってしまう。	
+pokemon_desc_0054	Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars. 	不思議な力を発揮しているコダックから眠っているときだけ出るはずの脳波が観測されて学会の話題になった。	
+pokemon_desc_0055	The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pokémon is definitely much faster than even the most athletic swimmer. 	手足の水かきと流線型の体が水中で恐るべきスピードを生みだす。金メダリストよりも断然速いぞ。	
+pokemon_desc_0056	When Mankey starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath. 	体が震え鼻息が荒くなれば怒りだす前触れなのだがあっという間に激しく怒るので逃げ出す暇はない。	
+pokemon_desc_0057	When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time. 	激しく怒ることで血行が良くなり筋肉の力を強くするのだ。ただし頭の回転は遅くなるぞ。	
+pokemon_desc_0058	Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things. 	嗅覚に優れ一度嗅いだ臭いはなにがあっても絶対に忘れない。相手の気持ちを臭いで察知する。	
+pokemon_desc_0059	Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power. 	１００００キロの距離を一昼夜で走るといわれている快速のポケモン。体内で燃え盛る炎がパワーとなる。	
+pokemon_desc_0060	Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it. 	渦巻き模様の内臓が透けてしまうほど薄い皮膚だが鋭いキバをはね返す弾力を持っているのだ。	
+pokemon_desc_0061	The surface of Poliwhirl's body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle. 	いつも体の表面が液体でぬるぬるぬれているため敵に捕まってもぬるりとすり抜け逃げることができるぞ。	
+pokemon_desc_0062	Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort. 	発達した強靭な筋肉はどんなに運動しても疲れることはない。太平洋も軽く横断できるほどだ。	
+pokemon_desc_0063	Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety. 	１日１８時間眠っているポケモン。眠ったままでも敵の気配を察知するとテレポートして逃げることができるぞ。	
+pokemon_desc_0064	Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon. 	頭痛を起こす特殊なアルファ波を出すので強い精神力の持ち主じゃないとユンゲラーのトレーナーにはなれない。	
+pokemon_desc_0065	Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead. 	脳がどんどん大きくなったので首では支えきれないほど頭が重くなった。超能力で頭を支えているのだ。	
+pokemon_desc_0066	Machop's muscles are special—they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans. 	どんなに運動をしても痛くならない特別な筋肉を持つポケモン。大人１００人を投げ飛ばすパワー。	
+pokemon_desc_0067	Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger. 	鍛えあげた筋肉は鋼の硬さ。相撲取りの体も指１本で楽々持ちあげてしまう怪力のポケモンだ。	
+pokemon_desc_0068	Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks. 	なんでも投げ飛ばすパワーを持つが細かい作業をすると腕が絡まってしまう。考えるよりも先に体が動く。	
+pokemon_desc_0069	Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron. 	細くしなやかな体はどんな強い攻撃でもしなって避けることができる。口から鉄も溶かしてしまう液を出す。	
+pokemon_desc_0070	Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground. 	夜になるとお尻のフックを木の枝に引っ掛けてぶら下がり眠りにつく。寝相が悪いと朝落っこちているよ。	
+pokemon_desc_0071	Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole. 	頭についた長いつるを小さな生き物のように動かし獲物を誘う。近づいてきたところをぱくりとひとのみ。	
+pokemon_desc_0072	Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea. 	体のほとんどが水でできているので海から出るとからからに干からびてしまう。干からびたときは海に戻してあげよう。	
+pokemon_desc_0073	Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst creates rough waves around it. 	頭の赤い玉が光るとき激しい超音波があたりに発射される。そのとき海面が激しく波打つという。	
+pokemon_desc_0074	The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon's heart will remain hard, craggy, and rough always. 	長生きのイシツブテほど体の角は削れ丸くなっていくが気持ちはいつまでもごつごつとがって荒々しいのだ。	
+pokemon_desc_0075	Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis. 	岩を食べて成長するポケモンだ。コケのついた岩のほうが好きらしい。１日に１トンの岩を食べてしまうぞ。	
+pokemon_desc_0076	Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below. 	大きな地震が起こると山にすんでいるゴローニャが何匹もふもとまでごろごろ転がり落ちてくることがあるよ。	
+pokemon_desc_0077	Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent. 	生まれてすぐは立ちあがるのもやっとだが転びながら親の後を追いかけているうちに丈夫な足腰に育つのだ。	
+pokemon_desc_0078	Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph. 	いつもはのんびり野原を駆けまわっているが一度本気を出すとたてがみの炎が燃えあがり時速２４０キロで走りだす。	
+pokemon_desc_0079	Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge. 	尻尾を川に入れてエサを釣っているがそのうちなにをしているのか忘れてしまい川べりに寝そべったまま１日を終える。	
+pokemon_desc_0080	Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead. 	シェルダーがかみついているので尻尾でエサを釣れなくなったヤドランは渋々水中を泳いでエサを捕まえている。	
+pokemon_desc_0081	Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box. 	電線にくっついて電気を食べている。停電になったらブレーカーを調べよう。コイルがびっしりくっついているかも。	
+pokemon_desc_0082	Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon. 	強い磁力で機械を壊してしまうので大きな街ではサイレンを鳴らしてレアコイルの大量発生を報せる。	
+pokemon_desc_0083	Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks. 	持っている植物のクキにも良いものとそうでないものがあるらしくカモネギ同士がクキを巡って戦うことがある。	
+pokemon_desc_0084	Doduo's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps. 	２つの頭が同時に眠ることはない。寝ているとき敵から襲われないように代りばんこで見張りをしているからだ。	
+pokemon_desc_0085	Watch out if Dodrio's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this Pokémon if it's being wary—it may decide to peck you. 	３つの頭が別々の方向を向いているときは警戒している証拠。うかつに近寄るとくちばしで突かれるぞ。	
+pokemon_desc_0086	Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head. 	氷に覆われた海でエサを採る。息継ぎをするときは頭の出っ張りで氷を割って海から顔を出す。	
+pokemon_desc_0087	Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago. 	冷たい氷の上で寝るのが大好き。昔氷山で眠る姿を見た船乗りが人魚と間違えた。	
+pokemon_desc_0088	Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater. 	ドロドロブヨブヨした体はどんなに細いすき間にも入り込むことができる。下水管に潜って汚い水を飲む。	
+pokemon_desc_0089	From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid. 	体から染み出している体液は鼻が曲がるほど強烈な臭いを放つ。１滴でプールの水が濁り臭いだす。	
+pokemon_desc_0090	At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out. 	夜になると大きなベロで海底の砂に穴を掘りその中で眠る。カラを閉じて眠るがベロは出したまま。	
+pokemon_desc_0091	Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system. 	飲み込んだ海水を後ろへ勢いよく噴射することで海の中を泳ぐ。トゲを発射する仕組みも同じ。	
+pokemon_desc_0092	Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind. 	強風を受けるとガス状の体はみるみる吹き飛ばされ小さくなってしまう。風を避けたゴースが軒下に集まる。	
+pokemon_desc_0093	Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away. 	闇に浮かぶゴーストが手招きしても絶対に近寄ってはいけないよ。ペロリとなめられ命を吸われてしまうぞ。	
+pokemon_desc_0094	Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow. 	真夜中街灯の灯りでできた影が自分を追い越していくのはゲンガーが影に成りすまして走っていくからだ。	
+pokemon_desc_0095	Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother. 	脳みそに磁石があるので土の中を掘り進んでいても方向を間違えない。年を取るほど体は丸みを帯びる。	
+pokemon_desc_0096	If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils. 	眠っているときキミの鼻がムズムズしたらまくら元に立ったスリープが鼻の穴から夢を食べようとしている合図。	
+pokemon_desc_0097	Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum. 	手に持っている振り子の動きと輝きが相手を深い催眠状態に落とす。獲物を探しながら振り子を磨いている。	
+pokemon_desc_0098	Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory. 	砂浜に穴を掘りそこで暮らしている。エサの少ない砂浜では場所取りをするクラブたちの争いをみることができる。	
+pokemon_desc_0099	Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires. 	キングラーは巨大なハサミを振って仲間同士で合図を送りあっているがハサミが重すぎてすぐに疲れてしまう。	
+pokemon_desc_0100	Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery. 	モンスターボールをつくっている会社で初めて発見されたことと姿形が似ていることの関係はまだナゾである。	
+pokemon_desc_0101	Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity. 	空気中の電気エネルギーを食べる。カミナリの落ちる日は電気を食べ過ぎたマルマインがあちらこちらで大爆発する。	
+pokemon_desc_0102	This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution. 	仲間思いの６個の卵はお互いに引きつけ合いくるくる回転している。カラのヒビが増えると進化は間近だ。	
+pokemon_desc_0103	Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute. 	南国生まれのナッシーの頭は強い日差しをいっぱい浴びてどんどん育ち地面に落ちるとタマタマになるという。	
+pokemon_desc_0104	Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds. 	２度と会えない母親の面影を満月にみつけて泣き声をあげる。被っているホネの染みは涙のあと。	
+pokemon_desc_0105	Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken. 	母親に会えない悲しみを乗り越えたカラカラがたくましく進化した姿。鍛えられた心は簡単にくじけない。	
+pokemon_desc_0106	Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue. 	自在に伸び縮みする足で強烈なキックを放ち相手を蹴り倒す。戦いの後疲れた足をもみ解す。	
+pokemon_desc_0107	Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity. 	世界チャンピオンを目指していたボクサーの魂が宿ったといわれるエビワラーは不屈の精神で絶対にへこたれない。	
+pokemon_desc_0108	Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things. 	初めて目にするものは必ずペロリ。舌触りと味で記憶しているのだ。でも酸っぱいものはちょっと苦手。	
+pokemon_desc_0109	If Koffing becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This Pokémon may also overinflate its round body, then explode. 	刺激を与えるとガスの毒素が強まり体のあちこちから勢いよく吹き出す。真ん丸に膨らんだ後大爆発する。	
+pokemon_desc_0110	Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash. 	腐った生ゴミから出るガスが大好き。掃除をしない家にすみつき家族が寝静まった真夜中ゴミ箱を漁る。	
+pokemon_desc_0111	Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however. 	ひたすら真っ直ぐ突き進み壊しまくる。鋼鉄の塊にぶつかっても平気だが１日経つとちょっと痛みを感じる。	
+pokemon_desc_0112	Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch. 	ツノはダイヤモンドの原石を砕き尻尾の一撃はビルをなぎ倒す。硬い皮膚は大砲でもキズつかない。	
+pokemon_desc_0113	Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite. 	栄養満点のタマゴを毎日産む。食欲を無くした人でもペロリと食べてしまうほど美味しいタマゴだ。	
+pokemon_desc_0114	Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day. 	敵につかまれるとツルはぷちっと切れる。全然痛くないのでそのスキに逃げる。翌日には新しいツルが生えそろうぞ。	
+pokemon_desc_0115	If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you. 	ガルーラの子どもが１匹で遊んでいても絶対に捕まえたりしてはいけないよ。近くにいる親が激しく怒りだすぞ。	
+pokemon_desc_0116	Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away. 	小さなムシや岩場のコケを食べる。海流が速くなると尻尾を岩場やサンゴに巻きつけ流されないようにする。	
+pokemon_desc_0117	Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it. 	サンゴの枝のすき間に潜って眠る。シードラに気づかずサンゴを取ろうとして毒のトゲに刺されてしまうことがある。	
+pokemon_desc_0118	Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon—it could ram you powerfully with its horn. 	水中で優雅に棚引くひれがとても美しいポケモンだが油断をしていると強烈なツノの一突きをくらうぞ。	
+pokemon_desc_0119	In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful. 	秋になるとメスにプロポーズするために川底で踊るオスをみることができる。体の色が最も美しい季節。	
+pokemon_desc_0120	Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky. 	夏の終わりごろ夜に砂浜にいくとコアと呼ばれる器官を赤く光らせたヒトデマンが星のように見えるよ。	
+pokemon_desc_0121	Starmie's center section—the core—glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname “the gem of the sea.”	体の中心にあるコアと呼ばれる部分が七色に輝くことから海の宝石という別名をつけられた。	
+pokemon_desc_0122	Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real. 	目に見えないものを身振りでそこにあると信じ込ませるパントマイムの達人。信じさせたものは本当に現れる。	
+pokemon_desc_0123	Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke. 	目にも止まらぬスピードが両腕のカマの切れ味をさらに鋭くするのだ。一振りすれば大木も真っ二つだ。	
+pokemon_desc_0124	Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing. 	踊るような腰つきでリズミカルに歩く。その動きは見ている人も思わず腰を振ってしまうほど軽やかなのだ。	
+pokemon_desc_0125	When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods. 	嵐がくると木の上などカミナリの落ちそうな高い場所へ競って登る。避雷針代わりにする街もある。	
+pokemon_desc_0126	In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings. 	戦いになると体から灼熱の炎を噴き上げ相手を威嚇する。その熱風で周りの草木も燃やすぞ。	
+pokemon_desc_0127	Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places. 	自分の体重の２倍もある相手をツノで挟み軽々持ち上げる怪力。寒い場所では体の動きが鈍る。	
+pokemon_desc_0128	This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself. 	いつも暴れていないと気がすまない。戦う相手がいないときは大木にぶち当たりなぎ倒すことで気を静める。	
+pokemon_desc_0129	Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it. 	跳ねることしかしない情けないポケモン。なぜ跳ねるのか調べた研究者がいるほどとにかく跳ねて跳ねて跳ねまくる。	
+pokemon_desc_0130	When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokémon's wildly violent nature. 	コイキングからギャラドスに進化するとき脳細胞の構造が組み換わるために性格が凶暴になるといわれている。	
+pokemon_desc_0131	People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain. 	人が絶滅の危機に追い込んでしまった。夕暮どきになると少なくなった仲間を探して悲しそうな声で歌うという。	
+pokemon_desc_0132	Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong. 	体の細胞を組み換えて変身する。思い出しながら以前見たものに変わるとちょっと違う形になってしまうのだ。	
+pokemon_desc_0133	Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve. 	暮らしている環境で突然変異する不安定な遺伝子を持つポケモン。石の放射線が進化を引き起こす。	
+pokemon_desc_0134	Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water. 	突然変異により水中で生活できるようにヒレとエラが生えてきた。水を自在に操る力を持つ。	
+pokemon_desc_0135	Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles. 	細胞の出す弱い電気を体毛の静電気で増幅させカミナリを落とす。逆立った体毛は電気を帯びた針。	
+pokemon_desc_0136	Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit. 	ふさふさの体毛は上がり過ぎた体温を空気に放熱して下げる機能を持つ。体温は最高９００度まで上がるぞ。	
+pokemon_desc_0137	Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy protected so it cannot be duplicated by copying. 	全身をプログラムデータに戻して電子空間に入ることができる。コピーガードされているのでコピーできない。	
+pokemon_desc_0138	Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell. 	大昔に絶滅したが人間の手で化石から復活させたポケモンの一つ。敵に襲われると硬いカラに隠れる。	
+pokemon_desc_0139	Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous. 	触手を操り獲物を捕まえる。カラが大きくなり過ぎたことで動きが鈍くなり絶滅したと考えられている。	
+pokemon_desc_0140	Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years. 	化石から復活したポケモンだがまれに生き続けているカブトを発見できる。その姿は３億年変わっていない。	
+pokemon_desc_0141	Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs. 	水中を泳ぎ獲物を捕らえていた。水の生活から地上で暮らせるようにエラや足などが変化を始めていた。	
+pokemon_desc_0142	Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times. 	コハクから取り出した遺伝子を再生して復活した恐竜時代のポケモン。空の王者だったと想像されている。	
+pokemon_desc_0143	Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play. 	食べて寝ての繰り返しで１日が終わる。大きなお腹の上を遊び場にしている子どもたちもいるほど大人しいポケモンだ。	
+pokemon_desc_0144	Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall. 	氷を操る伝説の鳥ポケモン。羽ばたくことで空気を冷たく冷やすのでフリーザーが飛ぶと雪が降るといわれる。	
+pokemon_desc_0145	Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts. 	電気を操る伝説の鳥ポケモン。普段はカミナリ雲の中で暮らしている。カミナリに撃たれると力がわいてくる。	
+pokemon_desc_0146	Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself. 	炎を操る伝説の鳥ポケモン。体が傷つくと火口のマグマに入り全身を燃やして傷を癒すという。	
+pokemon_desc_0147	Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels. 	ミニリュウが脱皮を繰り返しているのは体の中で生命のエネルギーがどんどん膨らみ抑えきれなくなるからだ。	
+pokemon_desc_0148	Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail. 	大きなエネルギーを体にためている。首と尻尾の水晶からエネルギーを解き放ちあたりの天気を変えるという。	
+pokemon_desc_0149	Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land. 	１６時間で地球を１周できる。嵐で難破しかけた船を見つけると陸地まで誘導する優しいポケモン。	
+pokemon_desc_0150	Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart. 	遺伝子操作によってつくられたポケモン。人間の科学力で体はつくれても優しい心をつくることはできなかった。	
+pokemon_desc_0151	Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people. 	すべてのポケモンの遺伝子をもつという。自由自在に姿を消すことができるので人に近づいてもまったく気づかれない。	
+pokemon_category_0000	None	None	
+pokemon_category_0001	Seed Pokémon	たねポケモン	
+pokemon_category_0002	Seed Pokémon	たねポケモン	
+pokemon_category_0003	Seed Pokémon	たねポケモン	
+pokemon_category_0004	Lizard Pokémon	とかげポケモン	
+pokemon_category_0005	Flame Pokémon	かえんポケモン	
+pokemon_category_0006	Flame Pokémon	かえんポケモン	
+pokemon_category_0007	Tiny Turtle Pokémon	かめのこポケモン	
+pokemon_category_0008	Turtle Pokémon	かめポケモン	
+pokemon_category_0009	Shellfish Pokémon	こうらポケモン	
+pokemon_category_0010	Worm Pokémon	いもむしポケモン	
+pokemon_category_0011	Cocoon Pokémon	さなぎポケモン	
+pokemon_category_0012	Butterfly Pokémon	ちょうちょポケモン	
+pokemon_category_0013	Hairy Bug Pokémon	けむしポケモン	
+pokemon_category_0014	Cocoon Pokémon	さなぎポケモン	
+pokemon_category_0015	Poison Bee Pokémon	どくばちポケモン	
+pokemon_category_0016	Tiny Bird Pokémon	ことりポケモン	
+pokemon_category_0017	Bird Pokémon	とりポケモン	
+pokemon_category_0018	Bird Pokémon	とりポケモン	
+pokemon_category_0019	Mouse Pokémon	ねずみポケモン	
+pokemon_category_0020	Mouse Pokémon	ねずみポケモン	
+pokemon_category_0021	Tiny Bird Pokémon	ことりポケモン	
+pokemon_category_0022	Beak Pokémon	くちばしポケモン	
+pokemon_category_0023	Snake Pokémon	へびポケモン	
+pokemon_category_0024	Cobra Pokémon	コブラポケモン	
+pokemon_category_0025	Mouse Pokémon	ねずみポケモン	
+pokemon_category_0026	Mouse Pokémon	ねずみポケモン	
+pokemon_category_0027	Mouse Pokémon	ねずみポケモン	
+pokemon_category_0028	Mouse Pokémon	ねずみポケモン	
+pokemon_category_0029	Poison Pin Pokémon	どくばりポケモン	
+pokemon_category_0030	Poison Pin Pokémon	どくばりポケモン	
+pokemon_category_0031	Drill Pokémon	ドリルポケモン	
+pokemon_category_0032	Poison Pin Pokémon	どくばりポケモン	
+pokemon_category_0033	Poison Pin Pokémon	どくばりポケモン	
+pokemon_category_0034	Drill Pokémon	ドリルポケモン	
+pokemon_category_0035	Fairy Pokémon	ようせいポケモン	
+pokemon_category_0036	Fairy Pokémon	ようせいポケモン	
+pokemon_category_0037	Fox Pokémon	きつねポケモン	
+pokemon_category_0038	Fox Pokémon	きつねポケモン	
+pokemon_category_0039	Balloon Pokémon	ふうせんポケモン	
+pokemon_category_0040	Balloon Pokémon	ふうせんポケモン	
+pokemon_category_0041	Bat Pokémon	こうもりポケモン	
+pokemon_category_0042	Bat Pokémon	こうもりポケモン	
+pokemon_category_0043	Weed Pokémon	ざっそうポケモン	
+pokemon_category_0044	Weed Pokémon	ざっそうポケモン	
+pokemon_category_0045	Flower Pokémon	フラワーポケモン	
+pokemon_category_0046	Mushroom Pokémon	きのこポケモン	
+pokemon_category_0047	Mushroom Pokémon	きのこポケモン	
+pokemon_category_0048	Insect Pokémon	こんちゅうポケモン	
+pokemon_category_0049	Poison Moth Pokémon	どくがポケモン	
+pokemon_category_0050	Mole Pokémon	もぐらポケモン	
+pokemon_category_0051	Mole Pokémon	もぐらポケモン	
+pokemon_category_0052	Scratch Cat Pokémon	ばけねこポケモン	
+pokemon_category_0053	Classy Cat Pokémon	シャムネコポケモン	
+pokemon_category_0054	Duck Pokémon	あひるポケモン	
+pokemon_category_0055	Duck Pokémon	あひるポケモン	
+pokemon_category_0056	Pig Monkey Pokémon	ぶたざるポケモン	
+pokemon_category_0057	Pig Monkey Pokémon	ぶたざるポケモン	
+pokemon_category_0058	Puppy Pokémon	こいぬポケモン	
+pokemon_category_0059	Legendary Pokémon	でんせつポケモン	
+pokemon_category_0060	Tadpole Pokémon	おたまポケモン	
+pokemon_category_0061	Tadpole Pokémon	おたまポケモン	
+pokemon_category_0062	Tadpole Pokémon	おたまポケモン	
+pokemon_category_0063	Psi Pokémon	ねんりきポケモン	
+pokemon_category_0064	Psi Pokémon	ねんりきポケモン	
+pokemon_category_0065	Psi Pokémon	ねんりきポケモン	
+pokemon_category_0066	Superpower Pokémon	かいりきポケモン	
+pokemon_category_0067	Superpower Pokémon	かいりきポケモン	
+pokemon_category_0068	Superpower Pokémon	かいりきポケモン	
+pokemon_category_0069	Flower Pokémon	フラワーポケモン	
+pokemon_category_0070	Flycatcher Pokémon	ハエとりポケモン	
+pokemon_category_0071	Flycatcher Pokémon	ハエとりポケモン	
+pokemon_category_0072	Jellyfish Pokémon	くらげポケモン	
+pokemon_category_0073	Jellyfish Pokémon	くらげポケモン	
+pokemon_category_0074	Rock Pokémon	がんせきポケモン	
+pokemon_category_0075	Rock Pokémon	がんせきポケモン	
+pokemon_category_0076	Megaton Pokémon	メガトンポケモン	
+pokemon_category_0077	Fire Horse Pokémon	ひのうまポケモン	
+pokemon_category_0078	Fire Horse Pokémon	ひのうまポケモン	
+pokemon_category_0079	Dopey Pokémon	まぬけポケモン	
+pokemon_category_0080	Hermit Crab Pokémon	やどかりポケモン	
+pokemon_category_0081	Magnet Pokémon	じしゃくポケモン	
+pokemon_category_0082	Magnet Pokémon	じしゃくポケモン	
+pokemon_category_0083	Wild Duck Pokémon	かるがもポケモン	
+pokemon_category_0084	Twin Bird Pokémon	ふたごどりポケモン	
+pokemon_category_0085	Triple Bird Pokémon	みつごどりポケモン	
+pokemon_category_0086	Sea Lion Pokémon	あしかポケモン	
+pokemon_category_0087	Sea Lion Pokémon	あしかポケモン	
+pokemon_category_0088	Sludge Pokémon	ヘドロポケモン	
+pokemon_category_0089	Sludge Pokémon	ヘドロポケモン	
+pokemon_category_0090	Bivalve Pokémon	２まいがいポケモン	
+pokemon_category_0091	Bivalve Pokémon	２まいがいポケモン	
+pokemon_category_0092	Gas Pokémon	ガスじょうポケモン	
+pokemon_category_0093	Gas Pokémon	ガスじょうポケモン	
+pokemon_category_0094	Shadow Pokémon	シャドーポケモン	
+pokemon_category_0095	Rock Snake Pokémon	いわへびポケモン	
+pokemon_category_0096	Hypnosis Pokémon	さいみんポケモン	
+pokemon_category_0097	Hypnosis Pokémon	さいみんポケモン	
+pokemon_category_0098	River Crab Pokémon	さわがにポケモン	
+pokemon_category_0099	Pincer Pokémon	はさみポケモン	
+pokemon_category_0100	Ball Pokémon	ボールポケモン	
+pokemon_category_0101	Ball Pokémon	ボールポケモン	
+pokemon_category_0102	Egg Pokémon	たまごポケモン	
+pokemon_category_0103	Coconut Pokémon	やしのみポケモン	
+pokemon_category_0104	Lonely Pokémon	こどくポケモン	
+pokemon_category_0105	Bone Keeper Pokémon	ほねずきポケモン	
+pokemon_category_0106	Kicking Pokémon	キックポケモン	
+pokemon_category_0107	Punching Pokémon	パンチポケモン	
+pokemon_category_0108	Licking Pokémon	なめまわしポケモン	
+pokemon_category_0109	Poison Gas Pokémon	どくガスポケモン	
+pokemon_category_0110	Poison Gas Pokémon	どくガスポケモン	
+pokemon_category_0111	Spikes Pokémon	とげとげポケモン	
+pokemon_category_0112	Drill Pokémon	ドリルポケモン	
+pokemon_category_0113	Egg Pokémon	たまごポケモン	
+pokemon_category_0114	Vine Pokémon	ツルじょうポケモン	
+pokemon_category_0115	Parent Pokémon	おやこポケモン	
+pokemon_category_0116	Dragon Pokémon	ドラゴンポケモン	
+pokemon_category_0117	Dragon Pokémon	ドラゴンポケモン	
+pokemon_category_0118	Goldfish Pokémon	きんぎょポケモン	
+pokemon_category_0119	Goldfish Pokémon	きんぎょポケモン	
+pokemon_category_0120	Star Shape Pokémon	ほしがたポケモン	
+pokemon_category_0121	Mysterious Pokémon	なぞのポケモン	
+pokemon_category_0122	Barrier Pokémon	バリアーポケモン	
+pokemon_category_0123	Mantis Pokémon	かまきりポケモン	
+pokemon_category_0124	Human Shape Pokémon	ひとがたポケモン	
+pokemon_category_0125	Electric Pokémon	でんげきポケモン	
+pokemon_category_0126	Spitfire Pokémon	ひふきポケモン	
+pokemon_category_0127	Stag Beetle Pokémon	くわがたポケモン	
+pokemon_category_0128	Wild Bull Pokémon	あばれうしポケモン	
+pokemon_category_0129	Fish Pokémon	さかなポケモン	
+pokemon_category_0130	Atrocious Pokémon	きょうあくポケモン	
+pokemon_category_0131	Transport Pokémon	のりものポケモン	
+pokemon_category_0132	Transform Pokémon	へんしんポケモン	
+pokemon_category_0133	Evolution Pokémon	しんかポケモン	
+pokemon_category_0134	Bubble Jet Pokémon	あわはきポケモン	
+pokemon_category_0135	Lightning Pokémon	かみなりポケモン	
+pokemon_category_0136	Flame Pokémon	ほのおポケモン	
+pokemon_category_0137	Virtual Pokémon	バーチャルポケモン	
+pokemon_category_0138	Spiral Pokémon	うずまきポケモン	
+pokemon_category_0139	Spiral Pokémon	うずまきポケモン	
+pokemon_category_0140	Shellfish Pokémon	こうらポケモン	
+pokemon_category_0141	Shellfish Pokémon	こうらポケモン	
+pokemon_category_0142	Fossil Pokémon	かせきポケモン	
+pokemon_category_0143	Sleeping Pokémon	いねむりポケモン	
+pokemon_category_0144	Freeze Pokémon	れいとうポケモン	
+pokemon_category_0145	Electric Pokémon	でんげきポケモン	
+pokemon_category_0146	Flame Pokémon	かえんポケモン	
+pokemon_category_0147	Dragon Pokémon	ドラゴンポケモン	
+pokemon_category_0148	Dragon Pokémon	ドラゴンポケモン	
+pokemon_category_0149	Dragon Pokémon	ドラゴンポケモン	
+pokemon_category_0150	Genetic Pokémon	いでんしポケモン	
+pokemon_category_0151	New Species Pokémon	しんしゅポケモン	

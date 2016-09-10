@@ -1,0 +1,341 @@
+Key	English	Japanese	Comment
+move_desc_0001	A jolt of electricity crashes down on the target to inflict damage.	電気の刺激を相手に浴びせて攻撃する。まひ状態にすることがある。	
+move_desc_0002	The user lunges at the target at a speed that makes it almost invisible.	目にも留まらぬものすごい速さで相手につっこむ。必ず先制攻撃できる。	
+move_desc_0003	Hard, pointed, sharp claws rake the target to inflict damage.	硬くとがった鋭いツメで相手をひっかいて攻撃する。	
+move_desc_0004	The target is attacked with small flames.	小さな炎を相手に発射して攻撃する。やけど状態にすることがある。	
+move_desc_0005	The target is struck with slender, whiplike vines to inflict damage.	ムチのようにしなる細長いつるで相手をたたきつけて攻撃する。	
+move_desc_0006	A physical attack in which the user charges and slams into the target with its whole body.	相手にむかって全身でぶつかっていき攻撃する。	
+move_desc_0007	Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.	はっぱをとばして相手を切りつけて攻撃する。急所に当たりやすい。	
+move_desc_0008	A reckless, full-body charge attack for slamming into the target.	すごい勢いで相手にぶつかって攻撃する。自分も少しダメージを受ける。	
+move_desc_0009	The target is blasted with a forceful shot of water.	水を勢いよく相手に発射して攻撃する。	
+move_desc_0010	The target is bitten with viciously sharp fangs.	鋭くとがった歯でかみついて攻撃する。相手をひるませることがある。	
+move_desc_0011	The target is physically pounded with a long tail, a foreleg, or the like.	長いしっぽや手などを使って相手をはたいて攻撃する。	
+move_desc_0012	The target is slapped repeatedly, back and forth.	おうふくビンタで相手をたたいて攻撃する。２ー５回のあいだ連続でだす。	
+move_desc_0013	A long body or vines are used to wrap and squeeze the target	長い体やつるなどをつかって４ー５ターンのあいだ相手にまきついて攻撃する。	
+move_desc_0014	The target is attacked with a powerful beam.	強い光線を相手に発射して攻撃する。次のターンは動けなくなる。	
+move_desc_0015	The target is licked with a long tongue, causing damage.	長い舌で相手をなめまわして攻撃する。まひ状態にすることがある。	
+move_desc_0016	The user releases a horrible aura imbued with dark thoughts.	体から悪意にみちた恐ろしいオーラを発する。相手をひるませることがある。	
+move_desc_0017	The target is attacked with a discharge of filthy gases	汚れたガスを相手に吹きつけて攻撃する。毒状態にすることがある。	
+move_desc_0018	Unsanitary sludge is hurled at the target.	汚いヘドロを相手に投げつけて攻撃する。毒状態にすることがある。	
+move_desc_0019	The target is raked with steel claws.	鋼鉄のツメで相手を切り裂いて攻撃する。自分の攻撃があがることがある。	
+move_desc_0020	The target is gripped and squeezed from both sides to inflict damage.	相手を両側からはさんでダメージをあたえる。	
+move_desc_0021	The user cloaks itself in fire and charges at the target.	炎をまとい相手に突進して攻撃する。やけど状態にすることがある。	
+move_desc_0022	Using its tough and impressive horn, the user rams into the target with no letup.	硬くてりっぱなつのでおもいっきり相手を突き刺して攻撃する。	
+move_desc_0023	The target is struck with large, imposing wings spread wide to inflict damage.	大きくひろげたりっぱな翼を相手にぶつけて攻撃する。	
+move_desc_0024	The target is scorched with an intense blast of fire.	激しい炎を相手に発射して攻撃する。やけど状態にすることがある。	
+move_desc_0025	This move enables the user to attack quickly.	相手より先に攻撃できる。相手がだす技が攻撃技でないと失敗する。	
+move_desc_0026	The user burrows, then attacks.	１ターン目に潜り２ターン目で相手を攻撃する。洞窟からの脱出もできる。	
+move_desc_0027	A powerful low kick that makes the target fall over.	足を強くけり相手を転ばせて攻撃する。相手が重いほど威力があがる。	
+move_desc_0028	The user delivers a double chop with its forearms crossed. Critical hits land more easily.	両手チョップを相手にたたきつけて攻撃する。急所に当たりやすい。	
+move_desc_0029	The user tears at the target with blades formed by psychic power. Critical hits land more easily.	実体化させた心の刃で相手を切り裂く。急所に当たりやすい。	
+move_desc_0030	The target is attacked with a peculiar ray.	不思議な光線を相手に発射して攻撃する。混乱させることがある。	
+move_desc_0031	The user sets off an earthquake that strikes every Pokémon around it.	地震の衝撃で自分の周りにいるものを攻撃する。	
+move_desc_0032	The user stabs the target with sharpened stones from below. Critical hits land more easily.	とがった岩を相手に突き刺して攻撃する。急所に当たりやすい。	
+move_desc_0033	The target is punched with an icy fist.	冷気をこめたパンチで相手を攻撃する。こおり状態にすることがある。	
+move_desc_0034	The user unleashes a vicious blow after its cute act makes the target less wary.	かわいいしぐさで油断させて強烈な一撃を浴びせる。相手をひるませることがある。	
+move_desc_0035	The user strikes everything around it by letting loose a flare of electricity.	まばゆい電撃で自分の周りにいるものを攻撃する。まひ状態にすることがある。	
+move_desc_0036	The user gathers all its light energy and releases it at once.	体の光を一点に集めて力を放つ。相手の特防をさげることがある。	
+move_desc_0037	The target is jabbed with a sharply pointed beak or horn.	鋭くとがったくちばしやつので相手を突いて攻撃する。	
+move_desc_0038	A corkscrewing attack with a sharp beak acting as a drill.	回転しながらとがったくちばしを相手に突き刺して攻撃する。	
+move_desc_0039	The target is struck with an icy-cold beam of energy.	凍えるビームを相手に発射して攻撃する。こおり状態にすることがある。	
+move_desc_0040	A howling blizzard is summoned to strike opposing Pokémon.	激しい吹雪を相手に吹きつけて攻撃する。こおり状態にすることがある。	
+move_desc_0041	The user attacks with a blade of air that slices even the sky.	空をも切り裂く空気の刃で攻撃する。相手をひるませることがある。	
+move_desc_0042	The user attacks by exhaling hot breath on the opposing Pokémon	熱い息を相手に吹きつけて攻撃する。やけど状態にすることがある。	
+move_desc_0043	The user damages the target twice in succession by jabbing it with two spikes.	２本のハリを相手に突き刺し２回連続でダメージ。毒状態にすることがある。	
+move_desc_0044	The target is stabbed with a tentacle or arm steeped in poison.	毒にそまった触手や腕で相手を突き刺す。毒状態にすることがある。	
+move_desc_0045	The user confounds the target with speed, then slashes.	素早い動きで相手をほんろうして切りつける。攻撃は必ず命中する。	
+move_desc_0046	The user crashes into its target while rotating its body like a drill. Critical hits land more easily.	ドリルのように体を回転しながら相手に体当たりする。急所に当たりやすい。	
+move_desc_0047	The user stirs up a violent petal blizzard and attacks everything around it.	激しい花吹雪を起こし周りにいるものに攻撃してダメージを与える。	
+move_desc_0048	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.	養分を吸い取り攻撃する。相手に与えたダメージの半分のＨＰを回復できる。	
+move_desc_0049	The user vibrates its wings to generate a damaging sound wave.	はねの振動で音波をおこして攻撃する。相手の特防をさげることがある。	
+move_desc_0050	The user bites the target with toxic fangs.	毒のあるキバで相手にかみついて攻撃する。猛毒をおわせることがある。	
+move_desc_0051	The user slashes the target the instant an opportunity arises. Critical hits land more easily.	一瞬のすきをついて相手を切りはらう。急所に当たりやすい。	
+move_desc_0052	The target is attacked with a slash of claws or blades. Critical hits land more easily.	ツメやカマなどで相手を切り裂いて攻撃する。急所に当たりやすい。	
+move_desc_0053	A spray of bubbles is forcefully ejected at the target.	泡を勢いよく相手に発射して攻撃する。素早さをさげることがある。	
+move_desc_0054	The user grabs the target and recklessly dives for the ground.	地面に自分ごと相手を投げつけて攻撃する。自分も少しダメージを受ける。	
+move_desc_0055	The target is attacked with a sharp chop. Critical hits land more easily.	鋭いチョップで相手をたたいて攻撃する。急所に当たりやすい。	
+move_desc_0056	The user makes a swift attack on the target's legs.	素早い動きで相手の足をねらって攻撃する。相手の素早さをさげる。	
+move_desc_0057	The user lunges at the target at a speed that makes it almost invisible.	目にも留まらぬものすごい速さで相手につっこむ。必ず先制攻撃できる。	
+move_desc_0058	The user attacks by swinging its tail as if it were a vicious wave in a raging storm.	激しくあれくるう荒波のように大きなしっぽをふって相手を攻撃する。	
+move_desc_0059	The user slams a barrage of hard-shelled seeds on the target from above.	硬い殻をもつ大きなタネを上からたたきつけて相手を攻撃する。	
+move_desc_0060	The user materializes an odd psychic wave to attack the target.	不思議な念波を実体化して相手を攻撃する。物理的なダメージを与える。	
+move_desc_0061	The user picks up and throws a small rock at the target to attack.	小さな岩を持ちあげて相手に投げつけて攻撃する。	
+move_desc_0062	The user attacks with a prehistoric power.	原始の力で攻撃する。自分のすべての能力があがることがある。	
+move_desc_0063	Boulders are hurled at the target.  Critical hits land more easily.	岩石を投げつけて攻撃する。相手の動きを封じることで素早さをさげる。	
+move_desc_0064	Large boulders are hurled at the opposing Pokémon to inflict damage.	大きな岩を激しくぶつけて攻撃する。相手をひるませることがある。	
+move_desc_0065	The user attacks with a ray of light that sparkles as if it were made of gemstones.	宝石のようにきらめく光を発射して相手を攻撃する。	
+move_desc_0066	The user extends its shadow and attacks the target from behind.	影をのばして相手の背後から攻撃する。必ず先制攻撃できる。	
+move_desc_0067	The user throws a punch from the shadows.	影にまぎれてパンチをくりだす。攻撃は必ず命中する。	
+move_desc_0068	The user slashes with a sharp claw made from shadows. Critical hits land more easily.	影からつくった鋭いツメで相手を切り裂く。急所に当たりやすい。	
+move_desc_0069	The user blasts the target with a gust of repulsive wind.	みのけもよだつ突風で相手を攻撃する。自分のすべての能力があがることがある。	
+move_desc_0070	The user hurls a shadowy blob at the target.	黒い影の塊を投げつけて攻撃する。相手の特防をさげることがある。	
+move_desc_0071	The user strikes the target with tough punches as fast as bullets.	弾丸のような速くて硬いパンチを相手にくりだす。必ず先制攻撃できる。	
+move_desc_0072	The user launches steel bombs that stick to the target.	相手に吸いつく鋼の爆弾を発射する。攻撃は必ず命中する。	
+move_desc_0073	The target is hit with wings of steel.	硬い翼を相手にたたきつけて攻撃する。自分の防御があがることがある。	
+move_desc_0074	The user slams the target with its steel-hard head	鋼のような硬い頭で攻撃する。相手をひるませることがある。	
+move_desc_0075	The user attacks everything around it.	周りにいるポケモン全員にダメージ。与えたダメージの半分を自分が回復する。	
+move_desc_0076	The user throws an electrically charged tackle at the target.	電気をまとい相手に突進して攻撃する。まひ状態にすることがある。	
+move_desc_0077	The target is punched with an electrified fist.	電撃をこめたパンチで相手を攻撃する。まひ状態にすることがある。	
+move_desc_0078	A wicked thunderbolt is dropped on the target to inflict damage.	激しい雷を相手に落として攻撃する。まひ状態にすることがある。	
+move_desc_0079	A strong electric blast crashes down on the target.	強い電撃を相手に浴びせて攻撃する。まひ状態にすることがある。	
+move_desc_0080	The user whips up a vicious tornado to tear at the opposing Pokémon.	竜巻をおこして相手をまきこみ攻撃する。相手をひるませることがある。	
+move_desc_0081	The user exhales a mighty gust that inflicts damage.	ものすごい息を相手に吹きつけて攻撃する。まひ状態にすることがある。	
+move_desc_0082	The target is attacked with a shock wave generated by the user's gaping mouth.	大きな口から衝撃波をまきおこして相手を攻撃する。	
+move_desc_0083	The user slashes the target with huge, sharp claws.  Critical hits land more easily.	鋭くとがった巨大なツメで相手を切り裂いて攻撃する。	
+move_desc_0084	Letting out a charming cry, the user does emotional damage to opposing Pokémon	魅惑の鳴き声をだして相手に精神的なダメージを与える。攻撃は必ず命中する。	
+move_desc_0085	The user steals the target's energy with a kiss.	キッスによって相手からＨＰを吸い取る。与えたダメージの半分以上ＨＰを回復する。	
+move_desc_0086	The user damages opposing Pokémon by emitting a powerful flash.	強力な光を放ち相手にダメージを与える。	
+move_desc_0087	Borrowing the power of the moon, the user attacks the target.	月のパワーをかりて相手を攻撃する。相手の特攻をさげることがある。	
+move_desc_0088	The user plays rough with the target and attacks it.	相手にじゃれついて攻撃する。相手の攻撃をさげることがある。	
+move_desc_0089	A slashing attack with a poisonous blade. Critical hits land more easily.	毒の刃で相手を切り裂く。毒状態にすることがあり急所にも当たりやすい。	
+move_desc_0090	Unsanitary sludge is hurled at the target.	汚いヘドロを相手に投げつけて攻撃する。毒状態にすることがある。	
+move_desc_0091	The user strikes everything around it by swamping the area with a giant sludge wave.	ヘドロの波で自分の周りにいるものを攻撃する。毒状態にすることがある。	
+move_desc_0092	The user shoots filthy garbage at the target to attack.	汚いゴミを相手にぶつけて攻撃する。毒状態にすることがある。	
+move_desc_0093	The user attacks by hurling a blob of mud at the target.	泥の塊を相手に投げつけて攻撃する。同時に相手の素早さをさげる。	
+move_desc_0094	The user clubs the target with a bone.	手に持ったホネで相手をなぐりつけて攻撃する。相手をひるませることがある。	
+move_desc_0095	The user strikes everything around it by stomping down on the ground.	地面を踏みならして自分の周りにいるものを攻撃する。相手の素早さをさげる。	
+move_desc_0096	The user launches a hard-packed mud ball to attack.	硬い泥の弾を相手に発射して攻撃する。命中率をさげることがある。	
+move_desc_0097	The target is slashed with scythes or claws.	カマやツメなどで相手を切りつけて攻撃する。連続で当てると威力があがる。	
+move_desc_0098	The user bites the target.	かみついて攻撃する。相手がきのみを持っているとき食べてきのみの効果を受けられる。	
+move_desc_0099	The user attacks with a sinister beam of light.	不思議な光を発射して攻撃する。相手を混乱させることがある。	
+move_desc_0100	The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.	カマやツメをハサミのように交差させながら相手を切り裂く。	
+move_desc_0101	Cloaking itself in flame, the user attacks.	炎をまとい相手を攻撃する。力をためて自分の素早さをあげる。	
+move_desc_0102	The user attacks the target with abursting flame. The bursting flame damages Pokémon next to the target as well.	当たるとはじける炎で相手を攻撃する。はじけた炎は隣の相手にもふりかかる。	
+move_desc_0103	The target is attacked with an intense blast of all-consuming fire.	大の字の炎で相手を焼きつくす。やけど状態にすることがある。	
+move_desc_0104	If the target's HP is half or less,this attack will hit with double the power.	相手がＨＰの半分くらいきずをおっていると技の威力が２倍になる。	
+move_desc_0105	The user attacks the target with a pulsing blast of water.	水の振動を相手に与えて攻撃する。相手を混乱させることがある。	
+move_desc_0106	The user shoots boiling hot water at its target.	熱く煮えたぎる水を相手に発射して攻撃する。やけど状態にすることがある。	
+move_desc_0107	The target is blasted by a huge volume of water launched under great pressure.	大量の水を激しい勢いで相手に発射して攻撃する。	
+move_desc_0108	The target is hit by a strong telekinetic force. 	強い念力を相手に送って攻撃する。相手の特防をさげることがある。	
+move_desc_0109	The user materializes an odd psychic wave to attack the target.	不思議な念波を実体化して相手を攻撃する。物理的なダメージを与える。	
+move_desc_0110	The user flash-freezes chunks of ice and hurls them at the target.	氷の塊を一瞬でつくり相手に素早く放つ。必ず先制攻撃できる。	
+move_desc_0111	The user attacks with a gust of chilled air.	凍てつく冷気を相手に吹きつけて攻撃する。相手の素早さをさげる。	
+move_desc_0112	The user blows its cold breath on the target.  Critical hits land more easily.	冷たい息を相手に吹きつけて攻撃する。必ず急所に当たる。	
+move_desc_0113	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.	養分を吸い取り攻撃する。相手に与えたダメージの半分のＨＰを回復できる。	
+move_desc_0114	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.	養分を吸い取り攻撃する。与えたダメージの半分のＨＰを回復できる。	
+move_desc_0115	The target is punched with a fiery fist.	炎をこめたパンチで相手を攻撃する。やけど状態にすることがある。	
+move_desc_0116	The user gathers light, then blasts a bundled beam at the target.	１ターン目に光をいっぱいに集め２ターン目に光の束を発射して攻撃する。	
+move_desc_0117	The user handles a sharp leaf like as word and attacks by cutting its target. Critical hits land more easily.	はっぱを剣のようにあやつり相手を切りつけて攻撃する。急所に当たりやすい。	
+move_desc_0118	The user violently whirls its vines or tentacles to harshly lash the target.	ツタや触手を激しくふるって相手をたたきつけ攻撃する。	
+move_desc_0119	The user just flops and splashes around to no effect at all...	攻撃もせずにピョンピョンと跳ねるだけでなにもおこらない……。	
+move_desc_0120	The opposing Pokémon are attackedwith a spray of harsh acid.	強い酸を相手にかけて攻撃する。相手の特防をさげることがある。	
+move_desc_0121	The user launches razor-like wind to slash the opposing Pokémon. Critical hits land more easily.	鋭い風で相手を切りつけて攻撃する。急所に当たりやすい。	
+move_desc_0122	The user attacks by wrapping its opponent in a fierce wind that flies up into the sky.	強烈な風で相手を包みこんで攻撃する。相手を混乱させることがある。	
+move_desc_0123	The user attacks with a swift chop.	手刀を勢いよく振りおろして相手を攻撃する。ひかりのかべやリフレクターも破壊できる。	
+move_desc_0124	The target is cut with a scythe or claw.	カマやツメなどで相手を切りつけて攻撃する。細い木も切ることができる。	
+move_desc_0125	Star-shaped rays are shot at the opposing Pokémon. This attack never misses.	星型の光を発射して相手を攻撃する。攻撃は必ず命中する。	
+move_desc_0126	The target is jabbed with a sharply pointed horn to inflict damage.	鋭くとがったつので相手を攻撃する。	
+move_desc_0127	The target is stomped with a big foot.	大きな足で相手を踏みつけて攻撃する。相手をひるませることがある。	
+move_desc_0128	The user sticks out its head and attacks by charging straight into the target.	頭を突きだしてまっすぐつっこんで攻撃する。相手をひるませることがある。	
+move_desc_0129	The user bites hard on the target with its sharp front fangs.	鋭い前歯で強くかみついて攻撃する。相手をひるませることがある。	
+move_desc_0130	The target is slammed with a long tail, vines, or the like to inflict damage.	長いしっぽやつるなどを使い相手をたたきつけて攻撃する。	
+move_desc_0131	The user drops onto the target with its full body weight.	全身で相手にのしかかり攻撃する。まひ状態にすることがある。	
+move_desc_0132	The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions.	２ターンのあいだ眠り続ける。自分のＨＰと状態異常をすべて回復する。	
+move_desc_0133	An attack made out of desperation.	自分のＰＰがなくなるとあがいて相手を攻撃する。自分も少しダメージを受ける。	
+move_desc_0134	The user shoots boiling hot water at its target.	熱く煮えたぎる水を相手に発射して攻撃する。やけど状態にすることがある。	
+move_desc_0135	The target is blasted by a huge volume of water launched under great pressure.	大量の水を激しい勢いで相手に発射して攻撃する。	
+move_desc_0136	A long body or vines are used to wrap and squeeze the target.	長い体やつるなどをつかって４ー５ターンのあいだ相手にまきついて攻撃する。	
+move_desc_0137	A long body or vines are used to wrap and squeeze the target.	長い体やつるなどをつかって４ー５ターンのあいだ相手にまきついて攻撃する。	
+move_desc_0200	The target is slashed with scythes or claws.	カマやツメなどで相手を切りつけて攻撃する。連続で当てると威力があがる。	
+move_desc_0201	The user bites the target.	かみついて攻撃する。相手がきのみを持っているとき食べてきのみの効果を受けられる。	
+move_desc_0202	The target is bitten with viciously sharp fangs.	鋭くとがった歯でかみついて攻撃する。相手をひるませることがある。	
+move_desc_0203	This move enables the user to attack quickly.	相手より先に攻撃できる。相手がだす技が攻撃技でないと失敗する。	
+move_desc_0204	The user exhales a mighty gust that inflicts damage.	ものすごい息を相手に吹きつけて攻撃する。まひ状態にすることがある。	
+move_desc_0205	A jolt of electricity crashes down on the target to inflict damage.	電気の刺激を相手に浴びせて攻撃する。まひ状態にすることがある。	
+move_desc_0206	The user throws an electrically charged tackle at the target.	電気をまとい相手に突進して攻撃する。まひ状態にすることがある。	
+move_desc_0207	A powerful low kick that makes the target fall over.	足を強くけり相手を転ばせて攻撃する。相手が重いほど威力があがる。	
+move_desc_0208	The target is attacked with a sharp chop. Critical hits land more easily.	鋭いチョップで相手をたたいて攻撃する。急所に当たりやすい。	
+move_desc_0209	The target is attacked with small flames.	小さな炎を相手に発射して攻撃する。やけど状態にすることがある。	
+move_desc_0210	The target is struck with large, imposing wings spread wide to inflict damage.	大きくひろげたりっぱな翼を相手にぶつけて攻撃する。	
+move_desc_0211	The target is jabbed with a sharply pointed beak or horn.	鋭くとがったくちばしやつので相手を突いて攻撃する。	
+move_desc_0212	The target is licked with a long tongue, causing damage.	長い舌で相手をなめまわして攻撃する。まひ状態にすることがある。	
+move_desc_0213	The user slashes with a sharp claw made from shadows. Critical hits land more easily.	影からつくった鋭いツメで相手を切り裂く。急所に当たりやすい。	
+move_desc_0214	The target is struck with slender, whiplike vines to inflict damage.	ムチのようにしなる細長いつるで相手をたたきつけて攻撃する。	
+move_desc_0215	Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.	はっぱをとばして相手を切りつけて攻撃する。急所に当たりやすい。	
+move_desc_0216	The user attacks by hurling a blob of mud at the target.	泥の塊を相手に投げつけて攻撃する。同時に相手の素早さをさげる。	
+move_desc_0217	The user flash-freezes chunks of ice and hurls them at the target.	氷の塊を一瞬でつくり相手に素早く放つ。必ず先制攻撃できる。	
+move_desc_0218	The user blows its cold breath on the target.  Critical hits land more easily.	冷たい息を相手に吹きつけて攻撃する。必ず急所に当たる。	
+move_desc_0219	The user lunges at the target at a speed that makes it almost invisible.	目にも留まらぬものすごい速さで相手につっこむ。必ず先制攻撃できる。	
+move_desc_0220	Hard, pointed, sharp claws rake the target to inflict damage.	硬くとがった鋭いツメで相手をひっかいて攻撃する。	
+move_desc_0221	A physical attack in which the user charges and slams into the target with its whole body.	相手にむかって全身でぶつかっていき攻撃する。	
+move_desc_0222	The target is physically pounded with a long tail, a foreleg, or the like.	長いしっぽや手などを使って相手をはたいて攻撃する。	
+move_desc_0223	The target is cut with a scythe or claw.	カマやツメなどで相手を切りつけて攻撃する。細い木も切ることができる。	
+move_desc_0224	The target is stabbed with a tentacle or arm steeped in poison.	毒にそまった触手や腕で相手を突き刺す。毒状態にすることがある。	
+move_desc_0225	The opposing Pokémon are attackedwith a spray of harsh acid.	強い酸を相手にかけて攻撃する。相手の特防をさげることがある。	
+move_desc_0226	The user tears at the target with blades formed by psychic power. Critical hits land more easily.	実体化させた心の刃で相手を切り裂く。急所に当たりやすい。	
+move_desc_0227	The user picks up and throws a small rock at the target to attack.	小さな岩を持ちあげて相手に投げつけて攻撃する。	
+move_desc_0228	The target is raked with steel claws.	鋼鉄のツメで相手を切り裂いて攻撃する。自分の攻撃があがることがある。	
+move_desc_0229	The user strikes the target with tough punches as fast as bullets.	弾丸のような速くて硬いパンチを相手にくりだす。必ず先制攻撃できる。	
+move_desc_0230	The target is blasted with a forceful shot of water.	水を勢いよく相手に発射して攻撃する。	
+move_desc_0231	The user just flops and splashes around to no effect at all...	攻撃もせずにピョンピョンと跳ねるだけでなにもおこらない……。	
+move_desc_0232	The target is blasted with a forceful shot of water.	水を勢いよく相手に発射して攻撃する。	
+move_name_0001	Thunder Shock	でんきショック	
+move_name_0002	Quick Attack	でんこうせっか	
+move_name_0003	Scratch	ひっかく	
+move_name_0004	Ember	ひのこ	
+move_name_0005	Vine Whip	つるのムチ	
+move_name_0006	Tackle	たいあたり	
+move_name_0007	Razor Leaf	はっぱカッター	
+move_name_0008	Take Down	とっしん	
+move_name_0009	Water Gun	みずでっぽう	
+move_name_0010	Bite	かみつく	
+move_name_0011	Pound	はたく	
+move_name_0012	Double Slap	おうふくビンタ	
+move_name_0013	Wrap	まきつく	
+move_name_0014	Hyper Beam	はかいこうせん	
+move_name_0015	Lick	したでなめる	
+move_name_0016	Dark Pulse	あくのはどう	
+move_name_0017	Smog	スモッグ	
+move_name_0018	Sludge	ヘドロこうげき	
+move_name_0019	Metal Claw	メタルクロー	
+move_name_0020	Vice Grip	はさむ	
+move_name_0021	Flame Wheel	かえんぐるま	
+move_name_0022	Megahorn	メガホーン	
+move_name_0023	Wing Attack	つばさでうつ	
+move_name_0024	Flamethrower	かえんほうしゃ	
+move_name_0025	Sucker Punch	ふいうち	
+move_name_0026	Dig	あなをほる	
+move_name_0027	Low Kick	けたぐり	
+move_name_0028	Cross Chop	クロスチョップ	
+move_name_0029	Psycho Cut	サイコカッター	
+move_name_0030	Psybeam	サイケこうせん	
+move_name_0031	Earthquake	じしん	
+move_name_0032	Stone Edge	ストーンエッジ	
+move_name_0033	Ice Punch	れいとうパンチ	
+move_name_0034	Heart Stamp	ハートスタンプ	
+move_name_0035	Discharge	ほうでん	
+move_name_0036	Flash Cannon	ラスターカノン	
+move_name_0037	Peck	つつく	
+move_name_0038	Drill Peck	ドリルくちばし	
+move_name_0039	Ice Beam	れいとうビーム	
+move_name_0040	Blizzard	ふぶき	
+move_name_0041	Air Slash	エアスラッシュ	
+move_name_0042	Heat Wave	ねっぷう	
+move_name_0043	Twineedle	ダブルニードル	
+move_name_0044	Poison Jab	どくづき	
+move_name_0045	Aerial Ace	つばめがえし	
+move_name_0046	Drill Run	ドリルライナー	
+move_name_0047	Petal Blizzard	はなふぶき	
+move_name_0048	Mega Drain	メガドレイン	
+move_name_0049	Bug Buzz	むしのさざめき	
+move_name_0050	Poison Fang	どくどくのキバ	
+move_name_0051	Night Slash	つじぎり	
+move_name_0052	Slash	きりさく	
+move_name_0053	Bubble Beam	バブルこうせん	
+move_name_0054	Submission	じごくぐるま	
+move_name_0055	Karate Chop	からてチョップ	
+move_name_0056	Low Sweep	ローキック	
+move_name_0057	Aqua Jet	アクアジェット	
+move_name_0058	Aqua Tail	アクアテール	
+move_name_0059	Seed Bomb	タネばくだん	
+move_name_0060	Psyshock	サイコショック	
+move_name_0061	Rock Throw	いわおとし	
+move_name_0062	Ancient Power	げんしのちから	
+move_name_0063	Rock Tomb	がんせきふうじ	
+move_name_0064	Rock Slide	いわなだれ	
+move_name_0065	Power Gem	パワージェム	
+move_name_0066	Shadow Sneak	かげうち	
+move_name_0067	Shadow Punch	シャドーパンチ	
+move_name_0068	Shadow Claw	シャドークロー	
+move_name_0069	Ominous Wind	あやしいかぜ	
+move_name_0070	Shadow Ball	シャドーボール	
+move_name_0071	Bullet Punch	バレットパンチ	
+move_name_0072	Magnet Bomb	マグネットボム	
+move_name_0073	Steel Wing	はがねのつばさ	
+move_name_0074	Iron Head	アイアンヘッド	
+move_name_0075	Parabolic Charge	パラボラチャージ	
+move_name_0076	Spark	スパーク	
+move_name_0077	Thunder Punch	かみなりパンチ	
+move_name_0078	Thunder	かみなり	
+move_name_0079	Thunderbolt	１０まんボルト	
+move_name_0080	Twister	たつまき	
+move_name_0081	Dragon Breath	りゅうのいぶき	
+move_name_0082	Dragon Pulse	りゅうのはどう	
+move_name_0083	Dragon Claw	ドラゴンクロー	
+move_name_0084	Disarming Voice	チャームボイス	
+move_name_0085	Draining Kiss	ドレインキッス	
+move_name_0086	Dazzling Gleam	マジカルシャイン	
+move_name_0087	Moonblast	ムーンフォース	
+move_name_0088	Play Rough	じゃれつく	
+move_name_0089	Cross Poison	クロスポイズン	
+move_name_0090	Sludge Bomb	ヘドロばくだん	
+move_name_0091	Sludge Wave	ヘドロウェーブ	
+move_name_0092	Gunk Shot	ダストシュート	
+move_name_0093	Mud Shot	マッドショット	
+move_name_0094	Bone Club	ホネこんぼう	
+move_name_0095	Bulldoze	じならし	
+move_name_0096	Mud Bomb	どろばくだん	
+move_name_0097	Fury Cutter	れんぞくぎり	
+move_name_0098	Bug Bite	むしくい	
+move_name_0099	Signal Beam	シグナルビーム	
+move_name_0100	X-Scissor	シザークロス	
+move_name_0101	Flame Charge	ニトロチャージ	
+move_name_0102	Flame Burst	はじけるほのお	
+move_name_0103	Fire Blast	だいもんじ	
+move_name_0104	Brine	しおみず	
+move_name_0105	Water Pulse	みずのはどう	
+move_name_0106	Scald	ねっとう	
+move_name_0107	Hydro Pump	ハイドロポンプ	
+move_name_0108	Psychic	サイコキネシス	
+move_name_0109	Psystrike	サイコブレイク	
+move_name_0110	Ice Shard	こおりのつぶて	
+move_name_0111	Icy Wind	こごえるかぜ	
+move_name_0112	Frost Breath	こおりのいぶき	
+move_name_0113	Absorb	すいとる	
+move_name_0114	Giga Drain	ギガドレイン	
+move_name_0115	Fire Punch	ほのおのパンチ	
+move_name_0116	Solar Beam	ソーラービーム	
+move_name_0117	Leaf Blade	リーフブレード	
+move_name_0118	Power Whip	パワーウィップ	
+move_name_0119	Splash	はねる	
+move_name_0120	Acid	ようかいえき	
+move_name_0121	Air Cutter	エアカッター	
+move_name_0122	Hurricane	ぼうふう	
+move_name_0123	Brick Break	かわらわり	
+move_name_0124	Cut	いあいぎり	
+move_name_0125	Swift	スピードスター	
+move_name_0126	Horn Attack	つのでつく	
+move_name_0127	Stomp	ふみつけ	
+move_name_0128	Headbutt	ずつき	
+move_name_0129	Hyper Fang	ひっさつまえば	
+move_name_0130	Slam	たたきつける	
+move_name_0131	Body Slam	のしかかり	
+move_name_0132	Rest	ねむる	
+move_name_0133	Struggle	わるあがき	
+move_name_0134	Scald	ねっとう	Kamex/Blastoise version of Scald.
+move_name_0135	Hydro Pump	ハイドロポンプ	Kamex/Blastoise version of Hydro Pump.
+move_name_0136	Wrap	まきつく	Plant version of Wrap.
+move_name_0137	Wrap	まきつく	Pink version of Wrap.
+move_name_0200	Fury Cutter	れんぞくぎり	
+move_name_0201	Bug Bite	むしくい	
+move_name_0202	Bite	かみつく	
+move_name_0203	Sucker Punch	ふいうち	
+move_name_0204	Dragon Breath	りゅうのいぶき	
+move_name_0205	Thunder Shock	でんきショック	
+move_name_0206	Spark	スパーク	
+move_name_0207	Low Kick	けたぐり	
+move_name_0208	Karate Chop	からてチョップ	
+move_name_0209	Ember	ひのこ	
+move_name_0210	Wing Attack	つばさでうつ	
+move_name_0211	Peck	つつく	
+move_name_0212	Lick	したでなめる	
+move_name_0213	Shadow Claw	シャドークロー	
+move_name_0214	Vine Whip	つるのムチ	
+move_name_0215	Razor Leaf	はっぱカッター	
+move_name_0216	Mud Shot	マッドショット	
+move_name_0217	Ice Shard	こおりのつぶて	
+move_name_0218	Frost Breath	こおりのいぶき	
+move_name_0219	Quick Attack	でんこうせっか	
+move_name_0220	Scratch	ひっかく	
+move_name_0221	Tackle	たいあたり	
+move_name_0222	Pound	はたく	
+move_name_0223	Cut	いあいぎり	
+move_name_0224	Poison Jab	どくづき	
+move_name_0225	Acid	ようかいえき	
+move_name_0226	Psycho Cut	サイコカッター	
+move_name_0227	Rock Throw	いわおとし	
+move_name_0228	Metal Claw	メタルクロー	
+move_name_0229	Bullet Punch	バレットパンチ	
+move_name_0230	Water Gun	みずでっぽう	
+move_name_0231	Splash	はねる	
+move_name_0232	Water Gun	みずでっぽう	Kamex/Blastoise version of Water Gun.

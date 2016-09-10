@@ -1,0 +1,38 @@
+Key	English	Japanese	TPCi
+item_great_ball_desc	A good, high-performance Poké Ball that provides a higher Pokémon catch rate than a standard Poké Ball can.	モンスターボールよりもさらにポケモンを捕まえやすくなった少し性能のいいボール。	
+item_great_ball_name	Great Ball	スーパーボール	
+item_hyper_potion_desc	A spray-type medicine for treating wounds. It can be used to restore {0}% of the HP of an injured Pokémon.	スプレー式のキズぐすり。ポケモン1匹のHPを{0}%だけ回復する。	3/21, TPCi: To accommodate the change from a whole number to a percentage.
+item_hyper_potion_name	Hyper Potion	すごいキズぐすり	
+item_master_ball_desc	The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail.	野生のポケモンを必ず捕まえることができる最高性能のボール。	
+item_master_ball_name	Master Ball	マスターボール	
+item_max_potion_desc	A spray-type medicine for treating wounds. It will completely restore the max HP of a single Pokémon.	スプレー式のキズぐすり。ポケモン1匹のHPをすべて回復する。	
+item_max_potion_name	Max Potion	まんたんのくすり	
+item_max_revive_desc	A medicine that can revive fainted Pokémon. It also fully restores a fainted Pokémon's maximum HP.	ひんしになってしまったポケモン1匹のHPをすべて回復する。	
+item_max_revive_name	Max Revive	げんきのかたまり	
+item_poke_ball_desc	A device for catching wild Pokémon. It's thrown like a ball at a Pokémon, comfortably encapsulating its target.	野生のポケモンに投げて捕まえるためのボール。カプセル式になっている。	
+item_poke_ball_name	Poké Ball	モンスターボール	
+item_potion_desc	A spray-type medicine for treating wounds. It can be used to restore {0}% of the HP of an injured Pokémon.	スプレー式のキズぐすり。ポケモン1匹のHPを{0}%だけ回復する。	3/21, TPCi: To accommodate the change from a whole number to a percentage.
+item_potion_name	Potion	キズぐすり	
+item_razz_berry_desc	Feed to Pokémon, and it will be easier to catch on your next throw.	ポケモンに与えると捕まえやすくなるきのみ。	
+item_razz_berry_name	Razz Berry	ズリのみ	
+item_special_camera_name	Camera	カメラ	
+item_special_camera_desc	When you encounter Pokémon in the wild, you can use your camera to photograph them.	野生のポケモンの姿を撮影できるカメラ。	3/21, TPCi: For clarity.
+item_super_potion_desc	A spray-type medicine for treating wounds. It can be used to restore {0}% of the HP of an injured Pokémon.	スプレー式のキズぐすり。ポケモン1匹のHPを{0}%だけ回復する。	3/21, TPCi: To accommodate the change from a whole number to a percentage.
+item_super_potion_name	Super Potion	いいキズぐすり	
+item_ultra_ball_desc	An ultra-high performance Poké Ball that provides a higher catch success rate than a Great Ball.	スーパーボールよりもさらにポケモンを捕まえやすくなったすごく性能のいいボール。	
+item_ultra_ball_name	Ultra Ball	ハイパーボール	
+item_x_attack_desc	UNDEFINED	UNDEFINED	
+item_x_attack_name	X Attack	プラスパワー	
+item_x_defense_desc	UNDEFINED	UNDEFINED	
+item_x_defense_name	X Defense	ディフェンダー	
+item_x_miracle_desc	UNDEFINED	UNDEFINED	
+item_x_miracle_name	UNDEFINED	UNDEFINED	
+			
+item_bluk_berry_desc	UNDEFINED	UNDEFINED	
+item_bluk_berry_name	Bluk Berry	ブリーのみ	
+item_wepar_berry_desc	UNDEFINED	UNDEFINED	
+item_wepar_berry_name	Wepear Berry	セシナのみ	3/21, TPCi. Wrong Glossary term.
+item_nanab_berry_desc	UNDEFINED	UNDEFINED	
+item_nanab_berry_name	Nanab Berry	ナナのみ	
+item_pinap_berry_desc	UNDEFINED	UNDEFINED	
+item_pinap_berry_name	Pinap Berry	パイルのみ	

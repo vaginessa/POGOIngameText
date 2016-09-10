@@ -1,0 +1,219 @@
+Key	English	Japanese	Comment
+badge_capture_total	Captured {0} Pokémon	ポケモンを {0} 匹捕まえた！	
+badge_capture_total_title	Catch	捕まえた数	
+badge_capture_total_value_format	N0	N0	
+badge_defeated_fort	Won {0} Battles	{0} 回バトルした！	
+badge_defeated_fort_title	Battle	バトルした数	
+badge_defeated_fort_value_format	N0	N0	
+badge_encountered_total	Encountered {0} Pokémon	ポケモンを {0} 匹見つけた！	
+badge_encountered_total_title	Encounters	見つけた数	
+badge_encountered_total_value_format	N0	N0	
+badge_evolved_total	Evolved {0} Pokémon	ポケモンを {0} 匹進化させた！	
+badge_evolved_total_title	Evolution	進化させた数	
+badge_evolved_total_value_format	N0	N0	
+badge_hatched_total	Hatched {0} Eggs	タマゴを {0} 個かえした！	
+badge_hatched_total_title	Eggs Hatched	かえしたタマゴの数	
+badge_hatched_total_value_format	N0	N0	
+badge_pokedex_entries	Entered {0} Pokémon in the Pokédex	ポケモン図鑑に {0} 匹登録された！	
+badge_pokedex_entries_title	Pokédex	ポケモン図鑑	
+badge_pokedex_entries_value_format	N0	N0	
+badge_pokestops_visited	Visited {0} PokéStops	ポケストップを {0} 回訪れた！	
+badge_pokestops_visited_title	PokéStop Visits	ポケストップ	
+badge_pokestops_visited_value_format	N0	N0	
+badge_travel_km	Walked {0} km	{0} km 歩いた！	
+badge_travel_km_title	Walked	歩いた距離	
+badge_travel_km_value_format	N2	N2	
+badge_unique_pokestops	Visited {0} unique Pokestops	{0} ヶ所のユニークなポケストップ	
+badge_unique_pokestops_title	Unique PokéStops	ユニークポケストップ	
+badge_unique_pokestops_value_format	N0	N0	
+badge_you_earned	Congratulations! You earned a medal!	やったー！メダルをゲットした！	
+battle_pokemon_already_in_list	Already selected for battle	すでに手持ちに入っています	When you select the same pokemon to be in battle list again
+boot_loading	LOADING...	LOADING...	
+boot_beta_warning	This software is under development and is confidential. Please do not share, display, or distribute it to others. 	このソフトは開発中で、一般には非公開のものです。ソフト内で得た情報や画像を他人に見せたり共有したりしないでください。	
+boot_safety_warning	Remember to be alert at all times. Stay aware of your surroundings.	周りをよく見て、常に注意しながらプレイしてください	
+confirm_use_effective	{0} was effective.	{0} は効果があった！	Message if item was effective. {0} is replaced with item name.
+confirm_use_ineffective	{0} was not effective.	{0} は効果がないようだ…	Message if item was ineffective. {0} is replaced with item name.
+confirm_use_tap_to_use	Tap item to use	道具をタップしてつかう	Prompt telling user to tap the item to use it
+date_format	MMM dd, yyyy	yyyy年 M月 d日	
+egg_anticipation	What's inside?!	なにが生まれてくるのかな？	Message on egg received screen.
+egg_hatching	Oh?	おや？	Message on egg hatching screen
+egg_received	Lucky you! You got an Egg!	やったー！タマゴを手に入れた！	Heading of egg received screen
+egg_walk_to_hatch	Walk {0} km to hatch the Egg!	{0} km 歩いてタマゴをかえそう！	Text explaining how far you need to walk to hatch the egg
+encounter_gotcha	Gotcha!	やったー！	
+encounter_pokemon_was_caught	{0} was caught!	{0} を捕まえた！	
+encounter_pokemon_broke_free	The Pokémon broke free!	あ！ボールから抜けだした！	Shown in encounter after throwing Pokeball that failed to capture Pokemon. Can use {0} to insert type name of Pokemon.
+encounter_pokemon_ran_away	Oh no! The wild {0} fled.	野生の {0} は逃げ出した！	
+encounter_received_evolution_shard	{0} Evolution Shard received!	{0} の進化のカケラを手にいれた！	Displayed when the player earns a evolution shard
+encounter_score_curveball	Curveball	カーブボール	
+encounter_score_excellent_throw	Excellent Throw	エクセレントスロー	
+encounter_score_first_catch	First Catch of the Day	今日の 1 匹目	
+encounter_score_great_throw	Great Throw	グレートスロー	
+encounter_score_milestone	Bonus	ボーナス	
+encounter_score_new_pokemon	New Pokémon	新しいポケモン	
+encounter_score_nice_throw	Nice Throw	ナイススロー	
+encounter_score_one_shot	One Shot	ワンショット	
+encounter_score_pokemon_caught	Pokémon Caught	ポケモンゲット	
+encounter_score_total_exp	{0} XP	{0} XP	The label for the total XP showing up in the encounter score screen
+encounter_miss_throw	Miss...	Miss...	The message shows up when the throw missed target in encounter
+encounter_nice_throw	Nice!	Nice !	
+encounter_excellent_throw	Excellent!	Excellent !	
+encounter_great_throw	Great!	Great !	
+encounter_wild_pokemon_appeared	A wild <b>{0}</b> appeared!	<size=36>あ！野生の<b>{0}</b>がとびだしてきた！</size>	
+encounter_pokeball_inventory_empty	Out of Poké Balls!	ボールがもうありません	Message to player that they are out of Pokeball during an encounter
+encounter_score_total	TOTAL	合計	
+encounter_berry_already_used	You already used a Berry.	きのみはもう使えません	
+err_get_bundle	Failed to get game data from the server.	サーバーからゲームデータを取得できませんでした	Error message
+err_get_digest	Failed to get game data from the server.	サーバーからゲームデータを取得できませんでした	Error message
+err_get_player	Failed to get player information from the server.	サーバーからプレイヤー情報を取得できませんでした	Error message
+err_go_settings	Settings	設定	Error message button prompt
+err_gps_off	Your GPS is off. Pokémon GO requires your GPS to be turned on.	GPSが無効になっています。本体の設定からGPSを有効にしてください。	Error message
+err_gps_silent	GPS signal not found.	GPSシグナルが検出できません	Error message
+err_location_not_measured	Turn off mock locations.	擬似ロケーションは使用できません	Error message
+err_no_internet	No Internet connectivity.	インターネットに接続できません	Error message
+err_retry	Retry	リトライ	Error message button prompt
+err_skip	Not Now	あとで	Error message button prompt
+err_update	Update	更新する	Error message button prompt
+err_update_now	A new version of Pokémon GO is available. Would you like to update now?	Pokémon GO の最新バージョンがあります。今すぐ更新しますか？	Error message
+err_taking_you_to_app_store	Update to continue...	更新する	Error message prompt
+feedback_added_xp	+{0}XP	+{0} XP	Shows up as +100XP when player is awarded experience points in the top left corner HUD. {0} is replaced at runtime and should not be translated
+general_accept	Accept	同意します	Used for accepting legal prompt.
+general_error	Error	エラー	
+general_button_select	Select	決定	Button for selecting the Pokémon to put on the gym
+general_cancel	Cancel	キャンセル	Used in many cases for button prompts
+general_no	No	いいえ	Used in many cases for button prompts
+general_ok	OK	OK	Used in many cases for button prompts
+general_pokemon	Pokémon	ポケモン	
+general_pokemon_inventory_full	Your collection is full.	手持ちのポケモンがいっぱいです	
+general_sign_out	Sign Out	サインアウト	Used in mapboot and settings
+general_sign_out_confirm	Are you sure you want to sign out?	サインアウトしますか？	Logout prompt from settings
+general_yes	Yes	はい	Used in many cases for button prompts
+gym_defeated	The Gym has been defeated!	ジムが攻略されてしまった	When Gym has been defeated
+gym_gym_is_too_far	The Gym is too far.	ジムへもっと近づいてください	
+gym_leader_defeated	The Gym Leader has been defeated!	ジムリーダーが敗れた！	When the Gym Leader is beat but the gym is still alive
+gym_level	Lv	Lv.	Prefix on the gym level
+gym_lose	You lost...	LOSE	
+gym_lose_prestige	Prestige decreased by {0}.	ジムの名声が {0} さがった	
+gym_no_more_slots	The Gym is already full.	ジムのメンバーはもういっぱいだ	
+gym_player_is_already_member	You are already a member of this Gym.	あなたはすでにこのジムのメンバーです	
+gym_prestige	Prestige	名声	All gyms have a score called "Prestige". It goes up by people come to train the gym and down by getting defeated in the battles.
+gym_win	You win!	WIN	
+gym_win_prestige	Prestige increased by {0}.	ジムの名声が {0} 上がった	
+gym_results_pokemon_defeated	Pokémon Defeated:	Pokémon Defeated:	Statistic shown on the gym battle results screen, showing the number of Pokémon the player defeated
+gym_results_xp_awarded	Experience:	Experience:	Statistic shown on the gym battle results screen, showing the amount of experience awarded for the battle
+gym_results_xp_awarded_value	+{0} XP	+{0} XP	The formatting for the XP awarded at the gym battle results screen
+gym_results_prestige_change	Gym Prestige:	Gym Prestige:	Statistic shown on the gym battle results screen, showing the + or - amount that the gym's prestige has changed by.
+gym_under_construction	Gyms are under construction.	ジムはまだ準備中です。	
+item_bag_deployed	Pokémon assigned—Item cannot be used. 	ジムに配置されたポケモンには道具を使えません	Shown if user tries to use an item on a deployed pokemon
+item_bag_irrelevant	This item can't be used here.	ここでは使えません	Shown if item can't be used in current context
+item_bag_no_items	No items available.	道具がありません	Shown in middle of page if no items are on the page
+item_bag_potion_fainted	Potions cannot be used on fainted Pokémon.	ひんしのポケモンには使えません	Shown if user tries to use a potion on a fainted pokemon
+item_bag_potion_full_health	This Pokémon already has full health.	このポケモンの体力は満たんです	Shown if user tries to use a potion when health is full
+item_bag_revive_not_fainted	Revives can only be used on fainted Pokémon.	ひんしのポケモンにしか使えません	Shown if user tries to use revive on a healthy pokemon
+onboard_accept_tos	Accept	利用規約に同意します	
+onboard_decline_tos	Decline	同意しません	
+onboard_tos_title	Pokémon GO Terms of Service	Pokémon GO 利用規約	
+onboard_are_you_sure_decline_tos	Are you sure you want to decline?	本当に同意しなくてよいですか？	
+onboard_terms_of_service	Terms of Service	利用規約	Title for terms of service screen
+onboard_welcome_screen_1	Welcome to the world of Pokémon GO!	Pokémon GO の世界へようこそ！	
+onboard_welcome_screen_2	Pokémon make their homes in many different places! I hope you'll head out and help me with my research!	ポケモンはこの地球の様々な場所に生息しています。是非、外へ出かけて調査に協力してください。	
+onboard_select_your_avatar	Please choose your style.	あなたのスタイルを選んでください	
+onboard_customize_your_avatar			leave this blank
+onboard_done_customization	Are you all set?	これでいいですか？	
+onboard_select_a_name	What should the other Trainers and I call you?	あなたのニックネームを教えてください	
+onboard_name_too_short_error	Try something longer.	もう少し長いニックネームはありますか？	
+onboard_name_invalid_characters_error	Only letters and numbers are allowed.	アルファベットと数字しか使えません	
+onboard_name_too_long_error	Try something shorter.	もう少し短いニックネームはありますか？	
+onboard_name_not_available	It is not available	使用できないニックネームです	System message shown when the name is invalid
+onboard_name_not_valid	It is invalid	無効なニックネームです	System message shown when the name is invalid
+onboard_name_owned	It is already used by another Trainer	すでに使われているニックネームです	System message shown when the name is already taken by other player.
+onboard_name_cannot_change	Server Error	サーバーエラー	This should never happen, but it's defined in the protocol. Just make it a general server error message.
+onboard_name_fail	An error has occurred	エラーが発生しました、時間をおいて再度お試しください	
+onboard_enter_name_prompt			leave blank for now
+onboard_name_are_you_sure	Are you sure you want to be called <b>{0}</b>?	ニックネームは <b>{0}</b> でいいですか？	
+onboard_complete_time_to_go	Let's start our adventure! Walk around in the world to find Pokémon.	さぁ！ポケモンを探す冒険へ出かけましょう！	
+pokedex_all_types	All Types	すべてのタイプ	For viewing all types when filtering the pokedex and inventory
+pokedex_notencountered	Not Encountered	まだ見つけていないポケモン	Shown instead of name in Pokedex info, if not yet encountered
+pokedex_page_all	All	すべて	Pokedex page title
+pokedex_page_caught	Caught:	捕まえた数:	Pokedex page title
+pokedex_page_seen	Seen:	見つけた数:	Pokedex page title
+pokedex_page_name_not_seen	??????	？？？？？？	
+pokedex_details_seen	Seen:	捕まえた数:	A label showed in the Pokédex to describe the number of Pokémon captured. e.g. Seen: 10
+pokedex_details_caught	Caught:	見つけた数:	A label showed in the Pokédex to describe the number of Pokémon captured. e.g. Caught: 10
+pokedex_details_type	Type	タイプ:	A label showed in the Pokédex to describe the Pokémon's types. e.g. Type: Fire
+pokedex_details_type_not_caught	---	ーーー	
+pokedex_details_weight	Weight:	重さ:	
+pokedex_details_weight_not_caught	???.?	???.?	
+pokedex_details_height	Height:	高さ:	
+pokedex_details_height_not_caught	???.?	???.?	
+pokedex_details_category_not_caught	????? Pokémon	？？？？？ポケモン	
+pokedex_details_evolution	Evolution	進化	
+pokedex_sort_alphabet	A–Z	名前	Pokedex and Inventory sort order
+pokedex_sort_date	Date Found	日付	Pokedex and Inventory sort order
+pokedex_sort_hp	HP	HP	Pokedex and Inventory sort order
+pokedex_sort_level	CP	CP	Pokedex and Inventory sort order
+pokedex_sort_number	No.	No.	Pokedex and Inventory sort order
+pokedex_registered_to_pokedex	Registered to Pokédex	新しく図鑑に登録されます	
+pokemon_info_cp	CP	CP	Prefix on Combat point number. E.g. 'CP 12'
+pokemon_info_pokemon_is_released	{0} was released.	ばいばい {0}！ 元気でね！	
+pokemon_info_release	RELEASE	逃がす	Button text for deleting a Pokemon from your Inventory
+pokemon_type_normal	Normal	ノーマル	
+pokemon_type_fighting	Fighting	かくとう	
+pokemon_type_flying	Flying	ひこう	
+pokemon_type_poison	Poison	どく	
+pokemon_type_ground	Ground	じめん	
+pokemon_type_rock	Rock	いわ	
+pokemon_type_bug	Bug	むし	
+pokemon_type_ghost	Ghost	ゴースト	
+pokemon_type_steel	Steel	はがね	
+pokemon_type_fire	Fire	ほのお	
+pokemon_type_water	Water	みず	
+pokemon_type_grass	Grass	くさ	
+pokemon_type_electric	Electric	でんき	
+pokemon_type_psychic	Psychic	エスパー	
+pokemon_type_ice	Ice	こおり	
+pokemon_type_dragon	Dragon	ドラゴン	
+pokemon_type_dark	Dark	あく	
+pokemon_type_fairy	Fairy	フェアリー	
+pokestop_item_inventory_full	Your bag is full.	持ち物がいっぱいです	
+pokestop_no_items_found	Nothing was found	何も見つからなかった	
+pokestop_pokestop_is_too_far	This PokéStop is too far away.	ポケストップにもっと近づいてください	
+profile_start_date	Start date:	始めた日：	Start date label
+recycle_dialog_prefix	Discard	捨てる道具：	The first part of the dialog shown when picking how many of an item to recycle. "RECYCLE 99 Pokeball?"
+recycle_dialog_suffix	{0}?	{0}	The second part of the dialog shown when picking how many of an item to recycle. "Recycle 99 POKEBALL?"
+screen_title_item_bag	ITEMS	道具	Screen title
+screen_title_pokedex	POKÉDEX	図鑑	
+screen_title_pokemon_inventory	POKÉMON	ポケモン	
+screen_title_pokemon_inventory_egg	EGG	タマゴ	
+screen_title_settings	SETTINGS	設定	
+team_name_team0	Teamless	所属なし	Label for when team and player has no team assigned.
+team_name_team1	Team Blue	チーム ブルー	
+team_name_team2	Team Red	チーム レッド	
+team_name_team3	Team Yellow	チーム イエロー	
+pokemon_info_pokemon_not_released_deployed	Can't release {0} while it's assigned!	{0} はジムに配置されているので逃がすことはできません	Failure message shown when attempting to release a deployed Pokemon.
+pokemon_info_pokemon_release_failed	Failed to release {0} due to unknown error.	サーバーエラー：{0}を逃がせませんでした	Generic failure message for releasing Pokemon.
+pokemon_info_release_confirmation	Release {0}?	本当に {0} を逃しますか？	Message on modal asking if the player really wants to release Pokemon.
+pokemon_info_evolution_confirmation	Do you want to evolve {0}?	{0} を進化させますか？	
+pokemon_info_evolution_failed	Could not evolve {0} due to unknown error.	サーバーエラー：{0}は進化できませんでした	
+settings_music	Music	音楽	
+settings_sound_effects	Sound Effects	効果音	
+inventory_egg	Egg	タマゴ	
+pokemon_info_evolution_crystals	Evolution Shards	進化のカケラ	Shown on the Pokemon info screen to title the evolution section
+pokemon_info_evolution_crystals_remaining	Collect {0} more	あと {0} 個	Shown on the Pokemon info screen when the player does not have enough crystals to evolve
+pokemon_evolution_tap_to_evolve	Tap to evolve!	タップして進化させる！	Shown on the Pokemon info screen when the player has enough crystals to evolve
+pokemon_info_release	Release	逃がす	Shown on the button the player can press to release their Pokemon
+pokemon_info_release_deployed	Assign	配置する	Shown on the button the player can press to release their Pokemon when the Pokemon is deployed
+about_screen_info			Title information on the about screen
+about_screen_tos_btn	Terms of Service	利用規約	
+about_screen_licenses_btn	Licenses	ライセンス	
+about_screen_btn	About Pokémon GO	Pokémon GO について	Settings button text that opens the about screen
+about_screen_title	About Pokémon GO	Pokémon GO について	The title shown in the about screen
+about_screen_copyright1	©2016 Niantic, Inc.	©2016 Niantic, Inc.	
+about_screen_copyright2	©2016 Pokémon.	©2016 Pokémon.	
+about_screen_copyright3	©1995-2016 Nintendo/Creatures Inc./GAME FREAK inc.	©1995-2016 Nintendo/Creatures Inc./GAME FREAK inc.	
+settings_go_to_support	Help Center	ヘルプセンター	
+settings_are_you_sure_support_prompt	Do you want to leave the game and go to the support website?	サポートWebサイトへ移動します。よろしいですか？	
+levelup_items_unlocked	Items Unlocked	新しい道具が追加されました	
+levelup_sequence_text	Level up!	レベルアップ！	
+pokenav_nearby	NEARBY	近くにいるポケモン	
+pokenav_my_pokedex	MY POKÉDEX	ポケモン図鑑へ	
+admin_name_was_banned	Please select a new username.	使用できないニックネームです	Professor Toast text when the user's name was banned
